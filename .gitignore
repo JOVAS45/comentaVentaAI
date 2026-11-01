@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Artefactos generados (modelo, métricas): no se versionan,
+# se regeneran con `python -m src.pipeline`
+artifacts/*
+!artifacts/.gitkeep
+
+# Datos procesados: se regeneran. Los crudos sí van al repo.
+data/processed/*
+!data/processed/.gitkeep
+
+# Docker / entorno local
+.env
+.env.local
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Logs
+*.log
+
+# Secretos
+*.key
+*.pem
+credentials.json

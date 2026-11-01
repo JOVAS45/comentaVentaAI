@@ -1,0 +1,15 @@
+-r requirements.txt
+
+# Pruebas automatizadas
+pytest==8.3.3
+httpx==0.27.2
+
+# Notebook para análisis exploratorio y experimentos
+jupyterlab==4.3.1
+ipykernel==6.29.5
+matplotlib==3.9.2
+seaborn==0.13.2
+nbconvert==7.16.4
+
+# Generación del dataset (opcional, para llamar a la API de OpenAI)
+openai==1.54.4

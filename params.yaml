@@ -1,0 +1,90 @@
+# Única fuente de verdad para los experimentos.
+# Si cambias un valor acá, reentrenas y la API sirve el modelo nuevo.
+# Comando: `make train` (o `docker compose run --rm trainer python -m src.pipeline`)
+
+seed: 42
+
+data:
+  raw_path: data/raw/comentarios.csv
+  n_samples: 2500          # usado solo por el generador sintético
+  test_size: 0.20          # hold-out estratificado; nunca se usa para tunear
+  min_chars: 1             # textos más cortos se rechazan en la API
+  max_chars: 300           # textos más largos se rechazan en la API
+
+# Las 5 clases de ComentaVenta IA.
+# El orden importa para desempate en comentarios ambiguos:
+# Pedido > Objeción > Pago y envío > Pregunta > Otros
+labels:
+  - Pedido
+  - Objecion
+  - PagoEnvio
+  - Pregunta
+  - Otros
+
+# Distribución objetivo del dataset sintético (imita un live real:
+# muchos "Otros" y menos de las clases accionables).
+class_distribution:
+  Otros: 0.45          # ~1125 comentarios
+  Pregunta: 0.20       # ~500
+  Pedido: 0.15         # ~375
+  PagoEnvio: 0.10      # ~250
+  Objecion: 0.10       # ~250
+
+nlp:
+  # Palabras que quitamos de la lista de stop words de spaCy porque sí aportan
+  # información para la tarea (ej: negaciones y marcadores de pedido/objeción).
+  # El "no" va entre comillas para que YAML no lo interprete como false.
+  keep_words: ["no", "ni", "nunca", "jamás", "nada", "tampoco", "sin",
+               "sí", "si", "yo", "me", "tú", "quiero", "quieres",
+               "muy", "más", "menos", "poco", "mucho", "caro", "barato"]
+  # Palabras del dominio que agregamos como stop words porque aparecen en todas
+  # las clases y son ruido (saludos, interjecciones).
+  extra_stopwords: ["jaja", "jajaja", "jeje", "wow", "amigo", "amiga", "gente"]
+  # Normalización de letras repetidas: "yooooo" -> "yoo" (máx 2 repetidas)
+  max_char_repeat: 2
+  # Diccionario de abreviaturas típicas de chat
+  abbreviations:
+    xfa: por favor
+    xq: porque
+    pq: porque
+    tbn: también
+    tmb: también
+    xd: ""
+    ptm: ""
+    q: que
+    qro: quiero
+    xdd: ""
+
+tfidf:
+  max_features: 5000       # tamaño máximo del vocabulario
+  min_df: 2                # ignorar términos que aparecen en menos de 2 comentarios
+  max_df: 0.90             # ignorar términos que aparecen en más del 90 %
+  sublinear_tf: true       # 1 + log(tf): palabras repetidas no dominan
+
+# Espacio de búsqueda. Cada combinación se evalúa con validación cruzada
+# estratificada sobre el conjunto de entrenamiento; el mejor va a producción.
+experiments:
+  cv_folds: 5
+  scoring: f1_macro        # todas las clases pesan igual, aunque "Otros" sea mayoritaria
+  normalizers: [stem, lemma]
+  stopword_lists: [spacy_full, adjusted]
+  ngram_ranges: [[1, 1], [1, 2]]
+  models:
+    naive_bayes:
+      alpha: [0.1, 0.5, 1.0]
+      fit_prior: [true, false]
+    logistic_regression:
+      C: [0.5, 1.0, 2.0, 5.0]
+      class_weight: [null, balanced]
+
+# Umbral de "baja confianza" en la UI de resultados individuales.
+confidence_threshold: 0.50
+
+# Configuración del modo "Live".
+live:
+  # Modo real: se conecta a TikTok vía TikTokLive.
+  # Modo demo: lee un JSONL de comentarios con timestamps y los reproduce.
+  demo_file: data/raw/demo_live.jsonl
+  # Alertas en la UI cuando se repite mucho una clase en poco tiempo.
+  alert_window_seconds: 60
+  alert_threshold: 8
