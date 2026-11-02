@@ -51,10 +51,9 @@ FRONTEND_PORT=8090
 DB_PORT=5434
 ```
 
-## Modo demostración vs modo real
+## Modo Live
 
-- **Modo demostración:** reproduce un live guardado (`data/raw/demo_live.jsonl`) comentario por comentario con su ritmo original. No requiere internet ni que haya alguien transmitiendo. **Es la vía recomendada para la demo del proyecto.**
-- **Modo real:** se conecta a un live activo de TikTok mediante la librería `TikTokLive`. Requiere que la cuenta `@xxx` esté transmitiendo en el momento. Es una integración experimental y puede fallar si TikTok cambia su API interna o si la cuenta está en una región bloqueada.
+La pantalla principal se conecta a un live activo de TikTok mediante la librería `TikTokLive`. Requiere que la cuenta `@xxx` esté transmitiendo en el momento en que se abre la pantalla; cada comentario del chat se clasifica y aparece en el panel en menos de un segundo.
 
 ## Uso diario
 
@@ -76,9 +75,7 @@ proyecto/
 ├── data/
 │   ├── raw/
 │   │   ├── comentarios.csv       # dataset sintético
-│   │   ├── semillas.json         # comentarios "madre" a mano
-│   │   ├── test_manual.csv       # test set manual
-│   │   └── demo_live.jsonl       # live para modo demo
+│   │   └── semillas.json         # comentarios "madre" a mano
 │   └── README.md                 # origen y diccionario
 ├── db/init.sql                   # esquema PostgreSQL
 ├── notebooks/                    # EDA y experimentos

@@ -1,0 +1,2608 @@
+id,texto,clase,producto,estilo,origen
+1,yo,Pedido,ropa,normal,semilla
+2,yooo el 3,Pedido,ropa,letras_repetidas,semilla
+3,mio,Pedido,ropa,normal,semilla
+4,mio 50,Pedido,accesorios,normal,semilla
+5,mio en 80 bs,Pedido,calzado,normal,semilla
+6,mio el 2 en 120,Pedido,ropa,normal,semilla
+7,lo tomo,Pedido,tecnologia,normal,semilla
+8,me lo separas porfa,Pedido,accesorios,abreviaturas,semilla
+9,lo quiero en negro talla M,Pedido,ropa,normal,semilla
+10,YO QUIERO 2 el rosado y el blanco,Pedido,maquillaje,mayusculas,semilla
+11,resérvame el último porfavor 🙏,Pedido,calzado,emojis,semilla
+12,mio el labial vino,Pedido,maquillaje,normal,semilla
+13,yoo yoo yoo el 5 xfa 😍,Pedido,ropa,mixto,semilla
+14,me lo mandas al Plan 3000,Pedido,calzado,normal,semilla
+15,MIO 200,Pedido,tecnologia,mayusculas,semilla
+16,YO LA CARTERA GRANDE,Pedido,accesorios,mayusculas,semilla
+17,me lo guardas q paso en la tarde,Pedido,ropa,abreviaturas,semilla
+18,siiii yo el combo de 3,Pedido,maquillaje,letras_repetidas,semilla
+19,me lo separas el 7 talla 38,Pedido,calzado,normal,semilla
+20,mio el audífono inalámbrico negro,Pedido,tecnologia,normal,semilla
+21,yo lo quiero,Pedido,ropa,normal,gpt-4o-mini
+22,mío,Pedido,ropa,normal,gpt-4o-mini
+23,me lo llevo,Pedido,ropa,normal,gpt-4o-mini
+24,siii yo,Pedido,ropa,letras_repetidas,gpt-4o-mini
+25,yo el 5,Pedido,ropa,normal,gpt-4o-mini
+26,mío en 80 bs,Pedido,ropa,normal,gpt-4o-mini
+27,yo el rosado,Pedido,ropa,normal,gpt-4o-mini
+28,yo quiero ese,Pedido,ropa,normal,gpt-4o-mini
+29,mío 50,Pedido,ropa,normal,gpt-4o-mini
+30,me lo separas,Pedido,ropa,normal,gpt-4o-mini
+31,quiero el negro,Pedido,ropa,normal,gpt-4o-mini
+32,yo quiero uno,Pedido,ropa,normal,gpt-4o-mini
+33,yo el verde,Pedido,ropa,normal,gpt-4o-mini
+34,lo quiero ya,Pedido,ropa,normal,gpt-4o-mini
+35,mío 100,Pedido,ropa,normal,gpt-4o-mini
+36,yo de una,Pedido,ropa,abreviaturas,gpt-4o-mini
+37,yo quiero ese modelo,Pedido,ropa,normal,gpt-4o-mini
+38,mío en 90 bs,Pedido,ropa,normal,gpt-4o-mini
+39,yooo el 4,Pedido,ropa,letras_repetidas,gpt-4o-mini
+40,mío el 3,Pedido,ropa,normal,gpt-4o-mini
+41,me lo llevo el 2,Pedido,ropa,normal,gpt-4o-mini
+42,lo quiero el 3,Pedido,ropa,normal,gpt-4o-mini
+43,yo el 6,Pedido,ropa,normal,gpt-4o-mini
+44,lo tomo el 7,Pedido,ropa,normal,gpt-4o-mini
+45,mío el 4,Pedido,ropa,normal,gpt-4o-mini
+46,yo el 8,Pedido,ropa,normal,gpt-4o-mini
+47,yooo el 1,Pedido,ropa,letras_repetidas,gpt-4o-mini
+48,me lo separas el 3,Pedido,ropa,normal,gpt-4o-mini
+49,yo el 9,Pedido,ropa,normal,gpt-4o-mini
+50,mío el 5,Pedido,ropa,normal,gpt-4o-mini
+51,quiero el 3,Pedido,ropa,normal,gpt-4o-mini
+52,mío 50 bs,Pedido,ropa,normal,gpt-4o-mini
+53,yo el 10,Pedido,ropa,normal,gpt-4o-mini
+54,siii el 3,Pedido,ropa,letras_repetidas,gpt-4o-mini
+55,lo quiero el 2,Pedido,ropa,normal,gpt-4o-mini
+56,me lo guardas el 3,Pedido,ropa,normal,gpt-4o-mini
+57,mío 100 bs,Pedido,ropa,normal,gpt-4o-mini
+58,yo el negro,Pedido,ropa,normal,gpt-4o-mini
+59,mioo,Pedido,ropa,letras_repetidas,gpt-4o-mini
+60,lo quiero,Pedido,ropa,normal,gpt-4o-mini
+61,me lo guardas,Pedido,ropa,normal,gpt-4o-mini
+62,quiero el azul,Pedido,ropa,normal,gpt-4o-mini
+63,yo lo quiero ya,Pedido,ropa,normal,gpt-4o-mini
+64,mío 80 bs,Pedido,ropa,normal,gpt-4o-mini
+65,yo en M,Pedido,ropa,abreviaturas,gpt-4o-mini
+66,miooooo,Pedido,ropa,letras_repetidas,gpt-4o-mini
+67,quiero ese en talla S,Pedido,ropa,normal,gpt-4o-mini
+68,miio,Pedido,ropa,letras_repetidas,gpt-4o-mini
+69,yo lo quiero plis,Pedido,ropa,abreviaturas,gpt-4o-mini
+70,mío 60 bs,Pedido,accesorios,normal,gpt-4o-mini
+71,yo lo quiero en 50,Pedido,accesorios,normal,gpt-4o-mini
+72,mío en 70,Pedido,accesorios,normal,gpt-4o-mini
+73,yo lo tomo en 50,Pedido,accesorios,normal,gpt-4o-mini
+74,me lo separas por 50?,Pedido,accesorios,abreviaturas,gpt-4o-mini
+75,siiii mio 70,Pedido,accesorios,letras_repetidas,gpt-4o-mini
+76,mío en 50 bolivianos,Pedido,accesorios,normal,gpt-4o-mini
+77,yo el rojo en 50,Pedido,accesorios,normal,gpt-4o-mini
+78,lo quiero en 50 bs,Pedido,accesorios,normal,gpt-4o-mini
+79,me lo guardas en 60 bs,Pedido,accesorios,normal,gpt-4o-mini
+80,quiero eso en 50!,Pedido,accesorios,normal,gpt-4o-mini
+81,"mío 40, xfa",Pedido,accesorios,abreviaturas,gpt-4o-mini
+82,YO LO QUIERO!!!,Pedido,accesorios,mayusculas,gpt-4o-mini
+83,"mío 55, porfa",Pedido,accesorios,abreviaturas,gpt-4o-mini
+84,yoooo en 50,Pedido,accesorios,letras_repetidas,gpt-4o-mini
+85,"mío 30, puedo?",Pedido,accesorios,abreviaturas,gpt-4o-mini
+86,me lo llevo en 50,Pedido,accesorios,normal,gpt-4o-mini
+87,yo en 70 bs,Pedido,calzado,normal,gpt-4o-mini
+88,lo quiero en 80bs,Pedido,calzado,normal,gpt-4o-mini
+89,me lo llevo en 90,Pedido,calzado,normal,gpt-4o-mini
+90,yo lo tomo,Pedido,calzado,normal,gpt-4o-mini
+91,mio en 75,Pedido,calzado,normal,gpt-4o-mini
+92,quiero ese en 80,Pedido,calzado,normal,gpt-4o-mini
+93,yooo en 85 bs,Pedido,calzado,letras_repetidas,gpt-4o-mini
+94,mio 70 bs plis,Pedido,calzado,abreviaturas,gpt-4o-mini
+95,yo en 80,Pedido,calzado,normal,gpt-4o-mini
+96,mío x 80bs,Pedido,calzado,abreviaturas,gpt-4o-mini
+97,mío en 60 bs,Pedido,calzado,normal,gpt-4o-mini
+98,me lo separas en 80,Pedido,calzado,normal,gpt-4o-mini
+99,"siii, en 80bs",Pedido,calzado,letras_repetidas,gpt-4o-mini
+100,yo por 80,Pedido,calzado,normal,gpt-4o-mini
+101,lo quiero en 70bs,Pedido,calzado,normal,gpt-4o-mini
+102,mío en 100 bs,Pedido,ropa,normal,gpt-4o-mini
+103,yo el 4 en 130,Pedido,ropa,normal,gpt-4o-mini
+104,mio 90,Pedido,ropa,normal,gpt-4o-mini
+105,lo quiero el 5 en 115,Pedido,ropa,normal,gpt-4o-mini
+106,yo el 1,Pedido,ropa,letras_repetidas,gpt-4o-mini
+107,mío en 110bs,Pedido,ropa,abreviaturas,gpt-4o-mini
+108,yo en 120,Pedido,ropa,normal,gpt-4o-mini
+109,mio 80,Pedido,ropa,normal,gpt-4o-mini
+110,yo el 2 en 125,Pedido,ropa,normal,gpt-4o-mini
+111,me lo llevooo el 5,Pedido,ropa,letras_repetidas,gpt-4o-mini
+112,quiero el 2 en 100,Pedido,ropa,normal,gpt-4o-mini
+113,mio el 6 en 130,Pedido,ropa,normal,gpt-4o-mini
+114,yo el 2 en 140 bs,Pedido,ropa,normal,gpt-4o-mini
+115,mío 120,Pedido,ropa,normal,gpt-4o-mini
+116,yo el 3 en 115,Pedido,ropa,normal,gpt-4o-mini
+117,lo quiero yaaa,Pedido,tecnologia,letras_repetidas,gpt-4o-mini
+118,mío en 500 bs,Pedido,tecnologia,normal,gpt-4o-mini
+119,reservame uno,Pedido,tecnologia,normal,gpt-4o-mini
+120,yo en 450,Pedido,tecnologia,normal,gpt-4o-mini
+121,yo el blanco,Pedido,tecnologia,normal,gpt-4o-mini
+122,lo quiero plis,Pedido,tecnologia,abreviaturas,gpt-4o-mini
+123,mío porfa,Pedido,tecnologia,abreviaturas,gpt-4o-mini
+124,"yooo, lo quiero",Pedido,tecnologia,letras_repetidas,gpt-4o-mini
+125,reservame el mío,Pedido,tecnologia,normal,gpt-4o-mini
+126,yo en 480,Pedido,tecnologia,normal,gpt-4o-mini
+127,lo tomo ahora,Pedido,tecnologia,normal,gpt-4o-mini
+128,quiero uno,Pedido,tecnologia,normal,gpt-4o-mini
+129,"mío, soy de la Pampa",Pedido,tecnologia,mixto,gpt-4o-mini
+130,"lo quiero, xfa",Pedido,tecnologia,abreviaturas,gpt-4o-mini
+131,me lo guardas plis,Pedido,accesorios,normal,gpt-4o-mini
+132,yo lo quiero xfa,Pedido,accesorios,abreviaturas,gpt-4o-mini
+133,separame uno porfa,Pedido,accesorios,normal,gpt-4o-mini
+134,"lo quiero, me lo separas?",Pedido,accesorios,normal,gpt-4o-mini
+135,reservamelo xfa,Pedido,accesorios,abreviaturas,gpt-4o-mini
+136,me lo separas yaaa,Pedido,accesorios,letras_repetidas,gpt-4o-mini
+137,"yoaaa, separame",Pedido,accesorios,letras_repetidas,gpt-4o-mini
+138,me lo guardas en 50bs?,Pedido,accesorios,normal,gpt-4o-mini
+139,"mio en 60bs, separame",Pedido,accesorios,normal,gpt-4o-mini
+140,"lo quiero, separame uno",Pedido,accesorios,normal,gpt-4o-mini
+141,guardamelo plis,Pedido,accesorios,abreviaturas,gpt-4o-mini
+142,xq no me lo separas?,Pedido,accesorios,abreviaturas,gpt-4o-mini
+143,"lo quiero, separame pls",Pedido,accesorios,mixto,gpt-4o-mini
+144,"yo el negro, lo separas?",Pedido,accesorios,normal,gpt-4o-mini
+145,separame el que está aquí,Pedido,accesorios,normal,gpt-4o-mini
+146,reservame el rosado porfa,Pedido,accesorios,normal,gpt-4o-mini
+147,me lo guardas porfis,Pedido,accesorios,normal,gpt-4o-mini
+148,"separame uno, soy de Warnes",Pedido,accesorios,normal,gpt-4o-mini
+149,yo en negro M,Pedido,ropa,normal,gpt-4o-mini
+150,mío en M color negro,Pedido,ropa,normal,gpt-4o-mini
+151,me lo guardas en negro M?,Pedido,ropa,normal,gpt-4o-mini
+152,quiero ese negro M,Pedido,ropa,normal,gpt-4o-mini
+153,lo tomo en talla M y negro,Pedido,ropa,normal,gpt-4o-mini
+154,siii lo quiero en negro!,Pedido,ropa,letras_repetidas,gpt-4o-mini
+155,yo lo qiero en negro M,Pedido,ropa,letras_repetidas,gpt-4o-mini
+156,mío en 150 bs,Pedido,ropa,normal,gpt-4o-mini
+157,me lo separas en negro talla M,Pedido,ropa,normal,gpt-4o-mini
+158,mio 120 bs talla M,Pedido,ropa,normal,gpt-4o-mini
+159,mío en negro y M,Pedido,ropa,normal,gpt-4o-mini
+160,QUEREMOS EN NEGRO TALLA M!,Pedido,ropa,mayusculas,gpt-4o-mini
+161,yo lo quiero en M negro,Pedido,ropa,normal,gpt-4o-mini
+162,quiero el negro M pls,Pedido,ropa,abreviaturas,gpt-4o-mini
+163,me lo llevo en negro M!,Pedido,ropa,normal,gpt-4o-mini
+164,me lo guardas en M negro? 🤩,Pedido,ropa,mixto,gpt-4o-mini
+165,"mío en negro, cuanto es?",Pedido,ropa,normal,gpt-4o-mini
+166,yo el negro talla M,Pedido,ropa,normal,gpt-4o-mini
+167,mío en negro porfa,Pedido,ropa,abreviaturas,gpt-4o-mini
+168,mío el rosado,Pedido,maquillaje,normal,gpt-4o-mini
+169,"reservame los 2, el blanco y el rosado",Pedido,maquillaje,normal,gpt-4o-mini
+170,"yo quiero 2, porfa",Pedido,maquillaje,abreviaturas,gpt-4o-mini
+171,mio 50 bs el rosado,Pedido,maquillaje,normal,gpt-4o-mini
+172,"siii, lo quiero el rosado y el blanco",Pedido,maquillaje,letras_repetidas,gpt-4o-mini
+173,"me lo separas, el blanco y el rosado",Pedido,maquillaje,normal,gpt-4o-mini
+174,"quiero el rosado y el blanco, plis",Pedido,maquillaje,abreviaturas,gpt-4o-mini
+175,yo el 2 en rosado,Pedido,maquillaje,normal,gpt-4o-mini
+176,"mio, el rosado es mío",Pedido,maquillaje,normal,gpt-4o-mini
+177,"me lo llevo, el blanco y el rosado",Pedido,maquillaje,normal,gpt-4o-mini
+178,yo necesito el rosado yaaa,Pedido,maquillaje,letras_repetidas,gpt-4o-mini
+179,"los 2, el blanco y rosado, porfa",Pedido,maquillaje,abreviaturas,gpt-4o-mini
+180,"mío, 50 bs por los dos",Pedido,maquillaje,normal,gpt-4o-mini
+181,"quiero los de colores, el rosado y el blanco",Pedido,maquillaje,normal,gpt-4o-mini
+182,yo quiero el 2 en blanco,Pedido,maquillaje,normal,gpt-4o-mini
+183,yo lo quiero en rosado,Pedido,maquillaje,normal,gpt-4o-mini
+184,"mio, separame el rosado",Pedido,maquillaje,normal,gpt-4o-mini
+185,me lo guardas plis 🙏,Pedido,calzado,normal,gpt-4o-mini
+186,yo el último xfa 🤞,Pedido,calzado,letras_repetidas,gpt-4o-mini
+187,resevame el último porfa 🙏,Pedido,calzado,abreviaturas,gpt-4o-mini
+188,quiero el único que queda 🙌,Pedido,calzado,normal,gpt-4o-mini
+189,"mío el último, no lo suelten 🙏",Pedido,calzado,mixto,gpt-4o-mini
+190,guardame ese último par xq lo quiero! 🔥,Pedido,calzado,normal,gpt-4o-mini
+191,yo lo quiero yaaa 🙋‍♂️,Pedido,calzado,letras_repetidas,gpt-4o-mini
+192,"mio el último, porfavor 🙏",Pedido,calzado,normal,gpt-4o-mini
+193,"mantenemelo, estoy interesado! 👟",Pedido,calzado,mixto,gpt-4o-mini
+194,"reservame el último, porfa 🙏",Pedido,calzado,normal,gpt-4o-mini
+195,"me lo separas el último, xfa!",Pedido,calzado,abreviaturas,gpt-4o-mini
+196,"yo lo quiero, porfavor 🙏",Pedido,calzado,normal,gpt-4o-mini
+197,"mío el último, necesito eso!",Pedido,calzado,normal,gpt-4o-mini
+198,"quiero el último porfa, estoy en la casa! 🏠",Pedido,calzado,mixto,gpt-4o-mini
+199,mantengan el último par porfa 🙏,Pedido,calzado,normal,gpt-4o-mini
+200,"miooo, quiero ese último 😍",Pedido,calzado,letras_repetidas,gpt-4o-mini
+201,el último lo quiero ya 👍,Pedido,calzado,normal,gpt-4o-mini
+202,"resérenmelo, me encanta! 🙏",Pedido,calzado,normal,gpt-4o-mini
+203,me lo guardan? porfa el último! 🙏,Pedido,calzado,mixto,gpt-4o-mini
+204,yo el labial vino,Pedido,maquillaje,normal,gpt-4o-mini
+205,mío 50 el labial,Pedido,maquillaje,normal,gpt-4o-mini
+206,me lo llevo el labial vino,Pedido,maquillaje,normal,gpt-4o-mini
+207,yo lo quiero el labial en vino,Pedido,maquillaje,normal,gpt-4o-mini
+208,mio el labial en color vino,Pedido,maquillaje,normal,gpt-4o-mini
+209,lo quiero el labial vino,Pedido,maquillaje,normal,gpt-4o-mini
+210,me lo separas el vino,Pedido,maquillaje,abreviaturas,gpt-4o-mini
+211,yo el labial vvvvino,Pedido,maquillaje,letras_repetidas,gpt-4o-mini
+212,mío el labial en 100bs,Pedido,maquillaje,normal,gpt-4o-mini
+213,yo el labial vinoooooo,Pedido,maquillaje,letras_repetidas,gpt-4o-mini
+214,quiero ese labial vino,Pedido,maquillaje,normal,gpt-4o-mini
+215,mío el vino ya!,Pedido,maquillaje,normal,gpt-4o-mini
+216,yo lo quiero en vino,Pedido,maquillaje,normal,gpt-4o-mini
+217,mio 80 el labial,Pedido,maquillaje,normal,gpt-4o-mini
+218,me lo guardas el labial vino?,Pedido,maquillaje,normal,gpt-4o-mini
+219,"yo el vino, xfa",Pedido,maquillaje,abreviaturas,gpt-4o-mini
+220,mío quiero el labial color vino,Pedido,maquillaje,normal,gpt-4o-mini
+221,yo el labial de vinoaa,Pedido,maquillaje,letras_repetidas,gpt-4o-mini
+222,lo tomo el labial en vino,Pedido,maquillaje,normal,gpt-4o-mini
+223,yo el 4 plis 😍,Pedido,ropa,normal,gpt-4o-mini
+224,me lo quedo el 6 xfa 🙌,Pedido,ropa,emojis,gpt-4o-mini
+225,lo quiero el 5 porfa!!,Pedido,ropa,normal,gpt-4o-mini
+226,yooo el 3 xfa 🔥,Pedido,ropa,letras_repetidas,gpt-4o-mini
+227,yo quiero el 7 porfis 😊,Pedido,ropa,normal,gpt-4o-mini
+228,mío el 5 😍😍,Pedido,ropa,emojis,gpt-4o-mini
+229,quiero el 4 plis!,Pedido,ropa,normal,gpt-4o-mini
+230,mío el 6 xq me encanta,Pedido,ropa,abreviaturas,gpt-4o-mini
+231,yo el 8 porfis!!,Pedido,ropa,letras_repetidas,gpt-4o-mini
+232,yo el 5 xfa plis 🙏,Pedido,ropa,emojis,gpt-4o-mini
+233,lo tomo el 3!!,Pedido,ropa,normal,gpt-4o-mini
+234,yo el 2 xfa!!,Pedido,ropa,normal,gpt-4o-mini
+235,me lo separas el 5 porfa 💖,Pedido,ropa,mixto,gpt-4o-mini
+236,yo el 9 porfa,Pedido,ropa,normal,gpt-4o-mini
+237,💥 yo el 1 porfis,Pedido,ropa,emojis,gpt-4o-mini
+238,lo quiero el 5 pls!!,Pedido,ropa,letras_repetidas,gpt-4o-mini
+239,yo el 10 xfa,Pedido,ropa,normal,gpt-4o-mini
+240,mío el 5 🙌,Pedido,ropa,emojis,gpt-4o-mini
+241,yooo el 4 porfa,Pedido,ropa,letras_repetidas,gpt-4o-mini
+242,yo al 3000,Pedido,calzado,normal,gpt-4o-mini
+243,lo quiero y me lo mandas a Pampa,Pedido,calzado,normal,gpt-4o-mini
+244,"quiero ese calzado, mándenme a Villa 1ro",Pedido,calzado,normal,gpt-4o-mini
+245,me lo guardas en 80 bs,Pedido,calzado,normal,gpt-4o-mini
+246,yooo lo quiero en la puerta de mi casa,Pedido,calzado,letras_repetidas,gpt-4o-mini
+247,lo tomo y envían a Cotoca?,Pedido,calzado,mixto,gpt-4o-mini
+248,me lo separas al 4to anillo,Pedido,calzado,normal,gpt-4o-mini
+249,"lo quiero, xfa mándenlo a Warnes",Pedido,calzado,abreviaturas,gpt-4o-mini
+250,"yo, a la Guardia porfa",Pedido,calzado,letras_repetidas,gpt-4o-mini
+251,lo quiero y que sea a domicilio,Pedido,calzado,normal,gpt-4o-mini
+252,mío al 100 bs,Pedido,calzado,normal,gpt-4o-mini
+253,calzado mío y me lo mandas a Montero,Pedido,calzado,normal,gpt-4o-mini
+254,"yo, porfis, al 2do anillo",Pedido,calzado,abreviaturas,gpt-4o-mini
+255,quiero ya y me lo mandan a Palmasola?,Pedido,calzado,mixto,gpt-4o-mini
+256,"mío, solo que me lo lleven a El Alto",Pedido,calzado,normal,gpt-4o-mini
+257,"yo al 80, mándenme",Pedido,calzado,normal,gpt-4o-mini
+258,"me lo guardas, pero en 60 bs",Pedido,calzado,normal,gpt-4o-mini
+259,"mío, entreguen en Satélite Norte",Pedido,calzado,normal,gpt-4o-mini
+260,mío 250,Pedido,tecnologia,normal,gpt-4o-mini
+261,yo lo quiero en 200,Pedido,tecnologia,normal,gpt-4o-mini
+262,yo a 200,Pedido,tecnologia,normal,gpt-4o-mini
+263,lo quiero en 200,Pedido,tecnologia,normal,gpt-4o-mini
+264,mío 220,Pedido,tecnologia,normal,gpt-4o-mini
+265,me lo separas en 200,Pedido,tecnologia,normal,gpt-4o-mini
+266,mío en 190,Pedido,tecnologia,normal,gpt-4o-mini
+267,yooo en 200,Pedido,tecnologia,letras_repetidas,gpt-4o-mini
+268,MÍO 210 BS,Pedido,tecnologia,mayusculas,gpt-4o-mini
+269,reservame en 200,Pedido,tecnologia,normal,gpt-4o-mini
+270,yo lo tomo en 200,Pedido,tecnologia,normal,gpt-4o-mini
+271,miooo 200,Pedido,tecnologia,letras_repetidas,gpt-4o-mini
+272,me lo quedo en 200,Pedido,tecnologia,normal,gpt-4o-mini
+273,yo quiero el de 200,Pedido,tecnologia,normal,gpt-4o-mini
+274,miio 180,Pedido,tecnologia,normal,gpt-4o-mini
+275,"yo en 200, porfa",Pedido,tecnologia,normal,gpt-4o-mini
+276,MIOOO a 200,Pedido,tecnologia,letras_repetidas,gpt-4o-mini
+277,lo tomo a 200 bs,Pedido,tecnologia,normal,gpt-4o-mini
+278,yo la cartera negra,Pedido,accesorios,normal,gpt-4o-mini
+279,yo quiero esa cartera,Pedido,accesorios,normal,gpt-4o-mini
+280,mío la cartera grande,Pedido,accesorios,normal,gpt-4o-mini
+281,LO QUIERO MUCHO,Pedido,accesorios,mayusculas,gpt-4o-mini
+282,me la separas porfa,Pedido,accesorios,abreviaturas,gpt-4o-mini
+283,"siii, yo la quiero",Pedido,accesorios,letras_repetidas,gpt-4o-mini
+284,yo la cartera xfa,Pedido,accesorios,abreviaturas,gpt-4o-mini
+285,"me la guardas, plis",Pedido,accesorios,abreviaturas,gpt-4o-mini
+286,mío en 120,Pedido,accesorios,normal,gpt-4o-mini
+287,quiero la cartera grande,Pedido,accesorios,normal,gpt-4o-mini
+288,yoo la cartera hermosa,Pedido,accesorios,letras_repetidas,gpt-4o-mini
+289,yo el 3,Pedido,accesorios,normal,gpt-4o-mini
+290,quiero esa cartera yaa,Pedido,accesorios,letras_repetidas,gpt-4o-mini
+291,yo la cartera de moda,Pedido,accesorios,normal,gpt-4o-mini
+292,me la reservas?,Pedido,accesorios,normal,gpt-4o-mini
+293,lo quiero para mañana,Pedido,accesorios,normal,gpt-4o-mini
+294,me lo separas para más tarde,Pedido,ropa,normal,gpt-4o-mini
+295,"yo lo quiero, guardamelo",Pedido,ropa,normal,gpt-4o-mini
+296,me lo guardas porfa?,Pedido,ropa,abreviaturas,gpt-4o-mini
+297,RESÉRVAME el de la talla M,Pedido,ropa,mayusculas,gpt-4o-mini
+298,"yo lo quiero, guardamelo xfa",Pedido,ropa,abreviaturas,gpt-4o-mini
+299,"mio el negro, guárdamelo",Pedido,ropa,normal,gpt-4o-mini
+300,"me lo guardas, que tengo q salir",Pedido,ropa,normal,gpt-4o-mini
+301,lo tomo y me lo guardas,Pedido,ropa,normal,gpt-4o-mini
+302,resérvame el que tiene flores,Pedido,ropa,normal,gpt-4o-mini
+303,"yo, separamelo pls",Pedido,ropa,abreviaturas,gpt-4o-mini
+304,"guardamelo, que ya vuelvo!",Pedido,ropa,normal,gpt-4o-mini
+305,mio el de la talla S,Pedido,ropa,normal,gpt-4o-mini
+306,"me lo guardas, tengo q irme",Pedido,ropa,normal,gpt-4o-mini
+307,yo lo quiero! separamelo,Pedido,ropa,letras_repetidas,gpt-4o-mini
+308,mío! porfa guárdamelo,Pedido,ropa,normal,gpt-4o-mini
+309,me lo guardas para más tarde?,Pedido,ropa,normal,gpt-4o-mini
+310,"yo, lo quiero y me lo guardas!",Pedido,ropa,letras_repetidas,gpt-4o-mini
+311,"quiero ese, guárdamelo xfa",Pedido,ropa,abreviaturas,gpt-4o-mini
+312,yo quiero el combo de 3,Pedido,maquillaje,normal,gpt-4o-mini
+313,mio el combo de 3,Pedido,maquillaje,normal,gpt-4o-mini
+314,"me lo llevo, el combo de 3",Pedido,maquillaje,normal,gpt-4o-mini
+315,"lo quiero, combo de 3",Pedido,maquillaje,normal,gpt-4o-mini
+316,"siiii, yo el combo de 3!!!",Pedido,maquillaje,letras_repetidas,gpt-4o-mini
+317,yoo el combo de 3,Pedido,maquillaje,letras_repetidas,gpt-4o-mini
+318,mio 150 bs el combo de 3,Pedido,maquillaje,normal,gpt-4o-mini
+319,"quiero el combo de 3, porfa",Pedido,maquillaje,abreviaturas,gpt-4o-mini
+320,yo el combo de 3 plis,Pedido,maquillaje,abreviaturas,gpt-4o-mini
+321,mio en 200 bs el combo de 3,Pedido,maquillaje,normal,gpt-4o-mini
+322,"lo tomo, el combo de 3",Pedido,maquillaje,normal,gpt-4o-mini
+323,me lo separas? combo de 3,Pedido,maquillaje,normal,gpt-4o-mini
+324,"yo lo quiero, combo de 3",Pedido,maquillaje,normal,gpt-4o-mini
+325,"me lo guardas, combo de 3",Pedido,maquillaje,normal,gpt-4o-mini
+326,QUIERO EL COMBO DE 3!!!,Pedido,maquillaje,mayusculas,gpt-4o-mini
+327,siiii yo el combo de 3 💄💖,Pedido,maquillaje,emojis,gpt-4o-mini
+328,yoo el combo de 3 xfa,Pedido,maquillaje,abreviaturas,gpt-4o-mini
+329,yo el combo de tres,Pedido,maquillaje,normal,gpt-4o-mini
+330,lo quiero el 7 talla 38,Pedido,calzado,normal,gpt-4o-mini
+331,yo el 7 de 38,Pedido,calzado,normal,gpt-4o-mini
+332,mio 120bs talla 38,Pedido,calzado,normal,gpt-4o-mini
+333,reservamelo el 7,Pedido,calzado,normal,gpt-4o-mini
+334,yo lo quiero en 38,Pedido,calzado,normal,gpt-4o-mini
+335,me lo guardas talla 38,Pedido,calzado,normal,gpt-4o-mini
+336,siii yo el 7 talla 38,Pedido,calzado,letras_repetidas,gpt-4o-mini
+337,me lo separan en 38?,Pedido,calzado,normal,gpt-4o-mini
+338,yo 38 pls,Pedido,calzado,abreviaturas,gpt-4o-mini
+339,yo lo quiero yaaa,Pedido,calzado,letras_repetidas,gpt-4o-mini
+340,quiero el 7 talla 38,Pedido,calzado,normal,gpt-4o-mini
+341,mio en 100bs,Pedido,calzado,normal,gpt-4o-mini
+342,me lo separas para el 7,Pedido,calzado,normal,gpt-4o-mini
+343,"yo el 7, muy lindo!",Pedido,calzado,normal,gpt-4o-mini
+344,resérvame el 38 porfa,Pedido,calzado,abreviaturas,gpt-4o-mini
+345,es mío el 7,Pedido,calzado,normal,gpt-4o-mini
+346,lo tomo en talla 38,Pedido,calzado,normal,gpt-4o-mini
+347,yo el 7cm 38,Pedido,calzado,normal,gpt-4o-mini
+348,mio 80bs talla 38,Pedido,calzado,normal,gpt-4o-mini
+349,muy caro,Objecion,ropa,normal,semilla
+350,en el mercado está más barato,Objecion,ropa,normal,semilla
+351,es original?,Objecion,tecnologia,normal,semilla
+352,es estafa?,Objecion,accesorios,normal,semilla
+353,a mi amiga no le llego su pedido,Objecion,maquillaje,normal,semilla
+354,ese precio esta carísimo,Objecion,calzado,normal,semilla
+355,mi vecina compro y le llego fallado,Objecion,ropa,normal,semilla
+356,muy caro xa lo que es,Objecion,ropa,abreviaturas,semilla
+357,DEMASIADO CARO,Objecion,tecnologia,mayusculas,semilla
+358,pedi la semana pasada y nadie me responde,Objecion,accesorios,normal,semilla
+359,en abasto esta la mitad del precio,Objecion,ropa,normal,semilla
+360,no me llegó mi pedido todavia 😡,Objecion,maquillaje,emojis,semilla
+361,aliexpress es mas barato,Objecion,tecnologia,normal,semilla
+362,esta re caroooo,Objecion,calzado,letras_repetidas,semilla
+363,pague y no me enviaron nada,Objecion,ropa,normal,semilla
+364,no es original seguro,Objecion,accesorios,normal,semilla
+365,mi prima dice que lo venden mas barato,Objecion,ropa,normal,semilla
+366,les escribi al privado y nunca contestaron,Objecion,ropa,normal,semilla
+367,muy caro para ser imitacion,Objecion,accesorios,normal,semilla
+368,el precio no vale la pena,Objecion,maquillaje,normal,semilla
+369,está muy caro eso,Objecion,ropa,normal,gpt-4o-mini
+370,"carísimo, no creo que lo compre",Objecion,ropa,normal,gpt-4o-mini
+371,es un poco elevado el precio,Objecion,ropa,normal,gpt-4o-mini
+372,por ese precio hay mejores opciones,Objecion,ropa,normal,gpt-4o-mini
+373,"pucha, está muy alto el costo",Objecion,ropa,normal,gpt-4o-mini
+374,"no sé, me parece que está muy caro",Objecion,ropa,letras_repetidas,gpt-4o-mini
+375,"será original?, pq está re caro",Objecion,ropa,mixto,gpt-4o-mini
+376,por ese precio me voy al mercado,Objecion,ropa,normal,gpt-4o-mini
+377,con ese precio mejor espero,Objecion,ropa,abreviaturas,gpt-4o-mini
+378,"uff, no sé si vale tanto",Objecion,ropa,normal,gpt-4o-mini
+379,hay algo más barato?,Objecion,ropa,normal,gpt-4o-mini
+380,"q feo, no me convence ese precio",Objecion,ropa,abreviaturas,gpt-4o-mini
+381,muy caro para lo que es,Objecion,ropa,normal,gpt-4o-mini
+382,en otros lados lo he visto más barato,Objecion,ropa,normal,gpt-4o-mini
+383,"pq tan caro, acá lo venden más bajo",Objecion,ropa,abreviaturas,gpt-4o-mini
+384,"no sé, en la calle está mucho más bajo",Objecion,ropa,normal,gpt-4o-mini
+385,creo que en el mercado lo consigo más barato,Objecion,ropa,normal,gpt-4o-mini
+386,en otras tiendas lo tienen a menos,Objecion,ropa,normal,gpt-4o-mini
+387,está muy elevado el precio,Objecion,ropa,normal,gpt-4o-mini
+388,mi amiga lo compró mucho más barato,Objecion,ropa,normal,gpt-4o-mini
+389,en Warnes he visto precios menores,Objecion,ropa,normal,gpt-4o-mini
+390,en otros lados está mejor de precio,Objecion,ropa,normal,gpt-4o-mini
+391,"no sé, pero escuché que es muy caro aquí",Objecion,ropa,normal,gpt-4o-mini
+392,"no me convence, he visto a menos el precio",Objecion,ropa,normal,gpt-4o-mini
+393,es puro lo que venden?,Objecion,tecnologia,normal,gpt-4o-mini
+394,es de marca o es basureo?,Objecion,tecnologia,normal,gpt-4o-mini
+395,tiene garantia?,Objecion,tecnologia,normal,gpt-4o-mini
+396,se puede devolver si no funciona?,Objecion,tecnologia,normal,gpt-4o-mini
+397,q tal el quality?,Objecion,tecnologia,abreviaturas,gpt-4o-mini
+398,es original o es copia?,Objecion,tecnologia,normal,gpt-4o-mini
+399,yo tengo dudas de la calidad,Objecion,tecnologia,normal,gpt-4o-mini
+400,a mi amigo no le llegó original,Objecion,tecnologia,normal,gpt-4o-mini
+401,tiene buen rendimiento?,Objecion,tecnologia,normal,gpt-4o-mini
+402,es de verdad o es trucho?,Objecion,tecnologia,normal,gpt-4o-mini
+403,mejor calidad que en el mercado?,Objecion,tecnologia,normal,gpt-4o-mini
+404,q tan original es esto?,Objecion,tecnologia,abreviaturas,gpt-4o-mini
+405,esto es una estafa?,Objecion,accesorios,normal,gpt-4o-mini
+406,no creo que sea original,Objecion,accesorios,normal,gpt-4o-mini
+407,en otros lados está más barato,Objecion,accesorios,normal,gpt-4o-mini
+408,mi amiga compró y le llegó mal,Objecion,accesorios,normal,gpt-4o-mini
+409,"está CARO, ¿no?",Objecion,accesorios,mayusculas,gpt-4o-mini
+410,Demasiado caro para lo que es,Objecion,accesorios,normal,gpt-4o-mini
+411,"no entiendo el precio, xq tan alto?",Objecion,accesorios,abreviaturas,gpt-4o-mini
+412,hay garantía de que llegue bien?,Objecion,accesorios,normal,gpt-4o-mini
+413,¿es de buena calidad o solo publicidad?,Objecion,accesorios,normal,gpt-4o-mini
+414,"pinta a estafa esto, no lo compro",Objecion,accesorios,normal,gpt-4o-mini
+415,"no me convence, ¿tienen buenas referencias?",Objecion,accesorios,normal,gpt-4o-mini
+416,"me suena a broma, no puedo creerlo",Objecion,accesorios,letras_repetidas,gpt-4o-mini
+417,mi hermana compró y nunca le llegó,Objecion,maquillaje,normal,gpt-4o-mini
+418,está caro y tengo miedo xq a mi amiga le fallaron,Objecion,maquillaje,mixto,gpt-4o-mini
+419,"no sé, a mi vecina le llegó tarde",Objecion,maquillaje,normal,gpt-4o-mini
+420,"mejor no, mi amiga pidió y no le llegó nada",Objecion,maquillaje,normal,gpt-4o-mini
+421,"muy arriesgado, a otra amiga le llegó mal",Objecion,maquillaje,normal,gpt-4o-mini
+422,"la verdad, tengo dudas pq a mi amiga nunca le llegó",Objecion,maquillaje,abreviaturas,gpt-4o-mini
+423,¿es seguro comprar? a mi amiga la timaron,Objecion,maquillaje,normal,gpt-4o-mini
+424,"a mi tía le pasó lo mismo, no le llegó",Objecion,maquillaje,normal,gpt-4o-mini
+425,"estoy dudando, a una amiga le llegó fallado",Objecion,maquillaje,mixto,gpt-4o-mini
+426,"no estoy segura, mi amiga perdió su pedido",Objecion,maquillaje,normal,gpt-4o-mini
+427,"no sé qué pensar, a una amiga le fallaron",Objecion,maquillaje,normal,gpt-4o-mini
+428,está muy bonito pero a mi amiga le hicieron mal,Objecion,maquillaje,mixto,gpt-4o-mini
+429,esa oferta está muy cara,Objecion,calzado,normal,gpt-4o-mini
+430,aquí en el mercado está más barato,Objecion,calzado,normal,gpt-4o-mini
+431,demasiado caro para mí,Objecion,calzado,normal,gpt-4o-mini
+432,yo vi algo similar más barato,Objecion,calzado,normal,gpt-4o-mini
+433,pq tan caro? no es de marca o qué?,Objecion,calzado,abreviaturas,gpt-4o-mini
+434,está demasiado elevado el precio,Objecion,calzado,normal,gpt-4o-mini
+435,no creo que valga eso 😕,Objecion,calzado,emojis,gpt-4o-mini
+436,se pasa con el precio!,Objecion,calzado,normal,gpt-4o-mini
+437,a mi me parece excesivo,Objecion,calzado,normal,gpt-4o-mini
+438,super caro para lo que es,Objecion,calzado,normal,gpt-4o-mini
+439,"uff, está muy elevado ese precio",Objecion,calzado,normal,gpt-4o-mini
+440,no es original? con ese precio dudo,Objecion,calzado,normal,gpt-4o-mini
+441,"muy caro, no confío",Objecion,ropa,normal,gpt-4o-mini
+442,"no sé, a mi amiga no le llegó",Objecion,ropa,normal,gpt-4o-mini
+443,y si me llega mal?,Objecion,ropa,normal,gpt-4o-mini
+444,mi hermana compró y le llegó diferente,Objecion,ropa,normal,gpt-4o-mini
+445,le tengo miedo a los envíos,Objecion,ropa,normal,gpt-4o-mini
+446,es original o es bailable?,Objecion,ropa,normal,gpt-4o-mini
+447,"no me arriesgo, ya me pasó",Objecion,ropa,normal,gpt-4o-mini
+448,quién me asegura que me llega bien?,Objecion,ropa,normal,gpt-4o-mini
+449,he leído que llegan mal,Objecion,ropa,normal,gpt-4o-mini
+450,"no me convence, he leído reseñas malas",Objecion,ropa,normal,gpt-4o-mini
+451,xq el precio tan alto? tengo miedo de que llegue mal,Objecion,ropa,abreviaturas,gpt-4o-mini
+452,dudas... a mi prima le llegó en mal estado,Objecion,ropa,normal,gpt-4o-mini
+453,siento que está muy caro,Objecion,ropa,normal,gpt-4o-mini
+454,es muy alto el precio,Objecion,ropa,normal,gpt-4o-mini
+455,no creo que valga eso,Objecion,ropa,normal,gpt-4o-mini
+456,aquí en el mercado está más bajo,Objecion,ropa,normal,gpt-4o-mini
+457,"no sé, pero me parece caro",Objecion,ropa,abreviaturas,gpt-4o-mini
+458,🥵 está muy elevado el precio!,Objecion,ropa,emojis,gpt-4o-mini
+459,😟 yo lo veo caro,Objecion,ropa,emojis,gpt-4o-mini
+460,"no estoy seguro, precio elevado",Objecion,ropa,normal,gpt-4o-mini
+461,"uy, está costoso",Objecion,ropa,normal,gpt-4o-mini
+462,"es caro, la verdad",Objecion,ropa,normal,gpt-4o-mini
+463,CARO para lo que es,Objecion,ropa,mayusculas,gpt-4o-mini
+464,muy caro para mi presupuesto,Objecion,tecnologia,normal,gpt-4o-mini
+465,"pucha, eso está carísimo",Objecion,tecnologia,normal,gpt-4o-mini
+466,"no sé, creo que es un poco alto el precio",Objecion,tecnologia,normal,gpt-4o-mini
+467,"ufff, demasiado precio",Objecion,tecnologia,letras_repetidas,gpt-4o-mini
+468,es un poco fuera de mi alcance,Objecion,tecnologia,normal,gpt-4o-mini
+469,en la tienda está mejor precio,Objecion,tecnologia,normal,gpt-4o-mini
+470,"está caro, no creo que lo pueda comprar",Objecion,tecnologia,normal,gpt-4o-mini
+471,"mejor lo busco más barato, xq está muy caro",Objecion,tecnologia,abreviaturas,gpt-4o-mini
+472,"compren si quieren, pero yo no",Objecion,tecnologia,normal,gpt-4o-mini
+473,"caro, que no lo vale",Objecion,tecnologia,normal,gpt-4o-mini
+474,precios muy altos para mí,Objecion,tecnologia,normal,gpt-4o-mini
+475,¿por qué tan caro?,Objecion,tecnologia,normal,gpt-4o-mini
+476,hice mi pedido y no me dicen nada,Objecion,accesorios,normal,gpt-4o-mini
+477,ya pasaron días y no tengo respuesta,Objecion,accesorios,normal,gpt-4o-mini
+478,"a mi amiga le pasó lo mismo, no llegó",Objecion,accesorios,normal,gpt-4o-mini
+479,"pq no contestan?, ya estoy preocupado",Objecion,accesorios,abreviaturas,gpt-4o-mini
+480,esperando respuesta y nada!!!,Objecion,accesorios,letras_repetidas,gpt-4o-mini
+481,pedi y no me dicen ni pío,Objecion,accesorios,normal,gpt-4o-mini
+482,ya van 3 días sin news de mi pedido,Objecion,accesorios,normal,gpt-4o-mini
+483,hice mi compra hace rato y no sé nada,Objecion,accesorios,normal,gpt-4o-mini
+484,"muy mala atención, no contestan",Objecion,accesorios,normal,gpt-4o-mini
+485,pedi hace tiempo y nadie se mueve,Objecion,accesorios,normal,gpt-4o-mini
+486,xq no responden? estoy en la espera,Objecion,accesorios,abreviaturas,gpt-4o-mini
+487,"muy mal servicio, no me llegó nada",Objecion,accesorios,normal,gpt-4o-mini
+488,"está muy caro, en otros lugares lo encuentras más barato",Objecion,ropa,normal,gpt-4o-mini
+489,pq tan caro? en el mercado lo consigo más barato,Objecion,ropa,abreviaturas,gpt-4o-mini
+490,mi amiga compró algo similar y le salió solo 100 bs,Objecion,ropa,normal,gpt-4o-mini
+491,"es un poco caro, en los ferias lo venden más económico",Objecion,ropa,normal,gpt-4o-mini
+492,a mi me salió mucho más barato en abasto,Objecion,ropa,mixto,gpt-4o-mini
+493,yo vi en el abasto a menos de la mitad de esto,Objecion,ropa,normal,gpt-4o-mini
+494,"no sé, pero me parece un poco excesivo el precio",Objecion,ropa,normal,gpt-4o-mini
+495,"la verdad que está caro, tengo que buscar en otro lado",Objecion,ropa,normal,gpt-4o-mini
+496,mi prima compró algo parecido y le costó 150 bs,Objecion,ropa,normal,gpt-4o-mini
+497,"muy caro, la verdad no me convence este precio",Objecion,ropa,normal,gpt-4o-mini
+498,"bueno, no creo que valga eso, en la feria lo vi más barato",Objecion,ropa,normal,gpt-4o-mini
+499,"q caro, en el 2do anillo hay por menos",Objecion,ropa,abreviaturas,gpt-4o-mini
+500,"no confío, a mi amiga le fallaron 😩",Objecion,maquillaje,normal,gpt-4o-mini
+501,xq no llega mi pedido? 😒,Objecion,maquillaje,abreviaturas,gpt-4o-mini
+502,me dijeron q llegaba hoy y nada 😡,Objecion,maquillaje,normal,gpt-4o-mini
+503,a mi vecina no le llegó tampoco 😩,Objecion,maquillaje,normal,gpt-4o-mini
+504,"mejor no compro, ya pasó un mes 😤",Objecion,maquillaje,normal,gpt-4o-mini
+505,"chicos, hay muchos reclamos por esto? 🤔",Objecion,maquillaje,normal,gpt-4o-mini
+506,"no me llegó y ya pagué, q mal 😠",Objecion,maquillaje,normal,gpt-4o-mini
+507,"muy malo lo de los envíos, la verdad 😡",Objecion,maquillaje,normal,gpt-4o-mini
+508,no me llega y estoy preocupada 😟,Objecion,maquillaje,letras_repetidas,gpt-4o-mini
+509,"no llego mi pedido, muy tardado 😒",Objecion,maquillaje,normal,gpt-4o-mini
+510,hace días espero y nada 😤,Objecion,maquillaje,letras_repetidas,gpt-4o-mini
+511,"no confío en la entrega, ya es mucho 😠",Objecion,maquillaje,normal,gpt-4o-mini
+512,en el mercado lo consigo más barato,Objecion,tecnologia,normal,gpt-4o-mini
+513,yo vi en internet más económico,Objecion,tecnologia,normal,gpt-4o-mini
+514,pero en otras tiendas está más bajo el precio,Objecion,tecnologia,normal,gpt-4o-mini
+515,en Aliexpress hay ofertas más tentadoras,Objecion,tecnologia,normal,gpt-4o-mini
+516,"es re caro, en otros lados está más barato",Objecion,tecnologia,letras_repetidas,gpt-4o-mini
+517,"no sé, creo que en otra parte lo encuentro más barato",Objecion,tecnologia,normal,gpt-4o-mini
+518,a mi me parece que es caro,Objecion,tecnologia,normal,gpt-4o-mini
+519,en Ali está mucho más accesible,Objecion,tecnologia,abreviaturas,gpt-4o-mini
+520,hay otras opciones más baratas por ahí,Objecion,tecnologia,normal,gpt-4o-mini
+521,pq tan caro si hay de oferta?,Objecion,tecnologia,abreviaturas,gpt-4o-mini
+522,me da desconfianza el precio,Objecion,tecnologia,normal,gpt-4o-mini
+523,está re caro para mi presupuesto,Objecion,tecnologia,normal,gpt-4o-mini
+524,muy caro la verdad 😒,Objecion,calzado,normal,gpt-4o-mini
+525,"no se, pero me parece q está demasiado caro",Objecion,calzado,normal,gpt-4o-mini
+526,"pucha, a ese precio me voy mejor a otro lado",Objecion,calzado,normal,gpt-4o-mini
+527,"q caro, en el mercado están más baratos",Objecion,calzado,abreviaturas,gpt-4o-mini
+528,y eso es original? por ese precio?,Objecion,calzado,normal,gpt-4o-mini
+529,creo que está muy elevado el precio,Objecion,calzado,normal,gpt-4o-mini
+530,"esta muy caroo, no será un poco exagerado?",Objecion,calzado,letras_repetidas,gpt-4o-mini
+531,"no tengo tanta plata, está muyyy caro",Objecion,calzado,normal,gpt-4o-mini
+532,"si, pero el costo está fuera de mi presupuesto",Objecion,calzado,normal,gpt-4o-mini
+533,"no sé, me parece que lo están basureando con ese precio",Objecion,calzado,normal,gpt-4o-mini
+534,"mejor voy a buscar algo más accesible, está caro",Objecion,calzado,normal,gpt-4o-mini
+535,no creo que justifique ese precio por unos zapatos,Objecion,calzado,normal,gpt-4o-mini
+536,muy caro y no llega,Objecion,ropa,normal,gpt-4o-mini
+537,es mucho y no me llegó nada,Objecion,ropa,normal,gpt-4o-mini
+538,"q mal, ya pagué y nada",Objecion,ropa,abreviaturas,gpt-4o-mini
+539,"fui estafado, nunca me enviaron",Objecion,ropa,normal,gpt-4o-mini
+540,mi amiga también pagó y no le llegó,Objecion,ropa,normal,gpt-4o-mini
+541,ya pagué y todavía no tengo el pedido,Objecion,ropa,normal,gpt-4o-mini
+542,"y si no me lo envían, qué hago?",Objecion,ropa,normal,gpt-4o-mini
+543,"no sé, mi vecina me dijo que no le llegó",Objecion,ropa,normal,gpt-4o-mini
+544,pague y no tengo ni rastro del pedido,Objecion,ropa,normal,gpt-4o-mini
+545,"esto es un basureo, ya pagué y nada",Objecion,ropa,normal,gpt-4o-mini
+546,tanta plata y nada en la puerta,Objecion,ropa,letras_repetidas,gpt-4o-mini
+547,"espero que no me pase lo mismo, yo estoy asustado",Objecion,ropa,normal,gpt-4o-mini
+548,seguro es copia,Objecion,accesorios,normal,gpt-4o-mini
+549,me parece que no es original,Objecion,accesorios,normal,gpt-4o-mini
+550,"no es 100% original, verdad?",Objecion,accesorios,normal,gpt-4o-mini
+551,es replica o original?,Objecion,accesorios,abreviaturas,gpt-4o-mini
+552,no se ve original para nada,Objecion,accesorios,normal,gpt-4o-mini
+553,puede ser que sea falso,Objecion,accesorios,normal,gpt-4o-mini
+554,hay formas de comprobar si es original?,Objecion,accesorios,normal,gpt-4o-mini
+555,en otros lados lo vi más barato y no era original,Objecion,accesorios,mixto,gpt-4o-mini
+556,esto parece un basureo,Objecion,accesorios,mixto,gpt-4o-mini
+557,"muy dudoso, xq parece copia",Objecion,accesorios,abreviaturas,gpt-4o-mini
+558,dudo que sea original,Objecion,accesorios,normal,gpt-4o-mini
+559,"me parece caro, en la tienda está más barato",Objecion,ropa,normal,gpt-4o-mini
+560,mi amiga compró algo similar y le salió más barato,Objecion,ropa,normal,gpt-4o-mini
+561,"en otro lado lo vi más barato, xq tan caro?",Objecion,ropa,abreviaturas,gpt-4o-mini
+562,"esta ropa está muy cara, la misma en Pampa lo venden más bajo",Objecion,ropa,normal,gpt-4o-mini
+563,"no sé, en Equipetrol está más accesible",Objecion,ropa,normal,gpt-4o-mini
+564,"creo que en el mercado lo consigo más barato, porqe tan alto?",Objecion,ropa,abreviaturas,gpt-4o-mini
+565,"mi hermana compró y le salió más barato, 😕",Objecion,ropa,emojis,gpt-4o-mini
+566,"esto está caro, hay un lugar en Warnes que lo vende más a buen precio",Objecion,ropa,normal,gpt-4o-mini
+567,"me parece que en Cotoca sale más económico, xq?",Objecion,ropa,abreviaturas,gpt-4o-mini
+568,me están diciendo que por el mismo estilo en La Paz sale menos,Objecion,ropa,normal,gpt-4o-mini
+569,"la verdad, muy caro, en Montero lo he visto más asequible",Objecion,ropa,normal,gpt-4o-mini
+570,"está un poco caro, tengo que ver en otros lados primero",Objecion,ropa,normal,gpt-4o-mini
+571,no respondieron mi mensaje 😡,Objecion,ropa,normal,gpt-4o-mini
+572,"les mandé un mensaje y nada, muy mal 👎",Objecion,ropa,emojis,gpt-4o-mini
+573,porqe no contestan en privado?,Objecion,ropa,abreviaturas,gpt-4o-mini
+574,espero su respuesta desde hace rato,Objecion,ropa,normal,gpt-4o-mini
+575,les escribí y ni un visto 😕,Objecion,ropa,emojis,gpt-4o-mini
+576,"estoy esperando su respuesta, no puede ser!",Objecion,ropa,normal,gpt-4o-mini
+577,"aún no me contestan, q está pasando?",Objecion,ropa,abreviaturas,gpt-4o-mini
+578,no tengo respuesta y ya estoy molesto,Objecion,ropa,normal,gpt-4o-mini
+579,"hace tiempo les escribí, deberían contestar",Objecion,ropa,normal,gpt-4o-mini
+580,"muy mal servicio, pq no contestan?",Objecion,ropa,normal,gpt-4o-mini
+581,les envié un mensaje y ni siquiera un visto,Objecion,ropa,normal,gpt-4o-mini
+582,"porqe no me contestan en el privado, xfa?",Objecion,ropa,abreviaturas,gpt-4o-mini
+583,caro para ser copia,Objecion,accesorios,normal,gpt-4o-mini
+584,no creo que valga eso siendo imitación,Objecion,accesorios,normal,gpt-4o-mini
+585,qué alto el precio si es una réplica,Objecion,accesorios,normal,gpt-4o-mini
+586,me parece muy costoso por ser imitación,Objecion,accesorios,normal,gpt-4o-mini
+587,está muy elevado para un accesorio falso,Objecion,accesorios,normal,gpt-4o-mini
+588,"eso es demasiado caro, es solo una copia",Objecion,accesorios,normal,gpt-4o-mini
+589,"no sé, muy caro para ser fake",Objecion,accesorios,normal,gpt-4o-mini
+590,siento que me están basureando con el precio,Objecion,accesorios,abreviaturas,gpt-4o-mini
+591,"no me convence, está carísimo por ser imitación",Objecion,accesorios,normal,gpt-4o-mini
+592,por ese precio debería ser original,Objecion,accesorios,normal,gpt-4o-mini
+593,"me parece un robo, siendo una imitación",Objecion,accesorios,normal,gpt-4o-mini
+594,"para ser una copia, cuesta un montón",Objecion,accesorios,normal,gpt-4o-mini
+595,creo que está un poco elevado el precio,Objecion,maquillaje,abreviaturas,gpt-4o-mini
+596,aceptan QR?,PagoEnvio,ropa,normal,semilla
+597,envian a Montero?,PagoEnvio,ropa,normal,semilla
+598,cuanto el delivery al 2do anillo?,PagoEnvio,calzado,normal,semilla
+599,donde esta la tienda?,PagoEnvio,accesorios,normal,semilla
+600,aceptas tigo money?,PagoEnvio,ropa,normal,semilla
+601,ENVIAN A COCHABAMBA?,PagoEnvio,maquillaje,mayusculas,semilla
+602,aceptas transferencia bancaria?,PagoEnvio,tecnologia,normal,semilla
+603,cuanto el envio a Warnes?,PagoEnvio,ropa,normal,semilla
+604,pago contra entrega?,PagoEnvio,calzado,normal,semilla
+605,cuanto tarda en llegar a la Guardia?,PagoEnvio,accesorios,normal,semilla
+606,aceptan efectivo tbn?,PagoEnvio,ropa,abreviaturas,semilla
+607,donde los puedo recoger?,PagoEnvio,maquillaje,normal,semilla
+608,mandas a el alto la paz?,PagoEnvio,tecnologia,normal,semilla
+609,cuanto el envio pq vivo en pampa?,PagoEnvio,ropa,abreviaturas,semilla
+610,aceptas yape? 💳,PagoEnvio,accesorios,emojis,semilla
+611,mandas a santa cruz centro?,PagoEnvio,ropa,normal,semilla
+612,cuanto cuesta mandar al norte?,PagoEnvio,tecnologia,normal,semilla
+613,aceptan tarjeta de credito?,PagoEnvio,ropa,normal,semilla
+614,la direccion de la tienda plis,PagoEnvio,maquillaje,abreviaturas,semilla
+615,cuanto el envio al Urubó?,PagoEnvio,accesorios,normal,semilla
+616,aceptan Tigo Money?,PagoEnvio,ropa,normal,gpt-4o-mini
+617,hacen envíos a La Guardia?,PagoEnvio,ropa,normal,gpt-4o-mini
+618,pq no aceptan QR?,PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+619,cuanto el delivery hasta Pampa de la Isla?,PagoEnvio,ropa,normal,gpt-4o-mini
+620,me pueden confirmar si aceptan efectivo?,PagoEnvio,ropa,normal,gpt-4o-mini
+621,puedo pagar contra entrega?,PagoEnvio,ropa,normal,gpt-4o-mini
+622,aceptan pago por QR o solo en efectivo?,PagoEnvio,ropa,normal,gpt-4o-mini
+623,hay alguna opción de pago online?,PagoEnvio,ropa,normal,gpt-4o-mini
+624,"envían a Montero, xfa?",PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+625,Tigo Money si o no?,PagoEnvio,ropa,letras_repetidas,gpt-4o-mini
+626,"y el envío a Equipetrol, cuanto sale?",PagoEnvio,ropa,normal,gpt-4o-mini
+627,cuanto tiempo tarda el delivery?,PagoEnvio,ropa,normal,gpt-4o-mini
+628,hacen envios a Monterooo?,PagoEnvio,ropa,letras_repetidas,gpt-4o-mini
+629,cuanto sale el delivery a Montero?,PagoEnvio,ropa,normal,gpt-4o-mini
+630,aceptan pago contra entrega en Montero?,PagoEnvio,ropa,normal,gpt-4o-mini
+631,envian por Tigo Money a Monterito?,PagoEnvio,ropa,mixto,gpt-4o-mini
+632,pueden enviar a mi casa en Montero?,PagoEnvio,ropa,normal,gpt-4o-mini
+633,aceptan QR para Montero?,PagoEnvio,ropa,normal,gpt-4o-mini
+634,"que tal, envian a Montero o no?",PagoEnvio,ropa,normal,gpt-4o-mini
+635,"hey, cuanto es el envío a Monterooo?",PagoEnvio,ropa,letras_repetidas,gpt-4o-mini
+636,hay entrega a Montero?,PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+637,cuanto tardo en recibir en Montero?,PagoEnvio,ropa,normal,gpt-4o-mini
+638,me lo envian a Monterito?,PagoEnvio,ropa,mixto,gpt-4o-mini
+639,tienen delivery a Montero?,PagoEnvio,ropa,normal,gpt-4o-mini
+640,cuanto sale el envío a Warnes?,PagoEnvio,calzado,normal,gpt-4o-mini
+641,"delivery a 4to anillo, cuanto?",PagoEnvio,calzado,normal,gpt-4o-mini
+642,cuanto es la entrega a Equipetrol?,PagoEnvio,calzado,normal,gpt-4o-mini
+643,envían a La Guardia? y cuanto es?,PagoEnvio,calzado,normal,gpt-4o-mini
+644,cuantoo el delivery a Pampa de la Isla?,PagoEnvio,calzado,letras_repetidas,gpt-4o-mini
+645,pq no me dicen el costo del envío a Cotoca?,PagoEnvio,calzado,abreviaturas,gpt-4o-mini
+646,cuánto es el delivery al 2do anillo??,PagoEnvio,calzado,letras_repetidas,gpt-4o-mini
+647,"envío a Urubó, cuanto me sale?",PagoEnvio,calzado,normal,gpt-4o-mini
+648,envían a Villa 1ro de Mayo? cuanto cuesta?,PagoEnvio,calzado,normal,gpt-4o-mini
+649,pueden decirme el costo de envío a Montero?,PagoEnvio,calzado,normal,gpt-4o-mini
+650,cuanto al 2do anillo? me interesa,PagoEnvio,calzado,normal,gpt-4o-mini
+651,que precio tiene el delivery a mi casa?,PagoEnvio,calzado,normal,gpt-4o-mini
+652,donde puedo recoger?,PagoEnvio,accesorios,normal,gpt-4o-mini
+653,hay delivery a La Guardia?,PagoEnvio,accesorios,normal,gpt-4o-mini
+654,cual es el costo de envio?,PagoEnvio,accesorios,normal,gpt-4o-mini
+655,tienen en Equipetrol?,PagoEnvio,accesorios,normal,gpt-4o-mini
+656,se puede pagar contra entrega?,PagoEnvio,accesorios,normal,gpt-4o-mini
+657,a cuanto sale el delivery?,PagoEnvio,accesorios,normal,gpt-4o-mini
+658,en que parte están ubicados?,PagoEnvio,accesorios,normal,gpt-4o-mini
+659,cuanto tiempo tarda en llegar?,PagoEnvio,accesorios,normal,gpt-4o-mini
+660,envían a 4to anillo?,PagoEnvio,accesorios,normal,gpt-4o-mini
+661,donde puedo ir a ver?,PagoEnvio,accesorios,normal,gpt-4o-mini
+662,cuanto cobran por el envío?,PagoEnvio,accesorios,normal,gpt-4o-mini
+663,envían a Pampa de la Isla?,PagoEnvio,ropa,normal,gpt-4o-mini
+664,aceptan QR para pago?,PagoEnvio,ropa,normal,gpt-4o-mini
+665,como se hace el delivery?,PagoEnvio,ropa,normal,gpt-4o-mini
+666,cuanto es el delivery a Cotoca?,PagoEnvio,ropa,normal,gpt-4o-mini
+667,"aceptan Tigo Money, porfa?",PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+668,cuanto el envío a Warnes?,PagoEnvio,ropa,normal,gpt-4o-mini
+669,hay envío a 4to anillo?,PagoEnvio,ropa,normal,gpt-4o-mini
+670,puedo pagar en efectivo?,PagoEnvio,ropa,normal,gpt-4o-mini
+671,hay envío a Villa 1ro de Mayo?,PagoEnvio,ropa,normal,gpt-4o-mini
+672,¿pago con Tigo Money también?,PagoEnvio,ropa,normal,gpt-4o-mini
+673,"TIGO MONEY, xfa?",PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+674,¿Hacen envíos a Tarija?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+675,¿Cuánto sale el delivery a La Paz?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+676,¿Envían a Montero?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+677,aceptan envios a El Alto?,PagoEnvio,maquillaje,abreviaturas,gpt-4o-mini
+678,¿Entregan en Equipetrol?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+679,envían a Warnes? xfa,PagoEnvio,maquillaje,abreviaturas,gpt-4o-mini
+680,cuanto el delivery a 4to anillo?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+681,¿Envían a Villa 1ro de Mayo?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+682,quien hace el envio a Pampa de la Isla?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+683,¿Aceptan Tigo Money para envios?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+684,ENVIAN A SATÉLITE NORTE?,PagoEnvio,maquillaje,mayusculas,gpt-4o-mini
+685,¿Hay entrega a Palmasola?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+686,recibo el pago en efectivo?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+687,cuanto cuesta el delivery?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+688,puedo pagar con QR?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+689,cuánto cobran por el envío?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+690,hay forma de pagar en cuotas?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+691,"plis, aceptan tarjeta?",PagoEnvio,tecnologia,abreviaturas,gpt-4o-mini
+692,aceptan efectivo x la entrega?,PagoEnvio,tecnologia,abreviaturas,gpt-4o-mini
+693,puedo pagar en 2 partes?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+694,tienen entregas a domicilio?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+695,"envían a Warnes, xfa?",PagoEnvio,tecnologia,abreviaturas,gpt-4o-mini
+696,cuanto sale el delivery a Warnes?,PagoEnvio,ropa,normal,gpt-4o-mini
+697,"envío a Warnes, cuanto es?",PagoEnvio,ropa,normal,gpt-4o-mini
+698,cuanto el envió a warnes??,PagoEnvio,ropa,normal,gpt-4o-mini
+699,cuanto el delivery porfa?,PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+700,cuanto me sale el envío a warnes?,PagoEnvio,ropa,normal,gpt-4o-mini
+701,cuanto d elivery a Warnes?,PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+702,se puede enviar a Warnes? q costo?,PagoEnvio,ropa,normal,gpt-4o-mini
+703,😳 cuanto el envió a Warnes?,PagoEnvio,ropa,emojis,gpt-4o-mini
+704,cuanto por el envio a warnes?,PagoEnvio,ropa,normal,gpt-4o-mini
+705,cual es el costo de envío a Warnes?,PagoEnvio,ropa,normal,gpt-4o-mini
+706,cuantooo el delivery a warness?,PagoEnvio,ropa,letras_repetidas,gpt-4o-mini
+707,envían a Warnes? y a cuanto?,PagoEnvio,ropa,normal,gpt-4o-mini
+708,aceptan pago contra entrega?,PagoEnvio,calzado,normal,gpt-4o-mini
+709,pueden enviarme a mi casa y pagar en efectivo?,PagoEnvio,calzado,normal,gpt-4o-mini
+710,se puede pagar con Tigo Money?,PagoEnvio,calzado,normal,gpt-4o-mini
+711,cuanto sale el envío a Cotoca?,PagoEnvio,calzado,normal,gpt-4o-mini
+712,hay entrega a domicilio?,PagoEnvio,calzado,normal,gpt-4o-mini
+713,el delivery como se paga?,PagoEnvio,calzado,abreviaturas,gpt-4o-mini
+714,paga x QR?,PagoEnvio,calzado,abreviaturas,gpt-4o-mini
+715,puedo pagar en efectivo al recibir?,PagoEnvio,calzado,normal,gpt-4o-mini
+716,y el costo del delivery cuanto es?,PagoEnvio,calzado,normal,gpt-4o-mini
+717,pagamos contra entrega verdad?,PagoEnvio,calzado,letras_repetidas,gpt-4o-mini
+718,se puede hacer envío a La Guardia?,PagoEnvio,calzado,normal,gpt-4o-mini
+719,pago cuando me lo traen?,PagoEnvio,calzado,normal,gpt-4o-mini
+720,cuanto tiempo llega a Pampa de la Isla?,PagoEnvio,accesorios,normal,gpt-4o-mini
+721,en cuanto me llega a Equipetrol?,PagoEnvio,accesorios,normal,gpt-4o-mini
+722,cuanto tardan en enviar a Montero?,PagoEnvio,accesorios,normal,gpt-4o-mini
+723,cuánto demora el delivery a Villa 1ro de Mayo?,PagoEnvio,accesorios,normal,gpt-4o-mini
+724,llega rápido a Cotoca?,PagoEnvio,accesorios,normal,gpt-4o-mini
+725,cuánto es el tiempo de entrega a La Guardia?,PagoEnvio,accesorios,normal,gpt-4o-mini
+726,cuanto tarda el envío a 4to anillo?,PagoEnvio,accesorios,normal,gpt-4o-mini
+727,cuanto demora a Warnes?,PagoEnvio,accesorios,normal,gpt-4o-mini
+728,envían a Santa Cruz en cuánto tiempo?,PagoEnvio,accesorios,normal,gpt-4o-mini
+729,cuanto xfa a Satélite Norte?,PagoEnvio,accesorios,abreviaturas,gpt-4o-mini
+730,cuánto se tarda en llegar a Urubó?,PagoEnvio,accesorios,normal,gpt-4o-mini
+731,cúanto tarda el envio a mi casa?,PagoEnvio,accesorios,normal,gpt-4o-mini
+732,contra entrega se puede?,PagoEnvio,ropa,normal,gpt-4o-mini
+733,q tal el delivery?,PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+734,envían a Villa 1ro de Mayo?,PagoEnvio,ropa,normal,gpt-4o-mini
+735,aceptan efectivo o solo QR?,PagoEnvio,ropa,normal,gpt-4o-mini
+736,cuanto me sale el envío?,PagoEnvio,ropa,normal,gpt-4o-mini
+737,aceptan transferencia bancaria?,PagoEnvio,ropa,normal,gpt-4o-mini
+738,enviarán a Pampa de la Isla?,PagoEnvio,ropa,normal,gpt-4o-mini
+739,¿es posible pagar contra entrega?,PagoEnvio,ropa,normal,gpt-4o-mini
+740,"hay envío gratis, xfa?",PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+741,cuánto cuesta el delivery hasta Warnes?,PagoEnvio,ropa,normal,gpt-4o-mini
+742,donde puedo ir a buscar?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+743,donde los recojo?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+744,donde están para recoger?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+745,pde decirme donde recoger?,PagoEnvio,maquillaje,abreviaturas,gpt-4o-mini
+746,DONDE LOS PUEDO RECOGER???,PagoEnvio,maquillaje,mayusculas,gpt-4o-mini
+747,cuándo puedo ir a recoger?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+748,hay algún lugar para recoger?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+749,recogida en tienda o a domicilio?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+750,hay puntos de recolección?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+751,xq no dicen donde se recoge? 🤔,PagoEnvio,maquillaje,mixto,gpt-4o-mini
+752,cuánto tiempo tengo para recoger?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+753,se puede recoger en Cotoca?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+754,hacen envíos a Cochabamba?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+755,aseguran entrega a Tarija?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+756,envían a Montero?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+757,cuanto cuesta el delivery a Villa 1ro de Mayo?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+758,aceptan Tigo Money para Cobija?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+759,hay opción de envío a Pampa de la Isla?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+760,puedo pagar contra entrega en Equipetrol?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+761,mandan a 4to anillo?,PagoEnvio,tecnologia,abreviaturas,gpt-4o-mini
+762,envían a La Guardia?,PagoEnvio,tecnologia,abreviaturas,gpt-4o-mini
+763,habrá envío a Palmasola?,PagoEnvio,tecnologia,letras_repetidas,gpt-4o-mini
+764,¿xq no envían a El Alto?,PagoEnvio,tecnologia,letras_repetidas,gpt-4o-mini
+765,cuanto me saldría el delivery a la Guardia?,PagoEnvio,ropa,normal,gpt-4o-mini
+766,el envio a Urubó cuanto es?,PagoEnvio,ropa,normal,gpt-4o-mini
+767,cuanto sale el envió a Cotoca porfa?,PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+768,cuánto cuesta el envío a Montero?,PagoEnvio,ropa,normal,gpt-4o-mini
+769,hay costo de delivery a 4to anillo?,PagoEnvio,ropa,normal,gpt-4o-mini
+770,y el envío a Villa 1ro de Mayo cuánto es?,PagoEnvio,ropa,normal,gpt-4o-mini
+771,cuanto el costo de envío a Plan 3000?,PagoEnvio,ropa,normal,gpt-4o-mini
+772,cuanto es el delivery para Palmasola?,PagoEnvio,ropa,normal,gpt-4o-mini
+773,cuanto el delivery pq estoy en el 2do anillo?,PagoEnvio,ropa,mixto,gpt-4o-mini
+774,me dices cuanto es el envio a satélite norte?,PagoEnvio,ropa,normal,gpt-4o-mini
+775,cuanto cobrarían por el envío a mi casa en Pampa de la Isla?,PagoEnvio,ropa,normal,gpt-4o-mini
+776,envían a Equipetrol? cuanto sale el delivery?,PagoEnvio,ropa,normal,gpt-4o-mini
+777,cuanto es el delivery?,PagoEnvio,accesorios,normal,gpt-4o-mini
+778,pago contra entrega es posible?,PagoEnvio,accesorios,normal,gpt-4o-mini
+779,como pago? qr o efectivo?,PagoEnvio,accesorios,abreviaturas,gpt-4o-mini
+780,hay distintas formas de pago?,PagoEnvio,accesorios,normal,gpt-4o-mini
+781,aceptan transferencia?,PagoEnvio,accesorios,normal,gpt-4o-mini
+782,cuánto es el costo de envío?,PagoEnvio,accesorios,normal,gpt-4o-mini
+783,tienen pago electrónico?,PagoEnvio,accesorios,normal,gpt-4o-mini
+784,me lo pueden dejar en la puerta?,PagoEnvio,accesorios,normal,gpt-4o-mini
+785,recomendación de pago xfa,PagoEnvio,accesorios,abreviaturas,gpt-4o-mini
+786,hacen envíos a Equipetrol?,PagoEnvio,ropa,normal,gpt-4o-mini
+787,aceptan Tigo Money para pagar?,PagoEnvio,ropa,normal,gpt-4o-mini
+788,cuánto cuesta el delivery a 4to anillo?,PagoEnvio,ropa,normal,gpt-4o-mini
+789,envían a la Pampa de la Isla?,PagoEnvio,ropa,normal,gpt-4o-mini
+790,donde entregan? en Cotoca xfa,PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+791,me envían a Montero?,PagoEnvio,ropa,normal,gpt-4o-mini
+792,cuanto el envío a Villa 1ro de Mayo?,PagoEnvio,ropa,normal,gpt-4o-mini
+793,mandan a Warnes?,PagoEnvio,ropa,normal,gpt-4o-mini
+794,¿aceptan pago contra entrega?,PagoEnvio,ropa,normal,gpt-4o-mini
+795,"quiero saber si envían a Santa Cruz!, 😁",PagoEnvio,ropa,emojis,gpt-4o-mini
+796,🔥 envían a la ciudad?,PagoEnvio,ropa,emojis,gpt-4o-mini
+797,cuánto es el envío a La Guardia?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+798,"envío a Pampa de la Isla, cuánto?",PagoEnvio,tecnologia,abreviaturas,gpt-4o-mini
+799,cuantto sale el delivery al norte?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+800,precio de envío a Warnes?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+801,cuanto cuesta el delivery a Equipetrol?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+802,q tal el envío a 4to anillo?,PagoEnvio,tecnologia,abreviaturas,gpt-4o-mini
+803,cuanto sale enviar a Palmasola?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+804,cuánto el envío a Santa Cruz Norte?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+805,"donde vivo, cuanto el delivery?",PagoEnvio,tecnologia,mixto,gpt-4o-mini
+806,"cuanto el envío al norte, porfa?",PagoEnvio,tecnologia,abreviaturas,gpt-4o-mini
+807,"mándame info de envío al norte, plis",PagoEnvio,tecnologia,mixto,gpt-4o-mini
+808,me dicen el precio de envío al norte?,PagoEnvio,tecnologia,normal,gpt-4o-mini
+809,se puede pagar con QR?,PagoEnvio,ropa,normal,gpt-4o-mini
+810,cuanto cobra el delivery?,PagoEnvio,ropa,normal,gpt-4o-mini
+811,pagan contra entrega?,PagoEnvio,ropa,normal,gpt-4o-mini
+812,hay despacho a Urubó?,PagoEnvio,ropa,normal,gpt-4o-mini
+813,aceptan efectivo?,PagoEnvio,ropa,normal,gpt-4o-mini
+814,puedo pagar con transferencia?,PagoEnvio,ropa,normal,gpt-4o-mini
+815,envián a 4to anillo?,PagoEnvio,ropa,normal,gpt-4o-mini
+816,cobran el envío o es gratis?,PagoEnvio,ropa,normal,gpt-4o-mini
+817,puedo pagar con tarjeta de debito?,PagoEnvio,ropa,normal,gpt-4o-mini
+818,qro saber si envían a Montero,PagoEnvio,ropa,abreviaturas,gpt-4o-mini
+819,lo quiero pero como pago?,PagoEnvio,ropa,mixto,gpt-4o-mini
+820,donde queda la tienda?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+821,cual es la direccion porfa?,PagoEnvio,maquillaje,abreviaturas,gpt-4o-mini
+822,"la dire de la tienda, xfa",PagoEnvio,maquillaje,abreviaturas,gpt-4o-mini
+823,en q parte está la tienda?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+824,donde está ubicada la tienda?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+825,"la dirección, plis!!",PagoEnvio,maquillaje,letras_repetidas,gpt-4o-mini
+826,cuál es la dirección de la tienda?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+827,x donde queda la tienda?,PagoEnvio,maquillaje,abreviaturas,gpt-4o-mini
+828,"la dirección de la tienda, porfavor",PagoEnvio,maquillaje,mixto,gpt-4o-mini
+829,me dicen la dirección?,PagoEnvio,maquillaje,normal,gpt-4o-mini
+830,"donde están?, plis",PagoEnvio,maquillaje,letras_repetidas,gpt-4o-mini
+831,cuanto el delivery a Equipetrol?,PagoEnvio,maquillaje,mixto,gpt-4o-mini
+832,cuanto sale el delivery a Equipetrol? 🛵,PagoEnvio,accesorios,emojis,gpt-4o-mini
+833,cuanto?,Pregunta,ropa,normal,semilla
+834,cuanto sale el negro?,Pregunta,ropa,normal,semilla
+835,hay en M?,Pregunta,ropa,abreviaturas,semilla
+836,tienes en talla 40?,Pregunta,calzado,normal,semilla
+837,es de cuero autentico?,Pregunta,accesorios,normal,semilla
+838,sirve para piel grasa?,Pregunta,maquillaje,normal,semilla
+839,CUANTO EL ULTIMO?,Pregunta,accesorios,mayusculas,semilla
+840,hay stock en rosado?,Pregunta,maquillaje,normal,semilla
+841,tiene garantia el celular?,Pregunta,tecnologia,normal,semilla
+842,q color tienes disponibles?,Pregunta,ropa,abreviaturas,semilla
+843,cuánto mide el bolso?,Pregunta,accesorios,normal,semilla
+844,es original???,Pregunta,tecnologia,normal,semilla
+845,cuanto cuesta el combo?,Pregunta,maquillaje,normal,semilla
+846,sirve para cabello teñido?,Pregunta,maquillaje,normal,semilla
+847,cuanto saleee el 4?,Pregunta,ropa,letras_repetidas,semilla
+848,tienes en azul rey?,Pregunta,ropa,normal,semilla
+849,cuanto el envio dentro de la ciudad?,Pregunta,ropa,normal,semilla
+850,q material es el reloj?,Pregunta,accesorios,abreviaturas,semilla
+851,😳 cuanto el ultimo que mostraste?,Pregunta,tecnologia,emojis,semilla
+852,las zapatillas son antideslizantes?,Pregunta,calzado,normal,semilla
+853,cuánto sale?,Pregunta,ropa,normal,gpt-4o-mini
+854,cuanto cuesta?,Pregunta,ropa,normal,gpt-4o-mini
+855,cual es el precio?,Pregunta,ropa,normal,gpt-4o-mini
+856,cuantto el de la talla M?,Pregunta,ropa,normal,gpt-4o-mini
+857,hay en rojo? y cuanto?,Pregunta,ropa,normal,gpt-4o-mini
+858,cuánto está en oferta?,Pregunta,ropa,normal,gpt-4o-mini
+859,cuanto el negro?,Pregunta,ropa,normal,gpt-4o-mini
+860,Xq tan caro?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+861,cuánto por la talla L?,Pregunta,ropa,normal,gpt-4o-mini
+862,cuanto el de la foto?,Pregunta,ropa,normal,gpt-4o-mini
+863,cual es el precio de hoy?,Pregunta,ropa,normal,gpt-4o-mini
+864,cuanto en bs?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+865,cuanto sale el blanco?,Pregunta,ropa,normal,gpt-4o-mini
+866,cuánto el conjunto completo?,Pregunta,ropa,normal,gpt-4o-mini
+867,cuanto el envío incluido?,Pregunta,ropa,normal,gpt-4o-mini
+868,cuanto la promotion?,Pregunta,ropa,letras_repetidas,gpt-4o-mini
+869,cuantooo?,Pregunta,ropa,letras_repetidas,gpt-4o-mini
+870,cuanto para reservar?,Pregunta,ropa,normal,gpt-4o-mini
+871,cuando estará disponible y cuanto?,Pregunta,ropa,normal,gpt-4o-mini
+872,cuánto vale la camiseta?,Pregunta,ropa,normal,gpt-4o-mini
+873,cuánto el precio por mayor?,Pregunta,ropa,normal,gpt-4o-mini
+874,cuanto sale si lo compro hoy?,Pregunta,ropa,normal,gpt-4o-mini
+875,cuanto para dar un adelanto?,Pregunta,ropa,normal,gpt-4o-mini
+876,cuanto lo bajo?,Pregunta,ropa,normal,gpt-4o-mini
+877,cuanto la prenda?,Pregunta,ropa,normal,gpt-4o-mini
+878,cuanto está el de la tienda?,Pregunta,ropa,normal,gpt-4o-mini
+879,cuanto costarían dos?,Pregunta,ropa,normal,gpt-4o-mini
+880,cuanto cuesta el negro?,Pregunta,ropa,normal,gpt-4o-mini
+881,precio del negro?,Pregunta,ropa,normal,gpt-4o-mini
+882,y el precio del negro?,Pregunta,ropa,normal,gpt-4o-mini
+883,cuanto x el negro?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+884,cuantoo el negro?,Pregunta,ropa,normal,gpt-4o-mini
+885,cuánto el color negro?,Pregunta,ropa,normal,gpt-4o-mini
+886,cual es el precio del negro?,Pregunta,ropa,normal,gpt-4o-mini
+887,me dices cuanto el negro?,Pregunta,ropa,normal,gpt-4o-mini
+888,el negro cuanto sale?,Pregunta,ropa,normal,gpt-4o-mini
+889,cuanto el negro en M?,Pregunta,ropa,normal,gpt-4o-mini
+890,hay en negro? y cuanto?,Pregunta,ropa,normal,gpt-4o-mini
+891,cuánto cuesta el modelo negro?,Pregunta,ropa,normal,gpt-4o-mini
+892,q precio el negro?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+893,cuanto vale el negro?,Pregunta,ropa,normal,gpt-4o-mini
+894,me dirías el precio del negro?,Pregunta,ropa,normal,gpt-4o-mini
+895,el negro a cuanto?,Pregunta,ropa,normal,gpt-4o-mini
+896,cuanto sería por el negro?,Pregunta,ropa,normal,gpt-4o-mini
+897,dime precio negro xfa,Pregunta,ropa,abreviaturas,gpt-4o-mini
+898,"y el negro, cuánto?",Pregunta,ropa,normal,gpt-4o-mini
+899,el negro cuesta cuanto?,Pregunta,ropa,normal,gpt-4o-mini
+900,q vale el negro?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+901,cuanto x el negro en talla M?,Pregunta,ropa,normal,gpt-4o-mini
+902,cuanto sale el negro en efectivo?,Pregunta,ropa,normal,gpt-4o-mini
+903,el negro cuanto porfavor?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+904,cuantoo el negro xfa?,Pregunta,ropa,letras_repetidas,gpt-4o-mini
+905,cuanto el negro de este modelo?,Pregunta,ropa,normal,gpt-4o-mini
+906,cuanto tendría que pagar por el negro?,Pregunta,ropa,normal,gpt-4o-mini
+907,hay en talla M?,Pregunta,ropa,normal,gpt-4o-mini
+908,tienen en M?,Pregunta,ropa,normal,gpt-4o-mini
+909,es talla M?,Pregunta,ropa,normal,gpt-4o-mini
+910,cuantas tallas hay?,Pregunta,ropa,normal,gpt-4o-mini
+911,hay en talla mediana?,Pregunta,ropa,normal,gpt-4o-mini
+912,"hay en M, xfa?",Pregunta,ropa,abreviaturas,gpt-4o-mini
+913,en M hay?,Pregunta,ropa,normal,gpt-4o-mini
+914,talla M disponible?,Pregunta,ropa,normal,gpt-4o-mini
+915,cuánto en M?,Pregunta,ropa,normal,gpt-4o-mini
+916,M está disponible?,Pregunta,ropa,normal,gpt-4o-mini
+917,hay en medio?,Pregunta,ropa,normal,gpt-4o-mini
+918,mejor tienen en M?,Pregunta,ropa,normal,gpt-4o-mini
+919,hay M o solo L?,Pregunta,ropa,normal,gpt-4o-mini
+920,"mido 1.70, M me queda?",Pregunta,ropa,normal,gpt-4o-mini
+921,tienen en M o S?,Pregunta,ropa,normal,gpt-4o-mini
+922,vendemos M?,Pregunta,ropa,normal,gpt-4o-mini
+923,me lo guardas en M?,Pregunta,ropa,normal,gpt-4o-mini
+924,hay en M o en qué talla?,Pregunta,ropa,normal,gpt-4o-mini
+925,M llega? xq de lo contrario no,Pregunta,ropa,mixto,gpt-4o-mini
+926,"talla M, pliss",Pregunta,ropa,abreviaturas,gpt-4o-mini
+927,"en talla M, hay?",Pregunta,ropa,normal,gpt-4o-mini
+928,hay más en M?,Pregunta,ropa,normal,gpt-4o-mini
+929,es talla M o L?,Pregunta,ropa,normal,gpt-4o-mini
+930,hay opciones en M?,Pregunta,ropa,normal,gpt-4o-mini
+931,en M me sirve? xfa,Pregunta,ropa,mixto,gpt-4o-mini
+932,¿hay otra M más?,Pregunta,ropa,normal,gpt-4o-mini
+933,"en M, se puede conseguir?",Pregunta,ropa,normal,gpt-4o-mini
+934,hay stock en M?,Pregunta,ropa,normal,gpt-4o-mini
+935,hay en 40?,Pregunta,calzado,normal,gpt-4o-mini
+936,tienen talla 40?,Pregunta,calzado,normal,gpt-4o-mini
+937,cuanto cuesta en talla 40?,Pregunta,calzado,normal,gpt-4o-mini
+938,me pasas el precio del 40?,Pregunta,calzado,normal,gpt-4o-mini
+939,en 40 hay?,Pregunta,calzado,abreviaturas,gpt-4o-mini
+940,tienes el 40 en stock?,Pregunta,calzado,normal,gpt-4o-mini
+941,cuanto el 40?,Pregunta,calzado,abreviaturas,gpt-4o-mini
+942,hay en talla 40 xfa?,Pregunta,calzado,abreviaturas,gpt-4o-mini
+943,tienen en 40 el calzado?,Pregunta,calzado,normal,gpt-4o-mini
+944,tienes en 40? 👟,Pregunta,calzado,emojis,gpt-4o-mini
+945,talla 40 hay?,Pregunta,calzado,normal,gpt-4o-mini
+946,está en 40 el modelo?,Pregunta,calzado,normal,gpt-4o-mini
+947,hay calzado en 40?,Pregunta,calzado,normal,gpt-4o-mini
+948,tienes en 40????,Pregunta,calzado,letras_repetidas,gpt-4o-mini
+949,se puede en talla 40?,Pregunta,calzado,normal,gpt-4o-mini
+950,y en 40? xfa,Pregunta,calzado,abreviaturas,gpt-4o-mini
+951,el modelo está en 40?,Pregunta,calzado,normal,gpt-4o-mini
+952,hay en 40 o no?,Pregunta,calzado,normal,gpt-4o-mini
+953,cuanto vale en 40?,Pregunta,calzado,normal,gpt-4o-mini
+954,hay disponibilidad en 40?,Pregunta,calzado,normal,gpt-4o-mini
+955,en talla 40 hay algo?,Pregunta,calzado,normal,gpt-4o-mini
+956,me dices si hay en 40?,Pregunta,calzado,normal,gpt-4o-mini
+957,40 hay en esos modelos?,Pregunta,calzado,normal,gpt-4o-mini
+958,en el 40 hay?,Pregunta,calzado,normal,gpt-4o-mini
+959,tienes calzado en 40? 😍,Pregunta,calzado,emojis,gpt-4o-mini
+960,talla 40 disponible?,Pregunta,calzado,normal,gpt-4o-mini
+961,es real el cuero?,Pregunta,accesorios,normal,gpt-4o-mini
+962,es de cuero de verdad?,Pregunta,accesorios,normal,gpt-4o-mini
+963,cuero original o imitación?,Pregunta,accesorios,normal,gpt-4o-mini
+964,cuanto tiempo dura el cuero?,Pregunta,accesorios,normal,gpt-4o-mini
+965,esto es cuero o qué?,Pregunta,accesorios,normal,gpt-4o-mini
+966,"pues, es auténtico el cuero?",Pregunta,accesorios,normal,gpt-4o-mini
+967,es de cuero?? xfa,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+968,es de cuero o no?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+969,eso es cuero auténtico?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+970,es hacer cuero o falso?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+971,🔥 es cuero real ?,Pregunta,accesorios,emojis,gpt-4o-mini
+972,cuero auténtico????,Pregunta,accesorios,letras_repetidas,gpt-4o-mini
+973,es d cuero?? 🤔,Pregunta,accesorios,emojis,gpt-4o-mini
+974,es cuero de verdad o solo parece?,Pregunta,accesorios,normal,gpt-4o-mini
+975,cuero bueno o solo venta?,Pregunta,accesorios,normal,gpt-4o-mini
+976,esta vaina es de cuero?,Pregunta,accesorios,normal,gpt-4o-mini
+977,"cuero original, no?",Pregunta,accesorios,normal,gpt-4o-mini
+978,hay garantía de que es cuero?,Pregunta,accesorios,normal,gpt-4o-mini
+979,es carisimo para q sea imitación,Pregunta,accesorios,normal,gpt-4o-mini
+980,"debería ser cuero, no?",Pregunta,accesorios,normal,gpt-4o-mini
+981,muestra la etiqueta del cuero,Pregunta,accesorios,normal,gpt-4o-mini
+982,ese cuero tiene certificado?,Pregunta,accesorios,normal,gpt-4o-mini
+983,quiero saber si el cuero es verídico,Pregunta,accesorios,normal,gpt-4o-mini
+984,es de cuero o imitación?,Pregunta,accesorios,normal,gpt-4o-mini
+985,cuero real o solo marketing?,Pregunta,accesorios,normal,gpt-4o-mini
+986,pregunta: cuero o plástico?,Pregunta,accesorios,normal,gpt-4o-mini
+987,es bueno para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+988,funciona en piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+989,cuanto para piel grasa?,Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+990,que tal para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+991,le servirá a mi piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+992,ideal para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+993,recomiendan para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+994,es para piel grasa o seca?,Pregunta,maquillaje,normal,gpt-4o-mini
+995,sirve para mi piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+996,es apto para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+997,que tiene para piel grasa?,Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+998,sirve para piel aceitosa?,Pregunta,maquillaje,normal,gpt-4o-mini
+999,hay alguna opción para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1000,si tengo piel grasa me ayudará?,Pregunta,maquillaje,normal,gpt-4o-mini
+1001,existe para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1002,tiene base para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1003,es buen producto para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1004,hay en formula para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1005,mejor para piel grasa?,Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+1006,hay en stock para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1007,se puede usar en piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1008,es a prueba de piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1009,puedo usar si tengo piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1010,cual es el mejor para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1011,las chicas con piel grasa lo usan?,Pregunta,maquillaje,normal,gpt-4o-mini
+1012,cuanto cuesta para piel grasa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1013,cuanto el set?,Pregunta,accesorios,normal,gpt-4o-mini
+1014,cuantooo por el último?,Pregunta,accesorios,letras_repetidas,gpt-4o-mini
+1015,cuanto vale el último?,Pregunta,accesorios,normal,gpt-4o-mini
+1016,q precio tiene el último?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+1017,cuanto el último accesorio?,Pregunta,accesorios,normal,gpt-4o-mini
+1018,"precio del último, porfa!",Pregunta,accesorios,normal,gpt-4o-mini
+1019,cuanto está el último?,Pregunta,accesorios,normal,gpt-4o-mini
+1020,CUANTTO EL ULTIMO?,Pregunta,accesorios,mayusculas,gpt-4o-mini
+1021,cuanto me sale el último?,Pregunta,accesorios,normal,gpt-4o-mini
+1022,hay precio para el último?,Pregunta,accesorios,normal,gpt-4o-mini
+1023,cuanto el último que enseñaste?,Pregunta,accesorios,normal,gpt-4o-mini
+1024,CUANTO POR EL ULTIMO?,Pregunta,accesorios,mayusculas,gpt-4o-mini
+1025,"dime cuanto el último, xfa!",Pregunta,accesorios,normal,gpt-4o-mini
+1026,cuánto el último que mostraste?,Pregunta,accesorios,normal,gpt-4o-mini
+1027,"cuanto está el último accesorio, plis?",Pregunta,accesorios,mixto,gpt-4o-mini
+1028,cuantoo el último que tienes?,Pregunta,accesorios,letras_repetidas,gpt-4o-mini
+1029,cuanto el último artículo?,Pregunta,accesorios,normal,gpt-4o-mini
+1030,cuanto el último que subiste?,Pregunta,accesorios,normal,gpt-4o-mini
+1031,q tal el precio del último?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+1032,cuanto por el último accesorio?,Pregunta,accesorios,normal,gpt-4o-mini
+1033,cuanto sale el último?,Pregunta,accesorios,normal,gpt-4o-mini
+1034,cuanto cuesta el último?,Pregunta,accesorios,normal,gpt-4o-mini
+1035,cuanto me pides por el último?,Pregunta,accesorios,normal,gpt-4o-mini
+1036,q costo tiene el último?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+1037,cuanto es el último?,Pregunta,accesorios,normal,gpt-4o-mini
+1038,cuanto el último que mostraste?,Pregunta,accesorios,normal,gpt-4o-mini
+1039,que precio tiene el último?,Pregunta,accesorios,normal,gpt-4o-mini
+1040,tienen en color rosado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1041,cuanto cuesta el rosado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1042,hay en rosado o solo en otro color?,Pregunta,maquillaje,normal,gpt-4o-mini
+1043,tienen stock de rosado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1044,me dicen si hay en color rosa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1045,rosado hay?,Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+1046,hay en ROSADO?,Pregunta,maquillaje,mayusculas,gpt-4o-mini
+1047,cuantto el maquillaje en rosa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1048,rosado disponible?,Pregunta,maquillaje,normal,gpt-4o-mini
+1049,tienen maquillaje en rosado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1050,se puede conseguir en rosado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1051,me confirman si hay en rosa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1052,cual es el precio del rosado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1053,venden en rosa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1054,hay en rosa o no?,Pregunta,maquillaje,normal,gpt-4o-mini
+1055,rosado xfa?,Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+1056,cuanto se vende el rosado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1057,rosadito hay?,Pregunta,maquillaje,letras_repetidas,gpt-4o-mini
+1058,hay stock en rosado o no?,Pregunta,maquillaje,normal,gpt-4o-mini
+1059,en que colores está disponible?,Pregunta,maquillaje,normal,gpt-4o-mini
+1060,cuanto el rosado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1061,hay en rosa porfa?,Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+1062,cuantto en rosa?,Pregunta,maquillaje,normal,gpt-4o-mini
+1063,hay en rosa o solo en otros colores?,Pregunta,maquillaje,normal,gpt-4o-mini
+1064,hay maquillaje en rosa disponible?,Pregunta,maquillaje,normal,gpt-4o-mini
+1065,rosado hay o no?,Pregunta,maquillaje,letras_repetidas,gpt-4o-mini
+1066,el celular tiene garantía?,Pregunta,tecnologia,normal,gpt-4o-mini
+1067,cuanta garantía tiene el celu?,Pregunta,tecnologia,normal,gpt-4o-mini
+1068,garantía incluida con el celular?,Pregunta,tecnologia,normal,gpt-4o-mini
+1069,tiene garantia el teléfono?,Pregunta,tecnologia,normal,gpt-4o-mini
+1070,y la garantía del celular?,Pregunta,tecnologia,normal,gpt-4o-mini
+1071,hay garantia pa el celular?,Pregunta,tecnologia,abreviaturas,gpt-4o-mini
+1072,el celu cuenta con garantia?,Pregunta,tecnologia,normal,gpt-4o-mini
+1073,cuanta garantia es?,Pregunta,tecnologia,normal,gpt-4o-mini
+1074,garantía para el celular cuánto es?,Pregunta,tecnologia,normal,gpt-4o-mini
+1075,el telefono tiene garantia?,Pregunta,tecnologia,normal,gpt-4o-mini
+1076,cuánto tiempo de garantía tiene?,Pregunta,tecnologia,normal,gpt-4o-mini
+1077,¿garantía de cuánto tiempo?,Pregunta,tecnologia,normal,gpt-4o-mini
+1078,quiero saber si tiene garantia el telefono,Pregunta,tecnologia,normal,gpt-4o-mini
+1079,hay algun tipo de garantia?,Pregunta,tecnologia,normal,gpt-4o-mini
+1080,garantia de 1 año o más?,Pregunta,tecnologia,normal,gpt-4o-mini
+1081,¿cuál es la garantía del celular?,Pregunta,tecnologia,normal,gpt-4o-mini
+1082,el celular tiene garantía de fábrica?,Pregunta,tecnologia,normal,gpt-4o-mini
+1083,"y si se daña, hay garantía?",Pregunta,tecnologia,normal,gpt-4o-mini
+1084,que tipo de garantia ofrece?,Pregunta,tecnologia,normal,gpt-4o-mini
+1085,garantía solo por un mes?,Pregunta,tecnologia,normal,gpt-4o-mini
+1086,tiene garantia de reparación?,Pregunta,tecnologia,normal,gpt-4o-mini
+1087,cuanto de garantia viene con el celular?,Pregunta,tecnologia,normal,gpt-4o-mini
+1088,el celular tiene un año de garantia?,Pregunta,tecnologia,normal,gpt-4o-mini
+1089,esto tiene garantia por si acaso?,Pregunta,tecnologia,normal,gpt-4o-mini
+1090,quiero saber si el celular tiene garantia???,Pregunta,tecnologia,letras_repetidas,gpt-4o-mini
+1091,garantia o nica el celu?,Pregunta,tecnologia,abreviaturas,gpt-4o-mini
+1092,tiene garantia el smartphone?,Pregunta,tecnologia,normal,gpt-4o-mini
+1093,hay en otro color?,Pregunta,ropa,normal,gpt-4o-mini
+1094,en q color puedo elegir?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1095,cuantos colores tienen?,Pregunta,ropa,normal,gpt-4o-mini
+1096,dame los colores pliss,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1097,en q color está disponible?,Pregunta,ropa,normal,gpt-4o-mini
+1098,tienen en azul?,Pregunta,ropa,normal,gpt-4o-mini
+1099,hay en rojo o no?,Pregunta,ropa,normal,gpt-4o-mini
+1100,q color de ropa me recomiendan?,Pregunta,ropa,normal,gpt-4o-mini
+1101,en q tonalidades hay?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1102,cuántos colores hay disponibles?,Pregunta,ropa,normal,gpt-4o-mini
+1103,hay en talla M y qué colores?,Pregunta,ropa,normal,gpt-4o-mini
+1104,dame info de los colores xfa,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1105,q colores puedes mostrar?,Pregunta,ropa,normal,gpt-4o-mini
+1106,quiero saber los colores disponibles,Pregunta,ropa,normal,gpt-4o-mini
+1107,en cuántos colores hay?,Pregunta,ropa,normal,gpt-4o-mini
+1108,hay en verde también?,Pregunta,ropa,normal,gpt-4o-mini
+1109,cuántos colores tienes para esa ropa?,Pregunta,ropa,normal,gpt-4o-mini
+1110,hay en negro o en blanco?,Pregunta,ropa,normal,gpt-4o-mini
+1111,pueden mostrarme los colores?,Pregunta,ropa,normal,gpt-4o-mini
+1112,me puedes decir los colores disponibles?,Pregunta,ropa,normal,gpt-4o-mini
+1113,en qué colores tienen esta ropa?,Pregunta,ropa,normal,gpt-4o-mini
+1114,hay en otros colores más xfa?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1115,muestra los colores porfa,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1116,hay en color rosa o no?,Pregunta,ropa,normal,gpt-4o-mini
+1117,q color hay para ese modelo?,Pregunta,ropa,normal,gpt-4o-mini
+1118,en cuántos colores la tenés?,Pregunta,ropa,normal,gpt-4o-mini
+1119,cuánto es el tamaño del bolso?,Pregunta,accesorios,normal,gpt-4o-mini
+1120,qué medidas tiene el bolso?,Pregunta,accesorios,normal,gpt-4o-mini
+1121,cuánto mide en cm?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+1122,"measurements del bolso, porfa?",Pregunta,accesorios,abreviaturas,gpt-4o-mini
+1123,cuanto mide el bolso en largo?,Pregunta,accesorios,normal,gpt-4o-mini
+1124,cuantoo mide??,Pregunta,accesorios,letras_repetidas,gpt-4o-mini
+1125,cuánto de ancho tiene el bolso?,Pregunta,accesorios,normal,gpt-4o-mini
+1126,es grande o pequeño el bolso?,Pregunta,accesorios,normal,gpt-4o-mini
+1127,q tamaño es el bolso?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+1128,el bolso cuánto mide?,Pregunta,accesorios,normal,gpt-4o-mini
+1129,cuanto mide el bolso en total?,Pregunta,accesorios,normal,gpt-4o-mini
+1130,de qué tamaño son los bolsos?,Pregunta,accesorios,normal,gpt-4o-mini
+1131,dame las medidas del bolso xfa,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+1132,mide mucho el bolso o no?,Pregunta,accesorios,normal,gpt-4o-mini
+1133,"bolso, cuanto mide?",Pregunta,accesorios,normal,gpt-4o-mini
+1134,"tamaño del bolso, cuanto?",Pregunta,accesorios,normal,gpt-4o-mini
+1135,cuanto mide el bolso en alto?,Pregunta,accesorios,normal,gpt-4o-mini
+1136,el bolsito es chico o grande?,Pregunta,accesorios,normal,gpt-4o-mini
+1137,qué medidas trae el bolso?,Pregunta,accesorios,normal,gpt-4o-mini
+1138,tamaño del bolso para saber si lo quiero,Pregunta,accesorios,normal,gpt-4o-mini
+1139,cuanto mide el bolso en total xfa?,Pregunta,accesorios,letras_repetidas,gpt-4o-mini
+1140,"es un bolso grande, verdad?",Pregunta,accesorios,normal,gpt-4o-mini
+1141,cuánto hay que medir del bolso?,Pregunta,accesorios,normal,gpt-4o-mini
+1142,mide tanto el bolso?,Pregunta,accesorios,normal,gpt-4o-mini
+1143,cuanto mide más o menos el bolso?,Pregunta,accesorios,normal,gpt-4o-mini
+1144,"bolso, ¿cuánto es el tamaño?",Pregunta,accesorios,normal,gpt-4o-mini
+1145,es de marca?,Pregunta,tecnologia,normal,gpt-4o-mini
+1146,realmente original?,Pregunta,tecnologia,normal,gpt-4o-mini
+1147,es genuino?,Pregunta,tecnologia,normal,gpt-4o-mini
+1148,cuál es la marca?,Pregunta,tecnologia,normal,gpt-4o-mini
+1149,es original o copia?,Pregunta,tecnologia,normal,gpt-4o-mini
+1150,tiene garantía?,Pregunta,tecnologia,normal,gpt-4o-mini
+1151,viene con caja?,Pregunta,tecnologia,normal,gpt-4o-mini
+1152,es original o fake?,Pregunta,tecnologia,normal,gpt-4o-mini
+1153,es nuevo o usado?,Pregunta,tecnologia,normal,gpt-4o-mini
+1154,hay documentos que lo respalden?,Pregunta,tecnologia,normal,gpt-4o-mini
+1155,puedo ver más detalles?,Pregunta,tecnologia,normal,gpt-4o-mini
+1156,😳 es original o no?,Pregunta,tecnologia,emojis,gpt-4o-mini
+1157,q marca es??,Pregunta,tecnologia,abreviaturas,gpt-4o-mini
+1158,original o no?,Pregunta,tecnologia,letras_repetidas,gpt-4o-mini
+1159,es original o es un clon?,Pregunta,tecnologia,normal,gpt-4o-mini
+1160,es auténtico?,Pregunta,tecnologia,normal,gpt-4o-mini
+1161,q calidad tiene?,Pregunta,tecnologia,abreviaturas,gpt-4o-mini
+1162,viene con garantía?,Pregunta,tecnologia,normal,gpt-4o-mini
+1163,es 100% original?,Pregunta,tecnologia,normal,gpt-4o-mini
+1164,tienen otros modelos originales?,Pregunta,tecnologia,normal,gpt-4o-mini
+1165,hay uno en negro?,Pregunta,tecnologia,normal,gpt-4o-mini
+1166,se puede comprobar que es original?,Pregunta,tecnologia,normal,gpt-4o-mini
+1167,es de verdad?,Pregunta,tecnologia,normal,gpt-4o-mini
+1168,😬 es de buena calidad?,Pregunta,tecnologia,emojis,gpt-4o-mini
+1169,quiero saber si es original,Pregunta,tecnologia,normal,gpt-4o-mini
+1170,qro saber si es original,Pregunta,tecnologia,abreviaturas,gpt-4o-mini
+1171,cuanto sale el combo?,Pregunta,maquillaje,normal,gpt-4o-mini
+1172,q precio tiene el combo?,Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+1173,cuantto cuesta el set?,Pregunta,maquillaje,normal,gpt-4o-mini
+1174,cuanto el combo de maquillaje?,Pregunta,maquillaje,normal,gpt-4o-mini
+1175,precio del combo?,Pregunta,maquillaje,normal,gpt-4o-mini
+1176,cuanto para llevar el combo?,Pregunta,maquillaje,normal,gpt-4o-mini
+1177,hay combo y cuanto?,Pregunta,maquillaje,normal,gpt-4o-mini
+1178,"y ese combo, cuanto vale?",Pregunta,maquillaje,normal,gpt-4o-mini
+1179,cuánto por el combo completo?,Pregunta,maquillaje,normal,gpt-4o-mini
+1180,cuanto el set de maquillaje?,Pregunta,maquillaje,normal,gpt-4o-mini
+1181,¿cuánto cuesta el combo de labiales?,Pregunta,maquillaje,normal,gpt-4o-mini
+1182,cuanto por el combo de sombras?,Pregunta,maquillaje,normal,gpt-4o-mini
+1183,el combo está en oferta? cuanto?,Pregunta,maquillaje,normal,gpt-4o-mini
+1184,"el combo que tienen, cuanto vale?",Pregunta,maquillaje,normal,gpt-4o-mini
+1185,cuánto sale el combo que mostraron?,Pregunta,maquillaje,normal,gpt-4o-mini
+1186,cuánto cuesta el maquillaje en combo?,Pregunta,maquillaje,normal,gpt-4o-mini
+1187,"q tal el combo, cuanto es?",Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+1188,tienen combo? cuanto?,Pregunta,maquillaje,normal,gpt-4o-mini
+1189,cuánto el combo de maquillaje que tienen?,Pregunta,maquillaje,normal,gpt-4o-mini
+1190,"cuanto saldría el combo?, porfa",Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+1191,cuanto cuesta el set xfa?,Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+1192,hay combo de maquillaje y cuanto?,Pregunta,maquillaje,normal,gpt-4o-mini
+1193,cuánto cuesta el combo? 😍,Pregunta,maquillaje,emojis,gpt-4o-mini
+1194,"q me dicen del combo, cuanto?",Pregunta,maquillaje,abreviaturas,gpt-4o-mini
+1195,cuanto el combo? 🙌,Pregunta,maquillaje,emojis,gpt-4o-mini
+1196,🥰 cuanto cuesta el combo de make up?,Pregunta,maquillaje,emojis,gpt-4o-mini
+1197,"esto del combo, cuanto anda?",Pregunta,maquillaje,normal,gpt-4o-mini
+1198,es apto para cabello teñido?,Pregunta,maquillaje,normal,gpt-4o-mini
+1199,puedo usarlo en cabello teñido?,Pregunta,maquillaje,normal,gpt-4o-mini
+1200,sirve para pelo teñido?,Pregunta,maquillaje,normal,gpt-4o-mini
+1201,esto es bueno para el cabello decolorado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1202,se puede usar en cabello pintado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1203,cuántas tonalidades agarra?,Pregunta,maquillaje,normal,gpt-4o-mini
+1204,hay en opciones para cabello teñido?,Pregunta,maquillaje,normal,gpt-4o-mini
+1205,puedo usar en mi pelo rubio?,Pregunta,maquillaje,normal,gpt-4o-mini
+1206,esto es bueno para mi color de pelo?,Pregunta,maquillaje,normal,gpt-4o-mini
+1207,es seguro para cabellos con color?,Pregunta,maquillaje,normal,gpt-4o-mini
+1208,hay algún riesgo para el cabello teñido?,Pregunta,maquillaje,normal,gpt-4o-mini
+1209,es recomendable para cabellos teñidos?,Pregunta,maquillaje,normal,gpt-4o-mini
+1210,puedo usarlo si tengo el pelo rojo?,Pregunta,maquillaje,normal,gpt-4o-mini
+1211,es para todo tipo de cabello?,Pregunta,maquillaje,normal,gpt-4o-mini
+1212,esto ayuda a mantener el color?,Pregunta,maquillaje,normal,gpt-4o-mini
+1213,puede afectar el color?,Pregunta,maquillaje,normal,gpt-4o-mini
+1214,hay en varias tonalidades?,Pregunta,maquillaje,normal,gpt-4o-mini
+1215,"esto no afecta el color, verdad?",Pregunta,maquillaje,normal,gpt-4o-mini
+1216,cuanto dura el efecto en el pelo?,Pregunta,maquillaje,normal,gpt-4o-mini
+1217,eso va bien con mi pelo castaño?,Pregunta,maquillaje,normal,gpt-4o-mini
+1218,cuantas aplicaciones tiene?,Pregunta,maquillaje,normal,gpt-4o-mini
+1219,hay en presentación grande?,Pregunta,maquillaje,normal,gpt-4o-mini
+1220,también sirve para pelos con mechas?,Pregunta,maquillaje,normal,gpt-4o-mini
+1221,tienen para pelo oscuro?,Pregunta,maquillaje,normal,gpt-4o-mini
+1222,es bueno para el color rubio platinado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1223,sirve para mantener el cabello hidratado?,Pregunta,maquillaje,normal,gpt-4o-mini
+1224,cuanto cuesta el 4?,Pregunta,ropa,normal,gpt-4o-mini
+1225,cuánto por el 4?,Pregunta,ropa,normal,gpt-4o-mini
+1226,cuanto el 4 porfa?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1227,cuanTO el 4?,Pregunta,ropa,mayusculas,gpt-4o-mini
+1228,cuanto sale el 4??,Pregunta,ropa,normal,gpt-4o-mini
+1229,cuantto el 4?,Pregunta,ropa,normal,gpt-4o-mini
+1230,cuanto sale el 4 en bs?,Pregunta,ropa,normal,gpt-4o-mini
+1231,precios del 4 xfa,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1232,cuanto vale el 4?,Pregunta,ropa,normal,gpt-4o-mini
+1233,me dicen el precio del 4?,Pregunta,ropa,normal,gpt-4o-mini
+1234,4 cuanto cuesta?,Pregunta,ropa,normal,gpt-4o-mini
+1235,cuanto el 4 que mostraron?,Pregunta,ropa,normal,gpt-4o-mini
+1236,q precio tiene el 4?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1237,cuanto están pidiendo por el 4?,Pregunta,ropa,normal,gpt-4o-mini
+1238,cuanto para el 4?,Pregunta,ropa,normal,gpt-4o-mini
+1239,cuánto cuesta eso del 4?,Pregunta,ropa,normal,gpt-4o-mini
+1240,cuantito el 4?,Pregunta,ropa,letras_repetidas,gpt-4o-mini
+1241,hay en 4? cuanto sale?,Pregunta,ropa,normal,gpt-4o-mini
+1242,cuanto el 4 en talla?,Pregunta,ropa,normal,gpt-4o-mini
+1243,porfa el precio del 4?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1244,cuanto piden por el 4?,Pregunta,ropa,normal,gpt-4o-mini
+1245,4 en cuanto?,Pregunta,ropa,normal,gpt-4o-mini
+1246,cuánto por el 4 en bs?,Pregunta,ropa,normal,gpt-4o-mini
+1247,cuanto sale el 4 de ropa?,Pregunta,ropa,normal,gpt-4o-mini
+1248,de cuántos es el 4?,Pregunta,ropa,normal,gpt-4o-mini
+1249,cuantooo sale el 4?,Pregunta,ropa,letras_repetidas,gpt-4o-mini
+1250,cuanto vale el 4 q mostraron?,Pregunta,ropa,normal,gpt-4o-mini
+1251,hay en azul?,Pregunta,ropa,normal,gpt-4o-mini
+1252,tienes en color azul?,Pregunta,ropa,normal,gpt-4o-mini
+1253,es que hay en azul rey?,Pregunta,ropa,normal,gpt-4o-mini
+1254,puedes mostrarme en azul rey?,Pregunta,ropa,normal,gpt-4o-mini
+1255,hay tallas en azul?,Pregunta,ropa,normal,gpt-4o-mini
+1256,cuanto cuesta el azul rey?,Pregunta,ropa,normal,gpt-4o-mini
+1257,en azul rey tienen?,Pregunta,ropa,normal,gpt-4o-mini
+1258,también en azul?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1259,hay en azul rey o no?,Pregunta,ropa,normal,gpt-4o-mini
+1260,quiero saber si hay en azul rey,Pregunta,ropa,normal,gpt-4o-mini
+1261,hay en otro tono de azul?,Pregunta,ropa,normal,gpt-4o-mini
+1262,es posible en azul rey?,Pregunta,ropa,normal,gpt-4o-mini
+1263,pueden traer en azul rey?,Pregunta,ropa,normal,gpt-4o-mini
+1264,sellan en azul rey?,Pregunta,ropa,normal,gpt-4o-mini
+1265,hay stock en azul?,Pregunta,ropa,normal,gpt-4o-mini
+1266,me avisas si hay en azul?,Pregunta,ropa,normal,gpt-4o-mini
+1267,tienen otra opción de azul?,Pregunta,ropa,normal,gpt-4o-mini
+1268,hay en azul rey o solo en otros colores?,Pregunta,ropa,normal,gpt-4o-mini
+1269,"quiero en azul rey, hay?",Pregunta,ropa,letras_repetidas,gpt-4o-mini
+1270,xfa muestren uno en azul rey!,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1271,"tienes en azul, por fa?",Pregunta,ropa,abreviaturas,gpt-4o-mini
+1272,tienen en azul rey?,Pregunta,ropa,normal,gpt-4o-mini
+1273,"hay en azul?, me interesa mucho!",Pregunta,ropa,normal,gpt-4o-mini
+1274,cuanto me sale en azul rey?,Pregunta,ropa,normal,gpt-4o-mini
+1275,"me gustaría en azul rey, xfa",Pregunta,ropa,abreviaturas,gpt-4o-mini
+1276,hay azul rey en el local?,Pregunta,ropa,normal,gpt-4o-mini
+1277,tienes en otros tonos de azul?,Pregunta,ropa,normal,gpt-4o-mini
+1278,cuanto cuesta el delivery en Santa Cruz?,Pregunta,ropa,normal,gpt-4o-mini
+1279,cuanto es el envió en la ciudad?,Pregunta,ropa,normal,gpt-4o-mini
+1280,envio a Equipetrol cuánto es?,Pregunta,ropa,normal,gpt-4o-mini
+1281,cuanto por el delivery a Pampa de la Isla?,Pregunta,ropa,normal,gpt-4o-mini
+1282,cuanto sale el envío en la ciudad?,Pregunta,ropa,normal,gpt-4o-mini
+1283,cuanto el costo de envío a Villa Primero de Mayo?,Pregunta,ropa,normal,gpt-4o-mini
+1284,cuanto el delivry para mi en el 4to anillo?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1285,cuanto el envío local?,Pregunta,ropa,normal,gpt-4o-mini
+1286,envío a Montero cuánto es?,Pregunta,ropa,normal,gpt-4o-mini
+1287,cuanto sale el envió porfa?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1288,cuanto el envió a mi casa en Satélite Norte?,Pregunta,ropa,normal,gpt-4o-mini
+1289,cuanto es el envio a La Guardia?,Pregunta,ropa,normal,gpt-4o-mini
+1290,cuánto me sale el envío aquí en La Paz?,Pregunta,ropa,normal,gpt-4o-mini
+1291,cuanto el envío en bs?,Pregunta,ropa,normal,gpt-4o-mini
+1292,cuantoo el delivery a Urubó?,Pregunta,ropa,letras_repetidas,gpt-4o-mini
+1293,cuanto delivry a Cotoca?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1294,cuanto el costo del envió a Cochabamba?,Pregunta,ropa,normal,gpt-4o-mini
+1295,cuanto el envió para el 2do anillo?,Pregunta,ropa,normal,gpt-4o-mini
+1296,cuanto será el envío dentro de SCZ?,Pregunta,ropa,normal,gpt-4o-mini
+1297,cuanto es el delivery a casa en Warnes?,Pregunta,ropa,normal,gpt-4o-mini
+1298,cuanto sale el envió dentro de la ciudad xfa?,Pregunta,ropa,abreviaturas,gpt-4o-mini
+1299,hay costo de envío a Santa Cruz?,Pregunta,ropa,normal,gpt-4o-mini
+1300,cuanto el envió a mi barrio?,Pregunta,ropa,normal,gpt-4o-mini
+1301,cuanto es el envió a mi casa?,Pregunta,ropa,normal,gpt-4o-mini
+1302,cuanto me sale el delivery a mi?,Pregunta,ropa,normal,gpt-4o-mini
+1303,de q material está hecho el reloj?,Pregunta,accesorios,normal,gpt-4o-mini
+1304,q material es?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+1305,el reloj es de acero?,Pregunta,accesorios,normal,gpt-4o-mini
+1306,q tal el material del reloj?,Pregunta,accesorios,normal,gpt-4o-mini
+1307,es de metal o de plástico?,Pregunta,accesorios,normal,gpt-4o-mini
+1308,q tipo de material tiene el reloj?,Pregunta,accesorios,normal,gpt-4o-mini
+1309,material en el q está hecho?,Pregunta,accesorios,abreviaturas,gpt-4o-mini
+1310,es de cuero el reloj?,Pregunta,accesorios,normal,gpt-4o-mini
+1311,hay en otro material?,Pregunta,accesorios,normal,gpt-4o-mini
+1312,el reloj es resistente?,Pregunta,accesorios,normal,gpt-4o-mini
+1313,cuánto soporta el material?,Pregunta,accesorios,normal,gpt-4o-mini
+1314,de q material es el correa?,Pregunta,accesorios,normal,gpt-4o-mini
+1315,es de silicona el reloj?,Pregunta,accesorios,normal,gpt-4o-mini
+1316,cuánto material tiene el reloj?,Pregunta,accesorios,normal,gpt-4o-mini
+1317,tiene alguna garantía el material?,Pregunta,accesorios,normal,gpt-4o-mini
+1318,q material sería recomendado?,Pregunta,accesorios,normal,gpt-4o-mini
+1319,es de vidrio o plástico la pantalla?,Pregunta,accesorios,normal,gpt-4o-mini
+1320,material es más duradero?,Pregunta,accesorios,normal,gpt-4o-mini
+1321,q material aguanta agua?,Pregunta,accesorios,normal,gpt-4o-mini
+1322,de metal o de goma?,Pregunta,accesorios,normal,gpt-4o-mini
+1323,cual es el mejor material para un reloj?,Pregunta,accesorios,normal,gpt-4o-mini
+1324,el reloj es de cuarzo o de otro material?,Pregunta,accesorios,normal,gpt-4o-mini
+1325,q material tiene el reloj?,Pregunta,accesorios,letras_repetidas,gpt-4o-mini
+1326,hay en materiales diferentes?,Pregunta,accesorios,normal,gpt-4o-mini
+1327,q material es la caja del reloj?,Pregunta,accesorios,normal,gpt-4o-mini
+1328,es original el material?,Pregunta,accesorios,normal,gpt-4o-mini
+1329,q tal es el acabado del reloj?,Pregunta,accesorios,normal,gpt-4o-mini
+1330,hola desde Cotoca 👋,Otros,,emojis,semilla
+1331,🔥🔥🔥,Otros,,emojis,semilla
+1332,qué linda,Otros,ropa,normal,semilla
+1333,sigueme plis,Otros,,abreviaturas,semilla
+1334,saludos a todos,Otros,,normal,semilla
+1335,jajaja,Otros,,normal,semilla
+1336,holaa,Otros,,letras_repetidas,semilla
+1337,😍😍😍,Otros,maquillaje,emojis,semilla
+1338,buenas tardes,Otros,,normal,semilla
+1339,sos la mejor amiga,Otros,,normal,semilla
+1340,hola desde la villa 1ro de mayo,Otros,,normal,semilla
+1341,SALUDOS DESDE MONTERO,Otros,,mayusculas,semilla
+1342,me encanta tu contenido,Otros,,normal,semilla
+1343,linda la cartera pero no para mi,Otros,accesorios,normal,semilla
+1344,me regalas uno jaja,Otros,,normal,semilla
+1345,primera vez que te veo,Otros,,normal,semilla
+1346,💃💃,Otros,,emojis,semilla
+1347,muy guapa,Otros,,normal,semilla
+1348,sigo tu cuenta hace tiempo,Otros,,normal,semilla
+1349,wowww qué bonito todo,Otros,,letras_repetidas,semilla
+1350,holaaa desde la Pampa 👋,Otros,,letras_repetidas,gpt-4o-mini
+1351,Saludos desde el 2do anillo! 🤗,Otros,,normal,gpt-4o-mini
+1352,"Hola, gente! Desde Warnes 🌟",Otros,,mixto,gpt-4o-mini
+1353,Hola desde Santa Cruz! 🥳,Otros,,emojis,gpt-4o-mini
+1354,Saluditos desde Villa 1ro de Mayo 👋,Otros,,normal,gpt-4o-mini
+1355,Saludooos desde Urubó 🔥,Otros,,letras_repetidas,gpt-4o-mini
+1356,Holi desde Cochabamba! 😊,Otros,,normal,gpt-4o-mini
+1357,Hola desde Satélite Norte! 🖐️,Otros,,emojis,gpt-4o-mini
+1358,qué tal desde La Guardia? 😄,Otros,,normal,gpt-4o-mini
+1359,Holaa desde el Plan 3000! 👋,Otros,,letras_repetidas,gpt-4o-mini
+1360,Saludos desde Montero! 🌈,Otros,,normal,gpt-4o-mini
+1361,Hola desde Equipetrol 🔥,Otros,,emojis,gpt-4o-mini
+1362,Q tal por allá? Desde Cotoca! 😊,Otros,,mixto,gpt-4o-mini
+1363,Holaa desde La Paz! 🌟,Otros,,letras_repetidas,gpt-4o-mini
+1364,Holaaa desde Tarija! 🥳,Otros,,letras_repetidas,gpt-4o-mini
+1365,Hola desde El Alto! 👋,Otros,,emojis,gpt-4o-mini
+1366,Saludos desde la zona Sur! 🤗,Otros,,normal,gpt-4o-mini
+1367,Hola desde Pampa de la Isla! 💖,Otros,,normal,gpt-4o-mini
+1368,"Soy de Warnes, holaa! 🌸",Otros,,normal,gpt-4o-mini
+1369,Hola a todos desde Villa 1ro 👋,Otros,,mixto,gpt-4o-mini
+1370,Qué tal desde 4to anillo? 😄,Otros,,normal,gpt-4o-mini
+1371,Saludos desde el centro de SC! 🌆,Otros,,normal,gpt-4o-mini
+1372,Hola desde Palmasola! 👋,Otros,,letras_repetidas,gpt-4o-mini
+1373,Desde la misma Cotoca! 🤩,Otros,,normal,gpt-4o-mini
+1374,"Holaa desde el 2do, saluditos! 🥳",Otros,,letras_repetidas,gpt-4o-mini
+1375,Hola a todos desde Montero! 🌟,Otros,,normal,gpt-4o-mini
+1376,Holi desde el 3er anillo! 😅,Otros,,normal,gpt-4o-mini
+1377,"Hola desde La Guardia, qué tal? 🤗",Otros,,mixto,gpt-4o-mini
+1378,"Hola desde Santa Cruz, gente! 👏",Otros,,emojis,gpt-4o-mini
+1379,Qué tal amigos de Cotoca? 🖐️,Otros,,normal,gpt-4o-mini
+1380,Saludos desde Tarija! 💚,Otros,,normal,gpt-4o-mini
+1381,Holi desde el Urubó! 🥳,Otros,,letras_repetidas,gpt-4o-mini
+1382,Hola desde Equipetrol! 🌸,Otros,,normal,gpt-4o-mini
+1383,"Hola, desde el 2do anillo! 🌈",Otros,,mixto,gpt-4o-mini
+1384,Holaaa desde Cochabamba! 🔥,Otros,,letras_repetidas,gpt-4o-mini
+1385,Saludos desde El Alto! 👋,Otros,,emojis,gpt-4o-mini
+1386,Holaa desde la zona norte! 🤗,Otros,,mixto,gpt-4o-mini
+1387,Hola desde la Pampa! 😂,Otros,,normal,gpt-4o-mini
+1388,Holi desde Warnes! 💖,Otros,,letras_repetidas,gpt-4o-mini
+1389,Hola desde el Plan 3000! 🥳,Otros,,emojis,gpt-4o-mini
+1390,Saludos desde 4to anillo! 🌆,Otros,,normal,gpt-4o-mini
+1391,"Hola, desde Santa Cruz! 👋",Otros,,normal,gpt-4o-mini
+1392,Holaaa desde el 2do anillo! 🔥,Otros,,letras_repetidas,gpt-4o-mini
+1393,"Hola desde La Paz, gente! 🥳",Otros,,emojis,gpt-4o-mini
+1394,Holi desde Villa 1ro! 😊,Otros,,normal,gpt-4o-mini
+1395,Saludos desde Pampa de la Isla! 💖,Otros,,mixto,gpt-4o-mini
+1396,Hola a todos desde el centro! 🤗,Otros,,normal,gpt-4o-mini
+1397,"Holaa desde Urubó, saluditos! 🌈",Otros,,letras_repetidas,gpt-4o-mini
+1398,"Hola desde Montero, qué tal? 🖐️",Otros,,mixto,gpt-4o-mini
+1399,Saludos desde Satélite Norte! 🔥,Otros,,normal,gpt-4o-mini
+1400,"Holi desde Tarija, 🎉",Otros,,letras_repetidas,gpt-4o-mini
+1401,Hola desde el 4to anillo! 👋,Otros,,normal,gpt-4o-mini
+1402,Qué tal desde Cotoca? 😊,Otros,,normal,gpt-4o-mini
+1403,"Saludos, gente! Desde La Guardia! 🌟",Otros,,mixto,gpt-4o-mini
+1404,😍😍,Otros,,emojis,gpt-4o-mini
+1405,Hola a todos!,Otros,,normal,gpt-4o-mini
+1406,Que belleza 😍,Otros,,emojis,gpt-4o-mini
+1407,Súper interesante!!,Otros,,normal,gpt-4o-mini
+1408,🔥🔥🔥🔥,Otros,,emojis,gpt-4o-mini
+1409,Saludos desde La Guardia,Otros,,normal,gpt-4o-mini
+1410,Que genial!!,Otros,,normal,gpt-4o-mini
+1411,✨✨,Otros,,emojis,gpt-4o-mini
+1412,Me encanta esto!!,Otros,,normal,gpt-4o-mini
+1413,Q hermoso!!,Otros,,abreviaturas,gpt-4o-mini
+1414,💖💖💖,Otros,,emojis,gpt-4o-mini
+1415,"Waw, me gusta!",Otros,,normal,gpt-4o-mini
+1416,Saludos y buenas vibras!,Otros,,normal,gpt-4o-mini
+1417,🔥🔥😍,Otros,,emojis,gpt-4o-mini
+1418,Qué lindo todo!,Otros,,normal,gpt-4o-mini
+1419,"Sigo viendo, q emocionante!",Otros,,normal,gpt-4o-mini
+1420,👏👏👏,Otros,,emojis,gpt-4o-mini
+1421,Impresionante!!!,Otros,,normal,gpt-4o-mini
+1422,Saludos desde el 4to anillo!,Otros,,normal,gpt-4o-mini
+1423,Awesome!!!,Otros,,normal,gpt-4o-mini
+1424,🧡🧡,Otros,,emojis,gpt-4o-mini
+1425,Todo es lo máximo!,Otros,,normal,gpt-4o-mini
+1426,Más de esto plis!,Otros,,abreviaturas,gpt-4o-mini
+1427,🤩🤩,Otros,,emojis,gpt-4o-mini
+1428,Estoy encantado!,Otros,,normal,gpt-4o-mini
+1429,Feliz de estar aquí!,Otros,,normal,gpt-4o-mini
+1430,Increíble lo que hacen! 🔥,Otros,,normal,gpt-4o-mini
+1431,💥💥,Otros,,emojis,gpt-4o-mini
+1432,WOW!!!,Otros,,mayusculas,gpt-4o-mini
+1433,Que buen contenido!,Otros,,normal,gpt-4o-mini
+1434,🤗🤗,Otros,,emojis,gpt-4o-mini
+1435,Todo muy pro!,Otros,,normal,gpt-4o-mini
+1436,Sigan así!,Otros,,normal,gpt-4o-mini
+1437,😱😱,Otros,,emojis,gpt-4o-mini
+1438,Haciendo palmas por esto!,Otros,,normal,gpt-4o-mini
+1439,Todo está genial!!,Otros,,normal,gpt-4o-mini
+1440,🔥❤️,Otros,,emojis,gpt-4o-mini
+1441,Qué bien se ve!,Otros,,normal,gpt-4o-mini
+1442,Amando lo que veo!,Otros,,normal,gpt-4o-mini
+1443,✌️✌️,Otros,,emojis,gpt-4o-mini
+1444,Súper!!,Otros,,normal,gpt-4o-mini
+1445,👏👏🔥,Otros,,mixto,gpt-4o-mini
+1446,Felicidades por el trabajo!,Otros,,normal,gpt-4o-mini
+1447,🔥🔥✨,Otros,,emojis,gpt-4o-mini
+1448,Todo está a otro nivel!,Otros,,normal,gpt-4o-mini
+1449,Saludos desde Pampa de la Isla,Otros,,normal,gpt-4o-mini
+1450,Me encanta este vibe!,Otros,,normal,gpt-4o-mini
+1451,💖🔥,Otros,,emojis,gpt-4o-mini
+1452,Super emocionante!,Otros,,normal,gpt-4o-mini
+1453,👏✨,Otros,,mixto,gpt-4o-mini
+1454,Esto es lo mío!,Otros,,normal,gpt-4o-mini
+1455,Energía pura!!,Otros,,normal,gpt-4o-mini
+1456,😎🔥,Otros,,emojis,gpt-4o-mini
+1457,Estamos aquí por esto!,Otros,,normal,gpt-4o-mini
+1458,Súper contento!,Otros,,normal,gpt-4o-mini
+1459,🙌🙌,Otros,,emojis,gpt-4o-mini
+1460,Cada vez mejor!,Otros,,normal,gpt-4o-mini
+1461,Siempre el mejor contenido!,Otros,,normal,gpt-4o-mini
+1462,🔥😄,Otros,,emojis,gpt-4o-mini
+1463,hermosa la ropa,Otros,ropa,normal,gpt-4o-mini
+1464,me encanta,Otros,ropa,normal,gpt-4o-mini
+1465,muy linda,Otros,ropa,normal,gpt-4o-mini
+1466,qué bonita,Otros,ropa,normal,gpt-4o-mini
+1467,dónde compraron eso?,Otros,ropa,normal,gpt-4o-mini
+1468,"felicitaciones, está chévere",Otros,ropa,normal,gpt-4o-mini
+1469,está de lujo,Otros,ropa,normal,gpt-4o-mini
+1470,super cute,Otros,ropa,normal,gpt-4o-mini
+1471,👏👏,Otros,ropa,emojis,gpt-4o-mini
+1472,qué bárbaro,Otros,ropa,normal,gpt-4o-mini
+1473,me gusta mucho,Otros,ropa,normal,gpt-4o-mini
+1474,"sin palabras, qué belleza",Otros,ropa,normal,gpt-4o-mini
+1475,linda combinación,Otros,ropa,normal,gpt-4o-mini
+1476,me encanta el estilo,Otros,ropa,normal,gpt-4o-mini
+1477,💖💖,Otros,ropa,emojis,gpt-4o-mini
+1478,cada día se superan,Otros,ropa,normal,gpt-4o-mini
+1479,todo está bellísimo,Otros,ropa,normal,gpt-4o-mini
+1480,"qué jodido, parece de pasarela",Otros,ropa,normal,gpt-4o-mini
+1481,que buena onda,Otros,ropa,normal,gpt-4o-mini
+1482,LO QUE NECESTO,Otros,ropa,mayusculas,gpt-4o-mini
+1483,👗🥰,Otros,ropa,emojis,gpt-4o-mini
+1484,lo mejor de lo mejor,Otros,ropa,normal,gpt-4o-mini
+1485,que outfit más bonito,Otros,ropa,normal,gpt-4o-mini
+1486,esto es arte,Otros,ropa,normal,gpt-4o-mini
+1487,"wow, tienen buen gusto",Otros,ropa,normal,gpt-4o-mini
+1488,cada prenda es única,Otros,ropa,normal,gpt-4o-mini
+1489,fabuloso,Otros,ropa,normal,gpt-4o-mini
+1490,no puedo dejar de mirar,Otros,ropa,normal,gpt-4o-mini
+1491,que calidad la de estas ropas,Otros,ropa,normal,gpt-4o-mini
+1492,me flipa,Otros,ropa,normal,gpt-4o-mini
+1493,muy original,Otros,ropa,normal,gpt-4o-mini
+1494,me dejaste sin palabras,Otros,ropa,normal,gpt-4o-mini
+1495,está espectacular,Otros,ropa,normal,gpt-4o-mini
+1496,de lujo,Otros,ropa,normal,gpt-4o-mini
+1497,por ti estoy comprando,Otros,ropa,normal,gpt-4o-mini
+1498,la mejor tienda,Otros,ropa,normal,gpt-4o-mini
+1499,está increible,Otros,ropa,normal,gpt-4o-mini
+1500,que linduras,Otros,ropa,letras_repetidas,gpt-4o-mini
+1501,que divino todo,Otros,ropa,normal,gpt-4o-mini
+1502,maravilloso,Otros,ropa,normal,gpt-4o-mini
+1503,no puedo creer que sea tan bonito,Otros,ropa,normal,gpt-4o-mini
+1504,los colores son hermosos,Otros,ropa,normal,gpt-4o-mini
+1505,que fashion,Otros,ropa,normal,gpt-4o-mini
+1506,😍 qué precioso,Otros,ropa,emojis,gpt-4o-mini
+1507,ya quiero uno!,Otros,ropa,normal,gpt-4o-mini
+1508,"chicas, esto es lo que necesitamos",Otros,ropa,normal,gpt-4o-mini
+1509,no hay palabras para esto,Otros,ropa,normal,gpt-4o-mini
+1510,muy finos,Otros,ropa,normal,gpt-4o-mini
+1511,"ufff, qué belleza",Otros,ropa,normal,gpt-4o-mini
+1512,dónde puedo comprar eso?,Otros,ropa,normal,gpt-4o-mini
+1513,💯💯,Otros,ropa,emojis,gpt-4o-mini
+1514,precioso todo,Otros,ropa,normal,gpt-4o-mini
+1515,esto es lo mejor que he visto,Otros,ropa,normal,gpt-4o-mini
+1516,simplemente espectacular,Otros,ropa,normal,gpt-4o-mini
+1517,hermosas opciones,Otros,ropa,normal,gpt-4o-mini
+1518,qué bien todo,Otros,ropa,normal,gpt-4o-mini
+1519,sígueme xfa,Otros,,abreviaturas,gpt-4o-mini
+1520,sigueme porfa,Otros,,normal,gpt-4o-mini
+1521,sígueme plis 😅,Otros,,emojis,gpt-4o-mini
+1522,sigueme porfaaa,Otros,,letras_repetidas,gpt-4o-mini
+1523,sígueme plis 🙏,Otros,,emojis,gpt-4o-mini
+1524,seguime porfa,Otros,,normal,gpt-4o-mini
+1525,sígueme plis x100,Otros,,letras_repetidas,gpt-4o-mini
+1526,"sigueme, porfavor!",Otros,,normal,gpt-4o-mini
+1527,sígueme porfis,Otros,,abreviaturas,gpt-4o-mini
+1528,sigueme please,Otros,,normal,gpt-4o-mini
+1529,sígueme porfis 🥺,Otros,,emojis,gpt-4o-mini
+1530,sigueme plis plis,Otros,,letras_repetidas,gpt-4o-mini
+1531,"sígueme, tbn",Otros,,abreviaturas,gpt-4o-mini
+1532,"sigueme, xfa",Otros,,normal,gpt-4o-mini
+1533,"sígueme plis, porfavor",Otros,,normal,gpt-4o-mini
+1534,sígueme plis 🙌,Otros,,emojis,gpt-4o-mini
+1535,sigueme bby,Otros,,normal,gpt-4o-mini
+1536,"sígueme, porfa",Otros,,normal,gpt-4o-mini
+1537,sigueme pls!,Otros,,normal,gpt-4o-mini
+1538,sígueme con todo!,Otros,,normal,gpt-4o-mini
+1539,sigueme plis pls,Otros,,letras_repetidas,gpt-4o-mini
+1540,"sígueme, porfis pls",Otros,,mixto,gpt-4o-mini
+1541,"sigueme plis, xfa",Otros,,mixto,gpt-4o-mini
+1542,"sígueme, no se olviden",Otros,,normal,gpt-4o-mini
+1543,sigueme a mi perfil,Otros,,normal,gpt-4o-mini
+1544,"sígueme, te espero",Otros,,normal,gpt-4o-mini
+1545,sigueme porfa plis,Otros,,mixto,gpt-4o-mini
+1546,"sígueme, quiérelo",Otros,,normal,gpt-4o-mini
+1547,sigueme y yo t sigo,Otros,,normal,gpt-4o-mini
+1548,sígueme porfis 🙏,Otros,,emojis,gpt-4o-mini
+1549,sigueme si quieres,Otros,,normal,gpt-4o-mini
+1550,"sígueme, xfa x100",Otros,,letras_repetidas,gpt-4o-mini
+1551,"sigueme plis, sí",Otros,,mixto,gpt-4o-mini
+1552,"sígueme, xfa xfa",Otros,,letras_repetidas,gpt-4o-mini
+1553,sigueme así nomás,Otros,,normal,gpt-4o-mini
+1554,sígueme y yo te sigo!,Otros,,normal,gpt-4o-mini
+1555,"sigueme plis, porfa!",Otros,,mixto,gpt-4o-mini
+1556,"sígueme, con amor",Otros,,normal,gpt-4o-mini
+1557,sigueme plis con corazón ❤️,Otros,,emojis,gpt-4o-mini
+1558,"sígueme, también",Otros,,normal,gpt-4o-mini
+1559,"sigueme, con cariño",Otros,,normal,gpt-4o-mini
+1560,"sígueme, plis 🤲",Otros,,emojis,gpt-4o-mini
+1561,"sigueme, no más",Otros,,normal,gpt-4o-mini
+1562,"sígueme, plis!!!",Otros,,letras_repetidas,gpt-4o-mini
+1563,sigueme si te gusta,Otros,,normal,gpt-4o-mini
+1564,"sígueme, rápido!",Otros,,normal,gpt-4o-mini
+1565,"sigueme, porfavor! 🙏",Otros,,mixto,gpt-4o-mini
+1566,"sígueme, plissss",Otros,,letras_repetidas,gpt-4o-mini
+1567,"sigueme, todo bien",Otros,,normal,gpt-4o-mini
+1568,"sígueme, tkm",Otros,,abreviaturas,gpt-4o-mini
+1569,sigueme y no mientes,Otros,,normal,gpt-4o-mini
+1570,"sígueme, sin miedo",Otros,,normal,gpt-4o-mini
+1571,"sigueme, quiero seguirte",Otros,,normal,gpt-4o-mini
+1572,"sígueme, porfis! 😇",Otros,,emojis,gpt-4o-mini
+1573,"sigueme, por favorrr",Otros,,letras_repetidas,gpt-4o-mini
+1574,holaaa a tooodos,Otros,,letras_repetidas,gpt-4o-mini
+1575,saludos desde el 2do anillo,Otros,,normal,gpt-4o-mini
+1576,buenas a todos!,Otros,,normal,gpt-4o-mini
+1577,😃 saludos x aquí,Otros,,emojis,gpt-4o-mini
+1578,"q tal, saludos!",Otros,,abreviaturas,gpt-4o-mini
+1579,saluditos a todos!,Otros,,normal,gpt-4o-mini
+1580,hola a todos!!!,Otros,,letras_repetidas,gpt-4o-mini
+1581,"saludos, cómo están?",Otros,,normal,gpt-4o-mini
+1582,🥳 saludos a la comunidad,Otros,,emojis,gpt-4o-mini
+1583,saludos a la gente linda,Otros,,normal,gpt-4o-mini
+1584,"que tal muchachos, saludos!",Otros,,normal,gpt-4o-mini
+1585,hola desde La Guardia,Otros,,normal,gpt-4o-mini
+1586,😜 saludos a todos los que están mirando,Otros,,emojis,gpt-4o-mini
+1587,saludos desde el norte,Otros,,normal,gpt-4o-mini
+1588,"que linda la transmisión, saludos!",Otros,,normal,gpt-4o-mini
+1589,saludos fam!!!,Otros,,letras_repetidas,gpt-4o-mini
+1590,"saludos, desde Satélite Norte!",Otros,,normal,gpt-4o-mini
+1591,🤗 saludos a todos los cruceños,Otros,,emojis,gpt-4o-mini
+1592,buen día a todos!,Otros,,normal,gpt-4o-mini
+1593,saludos y buen vibes,Otros,,normal,gpt-4o-mini
+1594,saluditos desde Villa 1ro de Mayo,Otros,,normal,gpt-4o-mini
+1595,holaa a los que están en vivo!!,Otros,,letras_repetidas,gpt-4o-mini
+1596,saludos desde Urubó,Otros,,normal,gpt-4o-mini
+1597,saludos y buenas energías!,Otros,,normal,gpt-4o-mini
+1598,"q linda la transmitción, saludos!!!",Otros,,abreviaturas,gpt-4o-mini
+1599,saludos a mi gente,Otros,,normal,gpt-4o-mini
+1600,😎 saludos a todos los que ven esto,Otros,,emojis,gpt-4o-mini
+1601,saludos cordiales,Otros,,normal,gpt-4o-mini
+1602,holaaa desde Cotoca,Otros,,letras_repetidas,gpt-4o-mini
+1603,"espero que estén bien, saludos!",Otros,,normal,gpt-4o-mini
+1604,saludos desde Warnes,Otros,,normal,gpt-4o-mini
+1605,"buenas, saludos a toda la banda!",Otros,,normal,gpt-4o-mini
+1606,saludos y abrazos!,Otros,,normal,gpt-4o-mini
+1607,holaaa a todo el mundo,Otros,,letras_repetidas,gpt-4o-mini
+1608,saludos desde Cochabamba,Otros,,normal,gpt-4o-mini
+1609,saludos a los que están en vivo!!!,Otros,,letras_repetidas,gpt-4o-mini
+1610,hola desde Montero!,Otros,,normal,gpt-4o-mini
+1611,saludos a los fanáticos,Otros,,normal,gpt-4o-mini
+1612,"holaa, saludos a todos los cruceños!!",Otros,,letras_repetidas,gpt-4o-mini
+1613,saludos desde el 4to anillo,Otros,,normal,gpt-4o-mini
+1614,"muy buen live, saludos!",Otros,,normal,gpt-4o-mini
+1615,"saludos, qué lindo todo!",Otros,,normal,gpt-4o-mini
+1616,buenas a todos los que están!,Otros,,normal,gpt-4o-mini
+1617,hola a la comunidad cruceña,Otros,,normal,gpt-4o-mini
+1618,saludos desde La Paz,Otros,,normal,gpt-4o-mini
+1619,saluditos desde el sur,Otros,,normal,gpt-4o-mini
+1620,"holaaa, que buen live! saludos",Otros,,letras_repetidas,gpt-4o-mini
+1621,"que onda, saludos!",Otros,,normal,gpt-4o-mini
+1622,saludos a todos mis amigos!,Otros,,normal,gpt-4o-mini
+1623,👍 saludos desde Equipetrol,Otros,,emojis,gpt-4o-mini
+1624,saludos a los nuevos,Otros,,normal,gpt-4o-mini
+1625,saludos desde el centro,Otros,,normal,gpt-4o-mini
+1626,saludos y mucho ánimo!,Otros,,normal,gpt-4o-mini
+1627,holaaa a toda la gente buena,Otros,,letras_repetidas,gpt-4o-mini
+1628,un saludo a todos los que están entrando!,Otros,,normal,gpt-4o-mini
+1629,jajaja que buenaaa,Otros,,letras_repetidas,gpt-4o-mini
+1630,jajaja me muerooo,Otros,,letras_repetidas,gpt-4o-mini
+1631,"jajajaja, no puedo creerlo",Otros,,normal,gpt-4o-mini
+1632,🤣🤣🤣,Otros,,emojis,gpt-4o-mini
+1633,jajajajajaja,Otros,,letras_repetidas,gpt-4o-mini
+1634,jaja xfaaa,Otros,,abreviaturas,gpt-4o-mini
+1635,😂😂😂,Otros,,emojis,gpt-4o-mini
+1636,"jajaja, que cómico",Otros,,normal,gpt-4o-mini
+1637,"jaja, muy gracioso",Otros,,normal,gpt-4o-mini
+1638,jajaja buenísimo,Otros,,normal,gpt-4o-mini
+1639,me estoy riendo,Otros,,normal,gpt-4o-mini
+1640,"jaja, como siempre",Otros,,normal,gpt-4o-mini
+1641,jajajaja que locura,Otros,,normal,gpt-4o-mini
+1642,"jajaja, gran show",Otros,,normal,gpt-4o-mini
+1643,"jajajaja, me encanta",Otros,,normal,gpt-4o-mini
+1644,"jaja, no entiendo pero me rio",Otros,,normal,gpt-4o-mini
+1645,"jajajaja, qué divertido",Otros,,normal,gpt-4o-mini
+1646,"jajaja, otra vez con eso",Otros,,normal,gpt-4o-mini
+1647,"jajajaja, lo amo",Otros,,normal,gpt-4o-mini
+1648,me da risa lo que dicen,Otros,,normal,gpt-4o-mini
+1649,"jaja, eso no lo esperaba",Otros,,normal,gpt-4o-mini
+1650,"😂 reídete, es lo mejor!",Otros,,emojis,gpt-4o-mini
+1651,"jajajaja, qué genial",Otros,,normal,gpt-4o-mini
+1652,"jaja, cuánta locura",Otros,,normal,gpt-4o-mini
+1653,"jajaja, a morir de risa",Otros,,normal,gpt-4o-mini
+1654,"jajaja, sí, sí, sí",Otros,,letras_repetidas,gpt-4o-mini
+1655,"jajajajajaja, más así",Otros,,letras_repetidas,gpt-4o-mini
+1656,🤣 no puedo más,Otros,,emojis,gpt-4o-mini
+1657,"jaja, solo acá",Otros,,normal,gpt-4o-mini
+1658,"jajajajaja, risa eterna",Otros,,letras_repetidas,gpt-4o-mini
+1659,"yo riendo, jaja",Otros,,mixto,gpt-4o-mini
+1660,"jajajaja, que felicidad",Otros,,normal,gpt-4o-mini
+1661,"jaja, lo mejor!!!",Otros,,normal,gpt-4o-mini
+1662,"jajaja, me encanta tu humor",Otros,,normal,gpt-4o-mini
+1663,"jajaja, no hay cómo",Otros,,normal,gpt-4o-mini
+1664,"😂😂😂, qué locura",Otros,,emojis,gpt-4o-mini
+1665,"jaja, y eso a quién le pasa",Otros,,normal,gpt-4o-mini
+1666,"jajaja, esto no tiene fin",Otros,,normal,gpt-4o-mini
+1667,"jajajaja, qué tal!",Otros,,normal,gpt-4o-mini
+1668,"jajaja, me estoy riendo mucho",Otros,,normal,gpt-4o-mini
+1669,"jaja, sos un genio",Otros,,normal,gpt-4o-mini
+1670,"jajajaja, pura risa",Otros,,normal,gpt-4o-mini
+1671,"jajaja, tengo que compartir esto",Otros,,normal,gpt-4o-mini
+1672,"jajaja, mereces un aplauso",Otros,,normal,gpt-4o-mini
+1673,🤣 muero de risa,Otros,,emojis,gpt-4o-mini
+1674,"jajaja, nunca lo había pensado",Otros,,normal,gpt-4o-mini
+1675,"jaja, salúdame porfaa",Otros,,abreviaturas,gpt-4o-mini
+1676,"jajaja, muy gracioso todo",Otros,,normal,gpt-4o-mini
+1677,"🤣🤣, esto no tiene precio",Otros,,emojis,gpt-4o-mini
+1678,"jajajaja, hazlo otra vez",Otros,,normal,gpt-4o-mini
+1679,"jajajaja, cada vez mejor",Otros,,normal,gpt-4o-mini
+1680,yo riendo todo el día,Otros,,normal,gpt-4o-mini
+1681,"jajaja, esto es magia",Otros,,normal,gpt-4o-mini
+1682,"jajajaja, pura risa aquí",Otros,,normal,gpt-4o-mini
+1683,"🤣🤣🤣, qué locos",Otros,,emojis,gpt-4o-mini
+1684,"jajaja, acabo de llegar",Otros,,normal,gpt-4o-mini
+1685,"jaja, me gusta tu vibra",Otros,,normal,gpt-4o-mini
+1686,"jajajaja, por favor, más",Otros,,normal,gpt-4o-mini
+1687,"jajaja, no me lo esperaba",Otros,,normal,gpt-4o-mini
+1688,"jajaja, que risa más contagiosa",Otros,,normal,gpt-4o-mini
+1689,hola gente!,Otros,,normal,gpt-4o-mini
+1690,holaa a todos!,Otros,,letras_repetidas,gpt-4o-mini
+1691,holaaa 💖,Otros,,emojis,gpt-4o-mini
+1692,Holaaaaaa🔥🔥,Otros,,letras_repetidas,gpt-4o-mini
+1693,q tal amigos?,Otros,,abreviaturas,gpt-4o-mini
+1694,HOLA 👋,Otros,,mayusculas,gpt-4o-mini
+1695,Hola desde Pampa de la Isla,Otros,,normal,gpt-4o-mini
+1696,"holaa, todo bien?",Otros,,normal,gpt-4o-mini
+1697,holaaa gente linda!,Otros,,letras_repetidas,gpt-4o-mini
+1698,holaaaaaa 😍,Otros,,emojis,gpt-4o-mini
+1699,holaa xfa,Otros,,abreviaturas,gpt-4o-mini
+1700,uenasss,Otros,,letras_repetidas,gpt-4o-mini
+1701,Hola desde Cotoca!,Otros,,normal,gpt-4o-mini
+1702,holaa😊,Otros,,emojis,gpt-4o-mini
+1703,HOLA!!!,Otros,,mayusculas,gpt-4o-mini
+1704,"Holaaa, cómo están?",Otros,,normal,gpt-4o-mini
+1705,"Hola, desde el Urubó",Otros,,normal,gpt-4o-mini
+1706,holaa🥳,Otros,,emojis,gpt-4o-mini
+1707,"Holaa, qué hay?",Otros,,normal,gpt-4o-mini
+1708,"holaaa, q xdd?",Otros,,abreviaturas,gpt-4o-mini
+1709,holaaaa todo cool?,Otros,,letras_repetidas,gpt-4o-mini
+1710,Saluditos!,Otros,,normal,gpt-4o-mini
+1711,holaaa chicos!!,Otros,,letras_repetidas,gpt-4o-mini
+1712,"Holaaa, desde Villa 1ro de Mayo",Otros,,normal,gpt-4o-mini
+1713,Hola a toda la comunidad 💕,Otros,,emojis,gpt-4o-mini
+1714,holaa por aquí,Otros,,normal,gpt-4o-mini
+1715,Hola desde La Guardia!!!,Otros,,normal,gpt-4o-mini
+1716,"holaa, q hacen?",Otros,,abreviaturas,gpt-4o-mini
+1717,holaaaaa 🔥🔥,Otros,,letras_repetidas,gpt-4o-mini
+1718,Hola! Estoy por aquí,Otros,,normal,gpt-4o-mini
+1719,"holaaa, felicidadesss",Otros,,letras_repetidas,gpt-4o-mini
+1720,Hola desde el 4to anillo,Otros,,normal,gpt-4o-mini
+1721,"Holaaa, saludos a todos!",Otros,,normal,gpt-4o-mini
+1722,"holaa, soy nueva aquí!",Otros,,normal,gpt-4o-mini
+1723,"holaa, con quién hablo?",Otros,,normal,gpt-4o-mini
+1724,"Holaa, todo bonito?",Otros,,normal,gpt-4o-mini
+1725,holaaaaaa,Otros,,letras_repetidas,gpt-4o-mini
+1726,"Holaaa, q hay de nuevo?",Otros,,normal,gpt-4o-mini
+1727,Hola desde Equipetrol!,Otros,,normal,gpt-4o-mini
+1728,"holaa, de dónde me ven?",Otros,,normal,gpt-4o-mini
+1729,Holaaa! Que tal están?,Otros,,normal,gpt-4o-mini
+1730,"holaa, soy de Warnes",Otros,,normal,gpt-4o-mini
+1731,hola de nuevo!,Otros,,normal,gpt-4o-mini
+1732,"Holaaaa, buen día!",Otros,,normal,gpt-4o-mini
+1733,"holaaa, saludos a todas",Otros,,normal,gpt-4o-mini
+1734,Hola! 😄,Otros,,emojis,gpt-4o-mini
+1735,"holaaaa, desde allá!",Otros,,normal,gpt-4o-mini
+1736,Hola! Espero que estén bien,Otros,,normal,gpt-4o-mini
+1737,"Holaaa, q rico estar aquí",Otros,,normal,gpt-4o-mini
+1738,"holaa, son mis favoritos",Otros,,normal,gpt-4o-mini
+1739,"holaa, todo chido?",Otros,,abreviaturas,gpt-4o-mini
+1740,"Holaaa, q tal, gente?",Otros,,normal,gpt-4o-mini
+1741,Hola a todos desde Cotoca! 💖,Otros,,emojis,gpt-4o-mini
+1742,"holaaaa, donde están?",Otros,,normal,gpt-4o-mini
+1743,Holaaa! Quiero ver más!,Otros,,normal,gpt-4o-mini
+1744,"Holi, todo bien? 😍",Otros,maquillaje,normal,gpt-4o-mini
+1745,Me encanta este maquillaje! 💄😍,Otros,maquillaje,normal,gpt-4o-mini
+1746,😍😍 q lindo todo!,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1747,"Waaau, que bonito!!! 😍😍",Otros,maquillaje,normal,gpt-4o-mini
+1748,Me muero por estos colores! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1749,"Lindo, lindo, lindo! 😍",Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1750,Que bellos productos! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1751,"Wow, amooo!!! 😍😍",Otros,maquillaje,normal,gpt-4o-mini
+1752,Espectacular! 👏😍,Otros,maquillaje,normal,gpt-4o-mini
+1753,Esto es lo que necesito 😍,Otros,maquillaje,normal,gpt-4o-mini
+1754,Hermoso! 💖😍,Otros,maquillaje,normal,gpt-4o-mini
+1755,Quiero todo! 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1756,Que bonito lo que muestran 😍,Otros,maquillaje,normal,gpt-4o-mini
+1757,Amo los colores! 😍✨,Otros,maquillaje,normal,gpt-4o-mini
+1758,😍😍 quiero uno de esos!,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1759,Amo este maquillaje!! 🌈😍,Otros,maquillaje,normal,gpt-4o-mini
+1760,Que bellos los tonos!! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1761,Súper lindo! 🙌😍,Otros,maquillaje,normal,gpt-4o-mini
+1762,Me encanta la variedad!😍,Otros,maquillaje,normal,gpt-4o-mini
+1763,No puedo con tanta belleza! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1764,Esto está increíble 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1765,Súper chic esta línea 😍,Otros,maquillaje,normal,gpt-4o-mini
+1766,"OMG, bellos productos! 😍",Otros,maquillaje,normal,gpt-4o-mini
+1767,😍🤩 es lo mejor!,Otros,maquillaje,emojis,gpt-4o-mini
+1768,Que lindo!!!😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1769,Los quiero todos! 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1770,Que genial!! Me fascina! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1771,Beautifull 😍🍃,Otros,maquillaje,normal,gpt-4o-mini
+1772,🔥🔥 me encanta este maquillaje,Otros,maquillaje,emojis,gpt-4o-mini
+1773,Que delicia de producto! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1774,Amo todo! 😍😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1775,Que hermosura! 😍✨,Otros,maquillaje,normal,gpt-4o-mini
+1776,Sigan mostrando esto! 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1777,Divino esto! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1778,😍😍 que bien se ve!,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1779,Esa paleta es un sueño! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1780,Hermoso todo! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1781,Que encantador!! 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1782,Increíble 😍,Otros,maquillaje,normal,gpt-4o-mini
+1783,Maravilloso todo esto! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1784,Esto quiero para mí! 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1785,Bellísimo maquillaje! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1786,😍😍 ese labial es una joya,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1787,Esas sombras son muy bellas! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1788,"Noo, que increíble!! 😍",Otros,maquillaje,normal,gpt-4o-mini
+1789,Que colores más vibrantes! 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1790,Me fascina! 🥰😍,Otros,maquillaje,emojis,gpt-4o-mini
+1791,Que hermoso producto!! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1792,Amo esta tendencia! 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1793,¡Genial! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1794,Esto es pura belleza! 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1795,Tan fabuloso! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1796,😍 a que hora empiezan?,Otros,maquillaje,normal,gpt-4o-mini
+1797,Qué selección tan chida! 😍,Otros,maquillaje,normal,gpt-4o-mini
+1798,"Waaao, me encanta! 😍",Otros,maquillaje,normal,gpt-4o-mini
+1799,Eso es arte 😍😍,Otros,maquillaje,letras_repetidas,gpt-4o-mini
+1800,hola a tooodos!,Otros,,letras_repetidas,gpt-4o-mini
+1801,buenas!!!,Otros,,normal,gpt-4o-mini
+1802,tardes gente!,Otros,,normal,gpt-4o-mini
+1803,holaaaa desde el 4to anillo,Otros,,letras_repetidas,gpt-4o-mini
+1804,"qué tal, cómo están?",Otros,,normal,gpt-4o-mini
+1805,buenas a la comunidad!,Otros,,normal,gpt-4o-mini
+1806,holis a todos!,Otros,,letras_repetidas,gpt-4o-mini
+1807,muy buenas tardes!,Otros,,normal,gpt-4o-mini
+1808,buenas noches xfa,Otros,,abreviaturas,gpt-4o-mini
+1809,holaaa desde Palmasola,Otros,,letras_repetidas,gpt-4o-mini
+1810,buenaas gente!,Otros,,letras_repetidas,gpt-4o-mini
+1811,buenas tardes! 🎉,Otros,,emojis,gpt-4o-mini
+1812,"hola, como va todo?",Otros,,normal,gpt-4o-mini
+1813,"buenas, que hay por acá?",Otros,,normal,gpt-4o-mini
+1814,"holaaa, listos para comprar?",Otros,,letras_repetidas,gpt-4o-mini
+1815,saludos desde el Pampa de la Isla,Otros,,normal,gpt-4o-mini
+1816,"buenas, qué ofrecen hoy?",Otros,,normal,gpt-4o-mini
+1817,holaaa!!,Otros,,letras_repetidas,gpt-4o-mini
+1818,muy buenas a todos!!!,Otros,,letras_repetidas,gpt-4o-mini
+1819,"buenas tardes, que hay de nuevo?",Otros,,normal,gpt-4o-mini
+1820,buenas a la familia cruceña!,Otros,,normal,gpt-4o-mini
+1821,"hola, como están??",Otros,,normal,gpt-4o-mini
+1822,"buenas, muy feliz aquí!",Otros,,normal,gpt-4o-mini
+1823,"holaa, un saludo para todos!",Otros,,letras_repetidas,gpt-4o-mini
+1824,buenas tardes a todos los que están!,Otros,,normal,gpt-4o-mini
+1825,"buenas tardes, listos para el live?",Otros,,normal,gpt-4o-mini
+1826,"holaaaa, que tal?",Otros,,letras_repetidas,gpt-4o-mini
+1827,buenas tardes de Cotoca!,Otros,,normal,gpt-4o-mini
+1828,"holaa, como va la venta?",Otros,,normal,gpt-4o-mini
+1829,"buenas, todo bien por acá",Otros,,normal,gpt-4o-mini
+1830,buenas a todos los que se conectan!,Otros,,normal,gpt-4o-mini
+1831,"holaaa, super emocionado!",Otros,,letras_repetidas,gpt-4o-mini
+1832,"buenas, qué tienen para hoy?",Otros,,normal,gpt-4o-mini
+1833,"holis, que tal todo?",Otros,,letras_repetidas,gpt-4o-mini
+1834,"buenas tardes, gente hermosa!",Otros,,normal,gpt-4o-mini
+1835,"hola a todos, buenas!",Otros,,normal,gpt-4o-mini
+1836,"buenas, espero que tengan un buen día!",Otros,,normal,gpt-4o-mini
+1837,"holaaa, que bien verlos!",Otros,,letras_repetidas,gpt-4o-mini
+1838,buenas a la comunidad cruceña!,Otros,,normal,gpt-4o-mini
+1839,hola desde Santa Cruz!,Otros,,normal,gpt-4o-mini
+1840,"hola, como andan?",Otros,,normal,gpt-4o-mini
+1841,"buenas tardes, a disfrutar!",Otros,,normal,gpt-4o-mini
+1842,"holis, buenas tardes a todos!",Otros,,letras_repetidas,gpt-4o-mini
+1843,"buenas, desde el 2do anillo!",Otros,,normal,gpt-4o-mini
+1844,"hola a todos, cómo están?",Otros,,normal,gpt-4o-mini
+1845,"buenas, muy feliz de estar aquí!",Otros,,normal,gpt-4o-mini
+1846,holaaa desde el Urubó,Otros,,letras_repetidas,gpt-4o-mini
+1847,"buenas, como va la venta?",Otros,,normal,gpt-4o-mini
+1848,"buenas tardes, espero que estén bien!",Otros,,normal,gpt-4o-mini
+1849,"holaaaa, listos para lo que venga!",Otros,,letras_repetidas,gpt-4o-mini
+1850,buenaas tardes con todos!,Otros,,letras_repetidas,gpt-4o-mini
+1851,"hola, desde el 4to anillo!",Otros,,normal,gpt-4o-mini
+1852,"buenas tardes, que buena vibra aquí!",Otros,,normal,gpt-4o-mini
+1853,"sos increíble, amiga!",Otros,,normal,gpt-4o-mini
+1854,la mejorrr de todas,Otros,,letras_repetidas,gpt-4o-mini
+1855,"tqm, eres genial! ❤️",Otros,,emojis,gpt-4o-mini
+1856,"te adoro, mejor amiga!",Otros,,normal,gpt-4o-mini
+1857,la mejor amiga del mundo,Otros,,normal,gpt-4o-mini
+1858,"mi mejor amiga, siempre!",Otros,,normal,gpt-4o-mini
+1859,simplemente la mejor! 🎉,Otros,,emojis,gpt-4o-mini
+1860,"sos la mejor, xfa nunca cambies",Otros,,abreviaturas,gpt-4o-mini
+1861,"que linda eres, amiga",Otros,,normal,gpt-4o-mini
+1862,"me encantas, mi mejor 😍",Otros,,emojis,gpt-4o-mini
+1863,eres la mejor amiga del universo,Otros,,normal,gpt-4o-mini
+1864,"te quiero un montón, amiga!",Otros,,normal,gpt-4o-mini
+1865,"eres la mejor, no lo olvides!",Otros,,normal,gpt-4o-mini
+1866,"sos lo máximo, amiga!",Otros,,normal,gpt-4o-mini
+1867,las mejores amigas siempre juntas!,Otros,,normal,gpt-4o-mini
+1868,"eres más que una amiga, sos mi hermana",Otros,,normal,gpt-4o-mini
+1869,sos la mejor amiga que podría tener 💞,Otros,,emojis,gpt-4o-mini
+1870,"la mejor, no hay duda!",Otros,,normal,gpt-4o-mini
+1871,brindemos por nuestra amistad! 🥂,Otros,,emojis,gpt-4o-mini
+1872,"eres única, amiga!",Otros,,normal,gpt-4o-mini
+1873,mi apoyo incondicional siempre!,Otros,,normal,gpt-4o-mini
+1874,"AMIGA, SOS LO MEJOR!",Otros,,mayusculas,gpt-4o-mini
+1875,te llevo en el corazón siempre,Otros,,normal,gpt-4o-mini
+1876,no hay amiga como tú!,Otros,,normal,gpt-4o-mini
+1877,de las mejores amigas de la vida! 💖,Otros,,emojis,gpt-4o-mini
+1878,"que linda eres, amiga mía",Otros,,normal,gpt-4o-mini
+1879,cada día me sorprendes más!,Otros,,normal,gpt-4o-mini
+1880,"la mejor amiga, no hay más",Otros,,normal,gpt-4o-mini
+1881,"mi amiga favorita, siempre!",Otros,,normal,gpt-4o-mini
+1882,sos el apoyo que necesito!,Otros,,normal,gpt-4o-mini
+1883,las mejores anécdotas contigo,Otros,,normal,gpt-4o-mini
+1884,un brindis por la mejor amiga! 🥳,Otros,,emojis,gpt-4o-mini
+1885,estoy agradecida de tenerte,Otros,,normal,gpt-4o-mini
+1886,"eres la mejor, no cambies nunca!",Otros,,normal,gpt-4o-mini
+1887,tus ocurrencias nunca me aburren!,Otros,,normal,gpt-4o-mini
+1888,mi amiga del alma ❤️,Otros,,emojis,gpt-4o-mini
+1889,sos mi motivación diaria!,Otros,,normal,gpt-4o-mini
+1890,"siempre serás la mejor, no hay más",Otros,,normal,gpt-4o-mini
+1891,"gracias por ser tan increíble, amiga",Otros,,normal,gpt-4o-mini
+1892,deberíamos salir más juntas!,Otros,,normal,gpt-4o-mini
+1893,lo mejor de mi vida es tenerte como amiga,Otros,,normal,gpt-4o-mini
+1894,te quiero hasta la luna y de regreso,Otros,,normal,gpt-4o-mini
+1895,nunca te olvides de lo grandiosa que eres!,Otros,,normal,gpt-4o-mini
+1896,mi confidente y mejor amiga siempre!,Otros,,normal,gpt-4o-mini
+1897,siento que nunca estaré sola contigo,Otros,,normal,gpt-4o-mini
+1898,eres el mejor regalo de la vida!,Otros,,normal,gpt-4o-mini
+1899,"te llevo en el corazón, amiga!",Otros,,normal,gpt-4o-mini
+1900,"siempre a tu lado, mejor amiga!",Otros,,normal,gpt-4o-mini
+1901,la gran amiga que todos desearían tener,Otros,,normal,gpt-4o-mini
+1902,no hay nada como una buena amiga!,Otros,,normal,gpt-4o-mini
+1903,"siempre estaré aquí para ti, amiga!",Otros,,normal,gpt-4o-mini
+1904,las mejores risas contigo nunca faltan!,Otros,,normal,gpt-4o-mini
+1905,"sos mi todo, mejor amiga!",Otros,,normal,gpt-4o-mini
+1906,"a tu lado siempre, amiga!",Otros,,normal,gpt-4o-mini
+1907,sos la razón de muchas sonrisas,Otros,,normal,gpt-4o-mini
+1908,lo bueno de la vida es tenerte!,Otros,,normal,gpt-4o-mini
+1909,una amiga como tú es difícil de encontrar,Otros,,normal,gpt-4o-mini
+1910,las mejores aventuras juntas!,Otros,,normal,gpt-4o-mini
+1911,"te quiero, amiga! siempre contigo",Otros,,normal,gpt-4o-mini
+1912,siempre serás mi mejor amiga,Otros,,normal,gpt-4o-mini
+1913,hola desde Pampa de la Isla!,Otros,,normal,gpt-4o-mini
+1914,saludos desde 4to anillo 🔥,Otros,,emojis,gpt-4o-mini
+1915,holaa desde Equipetrol ☀️,Otros,,emojis,gpt-4o-mini
+1916,qué tal desde Montero,Otros,,normal,gpt-4o-mini
+1917,salu2 desde Cotoca!,Otros,,abreviaturas,gpt-4o-mini
+1918,hola desde Warnes!!,Otros,,letras_repetidas,gpt-4o-mini
+1919,holaaa desde La Guardia,Otros,,letras_repetidas,gpt-4o-mini
+1920,saludos a todos desde 2do anillo,Otros,,normal,gpt-4o-mini
+1921,"hola, soy de Urubó",Otros,,normal,gpt-4o-mini
+1922,hola desde Santa Cruz 😁,Otros,,emojis,gpt-4o-mini
+1923,saludos desde Villa 1ro de Mayo!!!,Otros,,letras_repetidas,gpt-4o-mini
+1924,hola desde Satélite Norte,Otros,,normal,gpt-4o-mini
+1925,"holaaa, desde Tarija",Otros,,letras_repetidas,gpt-4o-mini
+1926,hola desde El Alto,Otros,,normal,gpt-4o-mini
+1927,saluditos desde Cochabamba,Otros,,normal,gpt-4o-mini
+1928,holaaa de 3er anillo,Otros,,letras_repetidas,gpt-4o-mini
+1929,hola desde la zona sur!,Otros,,normal,gpt-4o-mini
+1930,que tal desde 4to anillo,Otros,,normal,gpt-4o-mini
+1931,hola desde el centro cruceño,Otros,,normal,gpt-4o-mini
+1932,buen día desde La Paz,Otros,,normal,gpt-4o-mini
+1933,holaaa desde Palmasola!!,Otros,,letras_repetidas,gpt-4o-mini
+1934,hola desde la zona norte 😊,Otros,,emojis,gpt-4o-mini
+1935,hola desde Villa Primero de Mayo,Otros,,normal,gpt-4o-mini
+1936,saludos desde el Beni!,Otros,,normal,gpt-4o-mini
+1937,holaaa desde el mercado!,Otros,,letras_repetidas,gpt-4o-mini
+1938,hola desde el Parque Industrial,Otros,,normal,gpt-4o-mini
+1939,holaaa de mi casa,Otros,,letras_repetidas,gpt-4o-mini
+1940,hola desde el barrio,Otros,,normal,gpt-4o-mini
+1941,saludos desde el Urubó,Otros,,normal,gpt-4o-mini
+1942,hola desde Santa Cruz de la Sierra,Otros,,normal,gpt-4o-mini
+1943,holaaa desde la capital cruceña!,Otros,,letras_repetidas,gpt-4o-mini
+1944,hola desde la 4to anillo,Otros,,normal,gpt-4o-mini
+1945,saludos a todos desde Equipetrol,Otros,,normal,gpt-4o-mini
+1946,holaaa desde el norte cruceño!,Otros,,letras_repetidas,gpt-4o-mini
+1947,hola desde Campos de fuerza,Otros,,normal,gpt-4o-mini
+1948,salu2 desde la Villa!,Otros,,abreviaturas,gpt-4o-mini
+1949,hola desde la zona sur cruceña,Otros,,normal,gpt-4o-mini
+1950,hola desde San Ignacio,Otros,,normal,gpt-4o-mini
+1951,saludos desde Santa Cruz!,Otros,,normal,gpt-4o-mini
+1952,holaaa desde la municipalidad,Otros,,letras_repetidas,gpt-4o-mini
+1953,hola desde el aeropuerto,Otros,,normal,gpt-4o-mini
+1954,saludos desde la villa cruceña!,Otros,,normal,gpt-4o-mini
+1955,holaaa desde la zona este,Otros,,letras_repetidas,gpt-4o-mini
+1956,hola desde el mercado negro,Otros,,normal,gpt-4o-mini
+1957,hola desde la plaza 24 de Septiembre,Otros,,normal,gpt-4o-mini
+1958,holaaa desde el corazón cruceño,Otros,,letras_repetidas,gpt-4o-mini
+1959,hola desde la ciudad!,Otros,,normal,gpt-4o-mini
+1960,saludos desde La Paz!,Otros,,normal,gpt-4o-mini
+1961,hola de vuelta a la villa!,Otros,,normal,gpt-4o-mini
+1962,holaaa desde mi casa en el barrio,Otros,,letras_repetidas,gpt-4o-mini
+1963,"hola desde Santa Cruz, la mejor!",Otros,,normal,gpt-4o-mini
+1964,hola desde donde hay buena comida,Otros,,normal,gpt-4o-mini
+1965,"holaaa, alegra desde 2do anillo",Otros,,letras_repetidas,gpt-4o-mini
+1966,hola desde un rincón de Santa Cruz,Otros,,normal,gpt-4o-mini
+1967,Hola desde La Guardia!,Otros,,normal,gpt-4o-mini
+1968,Saludos desde Satélite Norte!,Otros,,normal,gpt-4o-mini
+1969,"Qué tal, gente! Desde el 4to anillo!",Otros,,normal,gpt-4o-mini
+1970,Holaaa desde Pampa de la Isla!,Otros,,letras_repetidas,gpt-4o-mini
+1971,Saludos a todos desde el 2do anillo!,Otros,,normal,gpt-4o-mini
+1972,"Hola, hola desde Cotoca! 😄",Otros,,emojis,gpt-4o-mini
+1973,Saludos a todos desde Cochabamba!,Otros,,normal,gpt-4o-mini
+1974,Holi desde Urubó! 🥳,Otros,,emojis,gpt-4o-mini
+1975,"Qué linda la ropa, desde Villa 1ro de Mayo!",Otros,,normal,gpt-4o-mini
+1976,Hola desde el Plan 3000!!,Otros,,normal,gpt-4o-mini
+1977,Saluudos desde Warnes!,Otros,,letras_repetidas,gpt-4o-mini
+1978,"Desde El Alto, saludos!",Otros,,normal,gpt-4o-mini
+1979,Saludos desde Tarija! 🔥,Otros,,emojis,gpt-4o-mini
+1980,Hola desde Sucre!,Otros,,normal,gpt-4o-mini
+1981,Saluditos desde Palmasola!,Otros,,normal,gpt-4o-mini
+1982,Holi desde Montero!!,Otros,,letras_repetidas,gpt-4o-mini
+1983,Saludos desde el corazón de Santa Cruz!,Otros,,normal,gpt-4o-mini
+1984,"Hola desde 4to anillo, gente! 🙌",Otros,,emojis,gpt-4o-mini
+1985,Desde Villa 1ro de Mayo con cariño!,Otros,,normal,gpt-4o-mini
+1986,Holi! Desde el Pampa de la Isla!,Otros,,letras_repetidas,gpt-4o-mini
+1987,Saludos a todos los cruceños! 😍,Otros,,emojis,gpt-4o-mini
+1988,Hola desde el Plan 3000,Otros,,normal,gpt-4o-mini
+1989,"Holaaa, desde Warnes!",Otros,,letras_repetidas,gpt-4o-mini
+1990,"Desde la ciudad de Cochabamba, saludos!",Otros,,normal,gpt-4o-mini
+1991,Saludos desde la zona de Equipetrol!,Otros,,normal,gpt-4o-mini
+1992,Hola! Desde el 2do anillo!,Otros,,normal,gpt-4o-mini
+1993,Holi desde el Urubó!,Otros,,letras_repetidas,gpt-4o-mini
+1994,"Saludos desde Montero, qué hay de nuevo?",Otros,,normal,gpt-4o-mini
+1995,Hola desde Cotoca!!,Otros,,letras_repetidas,gpt-4o-mini
+1996,Saluuditos desde el 4to anillo!,Otros,,letras_repetidas,gpt-4o-mini
+1997,Hola amigos desde Warnes! 👋,Otros,,emojis,gpt-4o-mini
+1998,Saludos desde el corazón de Bolivia!,Otros,,normal,gpt-4o-mini
+1999,"Hola desde Montero, que bien se ve todo! 😁",Otros,,emojis,gpt-4o-mini
+2000,"Saludos desde Villa 1ro de Mayo, xfa cuenten de los productos!",Otros,,abreviaturas,gpt-4o-mini
+2001,Holi desde Palmasola!,Otros,,letras_repetidas,gpt-4o-mini
+2002,Saludos desde Pampa de la Isla! 🌞,Otros,,emojis,gpt-4o-mini
+2003,Hola desde Satélite Norte!,Otros,,normal,gpt-4o-mini
+2004,"Saludos desde el 2do anillo, todo bien?",Otros,,normal,gpt-4o-mini
+2005,"Holi, desde el corazón cruceño! ❤️",Otros,,emojis,gpt-4o-mini
+2006,Hola desde Montero! Les mando un abrazo!,Otros,,normal,gpt-4o-mini
+2007,"Saludos desde Cochabamba, todo bien por ahí?",Otros,,normal,gpt-4o-mini
+2008,"Holaaa, saludos desde Tarija!",Otros,,letras_repetidas,gpt-4o-mini
+2009,"Desde La Paz, saludos a todos!",Otros,,normal,gpt-4o-mini
+2010,Hola desde Urubó!! 😄,Otros,,emojis,gpt-4o-mini
+2011,"Saludos desde Warnes, que tal todo?",Otros,,normal,gpt-4o-mini
+2012,"Hola, desde el 4to anillo, aquí apoyando!",Otros,,normal,gpt-4o-mini
+2013,Saludos desde Villa 1ro de Mayo!!,Otros,,letras_repetidas,gpt-4o-mini
+2014,Hola a todos desde el Plan 3000! 🎉,Otros,,emojis,gpt-4o-mini
+2015,Saluditos desde Cochabamba! 😊,Otros,,emojis,gpt-4o-mini
+2016,tu contenido es lo mejor!,Otros,,normal,gpt-4o-mini
+2017,me fascina lo que haces!,Otros,,normal,gpt-4o-mini
+2018,👏👏 me encanta tu trabajo!,Otros,,emojis,gpt-4o-mini
+2019,"sigue así, impresionante!",Otros,,normal,gpt-4o-mini
+2020,"q buen contenido, me encanta!",Otros,,abreviaturas,gpt-4o-mini
+2021,no puedo dejar de mirar tus videos,Otros,,normal,gpt-4o-mini
+2022,me alegran el día tus publicaciones,Otros,,normal,gpt-4o-mini
+2023,"eres genial, q creatividad!",Otros,,mixto,gpt-4o-mini
+2024,🔥🔥 necesito más contenido así!,Otros,,emojis,gpt-4o-mini
+2025,"wow, me encanta todo lo que haces",Otros,,normal,gpt-4o-mini
+2026,tu contenido siempre me sorprende,Otros,,normal,gpt-4o-mini
+2027,"me encanta lo que subes, sigan así!",Otros,,normal,gpt-4o-mini
+2028,"son los mejores, me encanta!",Otros,,letras_repetidas,gpt-4o-mini
+2029,"eres muy talentoso, sigo tus videos!",Otros,,normal,gpt-4o-mini
+2030,"me encanta tu vibra, sigue así!",Otros,,normal,gpt-4o-mini
+2031,"te admiro un montón, buen contenido!",Otros,,normal,gpt-4o-mini
+2032,"q original tu contenido, me encanta!",Otros,,abreviaturas,gpt-4o-mini
+2033,tus videos son super divertidos!,Otros,,normal,gpt-4o-mini
+2034,"me gusta todo lo que haces, sigue!",Otros,,normal,gpt-4o-mini
+2035,"eres una inspiración, q lindo contenido!",Otros,,mixto,gpt-4o-mini
+2036,no puedo parar de reír con tus videos,Otros,,normal,gpt-4o-mini
+2037,"lo tuyo es arte, me encanta!",Otros,,normal,gpt-4o-mini
+2038,cada video mejor que el anterior!,Otros,,normal,gpt-4o-mini
+2039,"me gusta tu estilo, sigan brillando!",Otros,,normal,gpt-4o-mini
+2040,"tu contenido es adictivo, quiero más!",Otros,,normal,gpt-4o-mini
+2041,súper fan de lo que haces!,Otros,,normal,gpt-4o-mini
+2042,"me encanta, puro talento!",Otros,,normal,gpt-4o-mini
+2043,"eres genial, me encanta tu contenido!",Otros,,normal,gpt-4o-mini
+2044,sigue haciendo lo que amas!,Otros,,normal,gpt-4o-mini
+2045,"te sigo desde hace tiempo, me encanta!",Otros,,normal,gpt-4o-mini
+2046,"no me canso de tus videos, son los mejores!",Otros,,normal,gpt-4o-mini
+2047,"tu contenido es lo mejor, q talento!",Otros,,mixto,gpt-4o-mini
+2048,"me encanta como eres, sigue así!",Otros,,normal,gpt-4o-mini
+2049,"lo tuyo es increíble, siempre me encanta!",Otros,,normal,gpt-4o-mini
+2050,"que buena onda tienes, me encanta tu contenido!",Otros,,mixto,gpt-4o-mini
+2051,"cada día mejor, me encanta!",Otros,,letras_repetidas,gpt-4o-mini
+2052,"impresionante lo que haces, me encanta!",Otros,,normal,gpt-4o-mini
+2053,"tu creatividad no tiene límites, me encanta!",Otros,,normal,gpt-4o-mini
+2054,"amo cada cosa que subes, eres genial!",Otros,,normal,gpt-4o-mini
+2055,"la mejor en lo que hace, me encanta!",Otros,,normal,gpt-4o-mini
+2056,"sigue creando, me encanta!",Otros,,normal,gpt-4o-mini
+2057,tu contenido es super entretenido!,Otros,,normal,gpt-4o-mini
+2058,"q bonito lo que haces, soy tu fan!",Otros,,mixto,gpt-4o-mini
+2059,"me encanta tu originalidad, sigan así!",Otros,,normal,gpt-4o-mini
+2060,realmente me inspira tu contenido!,Otros,,normal,gpt-4o-mini
+2061,"eres única, me encanta tu estilo!",Otros,,normal,gpt-4o-mini
+2062,"me encanta tu energía, sigue brillando!",Otros,,normal,gpt-4o-mini
+2063,"wow, que creatividad, me encanta!",Otros,,normal,gpt-4o-mini
+2064,"genial lo que haces, sigue así!",Otros,,normal,gpt-4o-mini
+2065,tu contenido me alegra el día!,Otros,,normal,gpt-4o-mini
+2066,"simplemente me encanta, q talento!",Otros,,mixto,gpt-4o-mini
+2067,"tu contenido es increíble, me encanta!",Otros,,normal,gpt-4o-mini
+2068,"súper inspirado gracias a ti, me encanta!",Otros,,normal,gpt-4o-mini
+2069,"que buena energía tienes, sigo encantado!",Otros,,normal,gpt-4o-mini
+2070,cada publicación me encanta más!,Otros,,normal,gpt-4o-mini
+2071,"me encanta, puro amor por tu contenido!",Otros,,mixto,gpt-4o-mini
+2072,"tu trabajo es genial, que sigan los éxitos!",Otros,,normal,gpt-4o-mini
+2073,"todo lo que haces es increíble, me encanta!",Otros,,normal,gpt-4o-mini
+2074,"me gusta tu estilo, eres única!",Otros,,normal,gpt-4o-mini
+2075,"eres la mejor, me encanta tu contenido!",Otros,,normal,gpt-4o-mini
+2076,"no puedo dejar de seguirte, me encanta!",Otros,,normal,gpt-4o-mini
+2077,"la mejor energía en tus videos, me encanta!",Otros,,normal,gpt-4o-mini
+2078,"qué bonita la cartera, pero no es mi estilo",Otros,accesorios,normal,gpt-4o-mini
+2079,"me encanta, pero no es para mí",Otros,accesorios,normal,gpt-4o-mini
+2080,"hermosa la cartera, no sé si me quedaría bien",Otros,accesorios,normal,gpt-4o-mini
+2081,"linda la cartera, pero no me animo",Otros,accesorios,normal,gpt-4o-mini
+2082,"me gusta, pero no sé si es para mí",Otros,accesorios,normal,gpt-4o-mini
+2083,"esa cartera es chida, pero no es mi onda",Otros,accesorios,normal,gpt-4o-mini
+2084,"linda, pero no es mi tipo de cartera",Otros,accesorios,normal,gpt-4o-mini
+2085,"hermosa la cartera, pero no la usaría",Otros,accesorios,normal,gpt-4o-mini
+2086,"que linda, pero no me convence para mí",Otros,accesorios,normal,gpt-4o-mini
+2087,"hermosa, pero no sé si se me vería bien",Otros,accesorios,normal,gpt-4o-mini
+2088,"linda la cartera, pero no es mi talla",Otros,accesorios,normal,gpt-4o-mini
+2089,😍 pero no es para mí,Otros,accesorios,emojis,gpt-4o-mini
+2090,"linda la cartera, pero no es mi color",Otros,accesorios,normal,gpt-4o-mini
+2091,"muy bonita, pero no creo que me quede",Otros,accesorios,normal,gpt-4o-mini
+2092,linda pero no me encanta,Otros,accesorios,normal,gpt-4o-mini
+2093,"parece linda, pero no soy fan de ese estilo",Otros,accesorios,normal,gpt-4o-mini
+2094,"hermosa la cartera, pero no me va",Otros,accesorios,normal,gpt-4o-mini
+2095,"que bonita, pero no es lo mío",Otros,accesorios,normal,gpt-4o-mini
+2096,"me gusta, pero no la usaría",Otros,accesorios,normal,gpt-4o-mini
+2097,"muy bonita, pero creo que no la necesito",Otros,accesorios,normal,gpt-4o-mini
+2098,"es linda, pero yo prefiero otro diseño",Otros,accesorios,normal,gpt-4o-mini
+2099,"linda la cartera, pero para otra persona",Otros,accesorios,normal,gpt-4o-mini
+2100,"no es mi estilo, pero igual es linda",Otros,accesorios,normal,gpt-4o-mini
+2101,"no me convence, pero buena opción",Otros,accesorios,normal,gpt-4o-mini
+2102,"hermosa, pero yo no la usaría",Otros,accesorios,normal,gpt-4o-mini
+2103,"que bella la cartera, lastima que no es para mí",Otros,accesorios,normal,gpt-4o-mini
+2104,"zafa, pero no me convence del todo",Otros,accesorios,normal,gpt-4o-mini
+2105,"muy linda, pero no sé si es para mí",Otros,accesorios,normal,gpt-4o-mini
+2106,"hermoso diseño, pero yo no lo usaría",Otros,accesorios,normal,gpt-4o-mini
+2107,"es hermosa, pero no me queda",Otros,accesorios,normal,gpt-4o-mini
+2108,"linda la cartera, pero prefiero otra cosa",Otros,accesorios,normal,gpt-4o-mini
+2109,"es bonita, pero no va con mi ropa",Otros,accesorios,normal,gpt-4o-mini
+2110,"muy bonita, pero no me anoto",Otros,accesorios,normal,gpt-4o-mini
+2111,"me gusta, pero no sé si soy el público",Otros,accesorios,normal,gpt-4o-mini
+2112,"linda, pero me gustan otras más",Otros,accesorios,normal,gpt-4o-mini
+2113,"linda la cartera, pero no quiero",Otros,accesorios,normal,gpt-4o-mini
+2114,"es linda, pero la veo difícil para mí",Otros,accesorios,normal,gpt-4o-mini
+2115,"hermosa, pero no sé si me animaría",Otros,accesorios,normal,gpt-4o-mini
+2116,"muy bella la cartera, pero no la necesito",Otros,accesorios,normal,gpt-4o-mini
+2117,"me parece linda, pero no es mi estilo",Otros,accesorios,normal,gpt-4o-mini
+2118,"que chula la cartera, pero no es para mí",Otros,accesorios,normal,gpt-4o-mini
+2119,"parece linda, pero no es mi color",Otros,accesorios,normal,gpt-4o-mini
+2120,"hermosa la cartera, pero no va conmigo",Otros,accesorios,normal,gpt-4o-mini
+2121,"me encanta, pero no creo que la use",Otros,accesorios,normal,gpt-4o-mini
+2122,"es bonita, pero no es para mí",Otros,accesorios,normal,gpt-4o-mini
+2123,"linda la cartera, pero no sé si me quedaría",Otros,accesorios,normal,gpt-4o-mini
+2124,"que hermosa, pero no va con mi estilo",Otros,accesorios,normal,gpt-4o-mini
+2125,"muy bonita, pero prefiero otra cosa",Otros,accesorios,normal,gpt-4o-mini
+2126,"esa cartera es preciosa, pero no me animo",Otros,accesorios,normal,gpt-4o-mini
+2127,"hermosa la cartera, pero no creo que me quede",Otros,accesorios,normal,gpt-4o-mini
+2128,"me gusta, pero no sé si sea para mí",Otros,accesorios,normal,gpt-4o-mini
+2129,"linda, pero no creo que la use",Otros,accesorios,normal,gpt-4o-mini
+2130,"me gusta, pero no para mí",Otros,accesorios,normal,gpt-4o-mini
+2131,"linda la cartera, pero no es lo mío",Otros,accesorios,normal,gpt-4o-mini
+2132,"hermosa, pero no sé si me quedaría",Otros,accesorios,normal,gpt-4o-mini
+2133,"que linda, pero no la necesito",Otros,accesorios,normal,gpt-4o-mini
+2134,"linda la cartera, pero no va conmigo",Otros,accesorios,normal,gpt-4o-mini
+2135,"hermosa, pero no sé si me animo",Otros,accesorios,normal,gpt-4o-mini
+2136,"muy bonita, pero no es para mí",Otros,accesorios,normal,gpt-4o-mini
+2137,jajaja un regalo nunca cae mal,Otros,,normal,gpt-4o-mini
+2138,quiero uno de regalo xfa,Otros,,abreviaturas,gpt-4o-mini
+2139,🤣🤣 me anoto para el sorteo,Otros,,emojis,gpt-4o-mini
+2140,"me muero por uno, porfa",Otros,,normal,gpt-4o-mini
+2141,regálame uno pleaseee,Otros,,letras_repetidas,gpt-4o-mini
+2142,un obsequio sería genial!,Otros,,normal,gpt-4o-mini
+2143,siiii regalame uno jaja,Otros,,letras_repetidas,gpt-4o-mini
+2144,😄 un detallito no estaría mal,Otros,,emojis,gpt-4o-mini
+2145,uno para mi también,Otros,,normal,gpt-4o-mini
+2146,"please, regálame uno",Otros,,abreviaturas,gpt-4o-mini
+2147,yo quiero un regalo!!!,Otros,,mayusculas,gpt-4o-mini
+2148,jaja un regalito x aquí,Otros,,normal,gpt-4o-mini
+2149,me lo regalas? jiji,Otros,,normal,gpt-4o-mini
+2150,entre todos yo xfa,Otros,,abreviaturas,gpt-4o-mini
+2151,jajaja eso sería un buen regalo,Otros,,normal,gpt-4o-mini
+2152,"🙌 un regalo para mí, voy!",Otros,,emojis,gpt-4o-mini
+2153,me regalas uno?:3,Otros,,normal,gpt-4o-mini
+2154,dame uno por fa,Otros,,abreviaturas,gpt-4o-mini
+2155,me encantaría un regalito,Otros,,normal,gpt-4o-mini
+2156,"si me regalas uno, soy feliz",Otros,,normal,gpt-4o-mini
+2157,un regalito no viene mal jaja,Otros,,normal,gpt-4o-mini
+2158,"jaja, siempre quise uno",Otros,,normal,gpt-4o-mini
+2159,yo quiero un obsequio,Otros,,normal,gpt-4o-mini
+2160,a ver si hay sorteos xD,Otros,,normal,gpt-4o-mini
+2161,uno de esos me vendría bien,Otros,,normal,gpt-4o-mini
+2162,"😜 regalito para mi, porfa",Otros,,emojis,gpt-4o-mini
+2163,yo me apunto para uno!,Otros,,normal,gpt-4o-mini
+2164,puedo tener uno tb? jaja,Otros,,normal,gpt-4o-mini
+2165,exitos con los regalos!!!,Otros,,normal,gpt-4o-mini
+2166,"jiji, yo quiero un regalo",Otros,,letras_repetidas,gpt-4o-mini
+2167,me anoto en la lista de regalos,Otros,,normal,gpt-4o-mini
+2168,😍 un regalo sería increíble,Otros,,emojis,gpt-4o-mini
+2169,"yo quiero uno, plis",Otros,,abreviaturas,gpt-4o-mini
+2170,"jaja, un regalito porfa",Otros,,letras_repetidas,gpt-4o-mini
+2171,podéís regalarme uno?,Otros,,normal,gpt-4o-mini
+2172,un buen detalle siempre hace feliz,Otros,,normal,gpt-4o-mini
+2173,"jajaja, ya me imagino el regalo",Otros,,normal,gpt-4o-mini
+2174,uno de esos me encantaría,Otros,,normal,gpt-4o-mini
+2175,"porfa, anótenme para uno",Otros,,normal,gpt-4o-mini
+2176,uno de esos estaría genial,Otros,,normal,gpt-4o-mini
+2177,regalitos son lo mejor!,Otros,,normal,gpt-4o-mini
+2178,"por fa, un obsequiito",Otros,,abreviaturas,gpt-4o-mini
+2179,cierto que regalan uno? 😂,Otros,,emojis,gpt-4o-mini
+2180,"jiji, cuántos van a regalar?",Otros,,letras_repetidas,gpt-4o-mini
+2181,"esto me gusta, quiero uno",Otros,,normal,gpt-4o-mini
+2182,yo quiero que me regalen uno,Otros,,normal,gpt-4o-mini
+2183,sería un gran regalo,Otros,,normal,gpt-4o-mini
+2184,que buen detalle sería un regalo,Otros,,normal,gpt-4o-mini
+2185,🤗 un regalito no me molestaría,Otros,,emojis,gpt-4o-mini
+2186,regalame uno y soy feliz,Otros,,normal,gpt-4o-mini
+2187,regalitos son lo máximo!,Otros,,normal,gpt-4o-mini
+2188,jajaja yo me apunto para el regalito,Otros,,normal,gpt-4o-mini
+2189,"si hay un sorteo, me anoto",Otros,,normal,gpt-4o-mini
+2190,"uno para mí, aquí estoy",Otros,,normal,gpt-4o-mini
+2191,un detallito siempre es bienvenido,Otros,,normal,gpt-4o-mini
+2192,"hola, desde La Guardia",Otros,,normal,gpt-4o-mini
+2193,q linda tu tienda,Otros,,abreviaturas,gpt-4o-mini
+2194,✨ primera vez aquí,Otros,,emojis,gpt-4o-mini
+2195,saludos desde Warnes!,Otros,,normal,gpt-4o-mini
+2196,me encanta tu estilo,Otros,,normal,gpt-4o-mini
+2197,no sabía que vendías esto,Otros,,normal,gpt-4o-mini
+2198,"holaa, primera vez q veo el live",Otros,,letras_repetidas,gpt-4o-mini
+2199,q bien q te veo,Otros,,abreviaturas,gpt-4o-mini
+2200,saludos 😍,Otros,,emojis,gpt-4o-mini
+2201,primera vez que te escucho,Otros,,normal,gpt-4o-mini
+2202,que bien que estés aquí,Otros,,normal,gpt-4o-mini
+2203,🙏 es la primera vez que entro,Otros,,emojis,gpt-4o-mini
+2204,ustedes son nuevos,Otros,,normal,gpt-4o-mini
+2205,es la primera vez q me uno a un live,Otros,,letras_repetidas,gpt-4o-mini
+2206,que linda la energía!,Otros,,normal,gpt-4o-mini
+2207,me gusta q estés aquí,Otros,,normal,gpt-4o-mini
+2208,"hola, primera vez q comento",Otros,,letras_repetidas,gpt-4o-mini
+2209,q bueno verte en vivo,Otros,,abreviaturas,gpt-4o-mini
+2210,nunca había visto algo así,Otros,,normal,gpt-4o-mini
+2211,gracias x la buena vibra,Otros,,normal,gpt-4o-mini
+2212,"primera vez q estoy aquí, emocionado!",Otros,,letras_repetidas,gpt-4o-mini
+2213,yo tbn es la primera vez,Otros,,normal,gpt-4o-mini
+2214,estaba buscando algo así,Otros,,normal,gpt-4o-mini
+2215,"holaa, primer live q entro",Otros,,letras_repetidas,gpt-4o-mini
+2216,que buena onda tienen,Otros,,normal,gpt-4o-mini
+2217,estoy en la casa y es la primera vez,Otros,,normal,gpt-4o-mini
+2218,"aquí por primera vez, me gusta",Otros,,normal,gpt-4o-mini
+2219,me encanta lo que haces,Otros,,normal,gpt-4o-mini
+2220,"primera vez aquí, q emoción!",Otros,,letras_repetidas,gpt-4o-mini
+2221,no había escuchado de ustedes,Otros,,normal,gpt-4o-mini
+2222,primer live q veo tuyo,Otros,,abreviaturas,gpt-4o-mini
+2223,primera vez aquí y ya me encanta!,Otros,,normal,gpt-4o-mini
+2224,veo que hay buenas cosas aquí,Otros,,normal,gpt-4o-mini
+2225,"soy nuevo, q tal!",Otros,,normal,gpt-4o-mini
+2226,primera vez que te sigo!,Otros,,normal,gpt-4o-mini
+2227,"holaaa, me gusta el ambiente",Otros,,letras_repetidas,gpt-4o-mini
+2228,"wow, primera vez que veo esto",Otros,,normal,gpt-4o-mini
+2229,me alegro de estar aquí,Otros,,normal,gpt-4o-mini
+2230,"primera vez que te sigo, saludos",Otros,,normal,gpt-4o-mini
+2231,nunca había visto nada igual,Otros,,normal,gpt-4o-mini
+2232,"súper interesante, primera vez aquí!",Otros,,normal,gpt-4o-mini
+2233,me gusta la buena onda de este live,Otros,,normal,gpt-4o-mini
+2234,"holaaa, q tal, primera vez aquí",Otros,,letras_repetidas,gpt-4o-mini
+2235,estaba buscando algo como esto,Otros,,normal,gpt-4o-mini
+2236,"es la primera vez que comento, hola!",Otros,,normal,gpt-4o-mini
+2237,"me encanta el tema, primera vez por aquí!",Otros,,normal,gpt-4o-mini
+2238,"aquí por primera vez, q bien!",Otros,,normal,gpt-4o-mini
+2239,"fue un placer conocerte, primera vez",Otros,,normal,gpt-4o-mini
+2240,"holaa, primera vez q me animo a comentar",Otros,,letras_repetidas,gpt-4o-mini
+2241,"me gusta tu contenido, primera vez aquí!",Otros,,normal,gpt-4o-mini
+2242,saludos desde 2do anillo,Otros,,normal,gpt-4o-mini
+2243,"soy nuevo por aquí, hola a todos!",Otros,,normal,gpt-4o-mini
+2244,"wow, no sabía que hacías lives",Otros,,normal,gpt-4o-mini
+2245,primera vez aquí y ya soy fan!,Otros,,letras_repetidas,gpt-4o-mini
+2246,q bien que te encuentro aquí,Otros,,normal,gpt-4o-mini
+2247,esté live tiene buena vibra,Otros,,normal,gpt-4o-mini
+2248,"😊 primera vez que los veo, saludos!",Otros,,emojis,gpt-4o-mini
+2249,"la primera vez que veo un live, genial!",Otros,,normal,gpt-4o-mini
+2250,Hola a todos! 👋,Otros,,normal,gpt-4o-mini
+2251,"wawww, me encanta!",Otros,,normal,gpt-4o-mini
+2252,Que buena vibra!,Otros,,normal,gpt-4o-mini
+2253,🔥🔥,Otros,,emojis,gpt-4o-mini
+2254,Hola desde Urubó!,Otros,,normal,gpt-4o-mini
+2255,Qué hermoso 💖,Otros,,normal,gpt-4o-mini
+2256,😁😁,Otros,,emojis,gpt-4o-mini
+2257,Esto está genial!,Otros,,normal,gpt-4o-mini
+2258,Que tal? 👀,Otros,,normal,gpt-4o-mini
+2259,Me encanta el estilo!,Otros,,normal,gpt-4o-mini
+2260,Que linda la prenda!,Otros,,normal,gpt-4o-mini
+2261,🌟🌟,Otros,,emojis,gpt-4o-mini
+2262,"Super chévere, saludos!",Otros,,normal,gpt-4o-mini
+2263,😄😄,Otros,,emojis,gpt-4o-mini
+2264,Vamo' que vamo!!,Otros,,letras_repetidas,gpt-4o-mini
+2265,Eso es lo que busco!,Otros,,normal,gpt-4o-mini
+2266,💖✨,Otros,,emojis,gpt-4o-mini
+2267,Mi barrio siempre apoyando!,Otros,,normal,gpt-4o-mini
+2268,Felicidades por el esfuerzo! 🥳,Otros,,normal,gpt-4o-mini
+2269,Que buen producto!,Otros,,normal,gpt-4o-mini
+2270,🙌👌,Otros,,emojis,gpt-4o-mini
+2271,"Desde Pampa de la Isla, hola!",Otros,,normal,gpt-4o-mini
+2272,⚡⚡,Otros,,emojis,gpt-4o-mini
+2273,Me gusta su energía!,Otros,,normal,gpt-4o-mini
+2274,Ya quiero algo así!,Otros,,normal,gpt-4o-mini
+2275,😃😃,Otros,,emojis,gpt-4o-mini
+2276,"Waooo, interesante!",Otros,,normal,gpt-4o-mini
+2277,💃🏻💃🏻,Otros,,emojis,gpt-4o-mini
+2278,Que bonito todo!,Otros,,normal,gpt-4o-mini
+2279,"Desde Satélite Norte, buen día!",Otros,,normal,gpt-4o-mini
+2280,😆😆,Otros,,emojis,gpt-4o-mini
+2281,Increíble! Saludos!,Otros,,normal,gpt-4o-mini
+2282,💝💝,Otros,,emojis,gpt-4o-mini
+2283,Eso es lo que quiero ver!,Otros,,normal,gpt-4o-mini
+2284,😊😊,Otros,,emojis,gpt-4o-mini
+2285,¡Increíble presentación!,Otros,,normal,gpt-4o-mini
+2286,💫💫,Otros,,emojis,gpt-4o-mini
+2287,Claro que sí!,Otros,,normal,gpt-4o-mini
+2288,La mejor vibra!,Otros,,normal,gpt-4o-mini
+2289,🎉🎉,Otros,,emojis,gpt-4o-mini
+2290,"Increíble, la calidad está top!",Otros,,normal,gpt-4o-mini
+2291,🚀🚀,Otros,,emojis,gpt-4o-mini
+2292,"Waao, que bonita prenda!",Otros,,normal,gpt-4o-mini
+2293,💗💗,Otros,,emojis,gpt-4o-mini
+2294,Un saludo desde Equipetrol!,Otros,,normal,gpt-4o-mini
+2295,Esa energía me encanta!,Otros,,normal,gpt-4o-mini
+2296,🌈🌈,Otros,,emojis,gpt-4o-mini
+2297,Esto se ve maravilloso!,Otros,,normal,gpt-4o-mini
+2298,❤️❤️,Otros,,emojis,gpt-4o-mini
+2299,¡Qué belleza de producto!,Otros,,normal,gpt-4o-mini
+2300,hermosa 😍,Otros,,normal,gpt-4o-mini
+2301,qué linda eres!,Otros,,normal,gpt-4o-mini
+2302,bellísima 💖,Otros,,emojis,gpt-4o-mini
+2303,guapísima!,Otros,,normal,gpt-4o-mini
+2304,linda la verdad!,Otros,,normal,gpt-4o-mini
+2305,es una diosa 😍,Otros,,normal,gpt-4o-mini
+2306,te ves espectacular!,Otros,,normal,gpt-4o-mini
+2307,hermosa como siempre,Otros,,normal,gpt-4o-mini
+2308,que linda estás!,Otros,,normal,gpt-4o-mini
+2309,bellas como tú no hay,Otros,,normal,gpt-4o-mini
+2310,tremenda guapa,Otros,,normal,gpt-4o-mini
+2311,👌🏼 muy linda,Otros,,mixto,gpt-4o-mini
+2312,guapa guapa!!,Otros,,letras_repetidas,gpt-4o-mini
+2313,waw!! que belleza,Otros,,normal,gpt-4o-mini
+2314,hay que ser guapa,Otros,,normal,gpt-4o-mini
+2315,te ves increíble!!,Otros,,normal,gpt-4o-mini
+2316,que linda sonrisa,Otros,,normal,gpt-4o-mini
+2317,que buen look!!,Otros,,normal,gpt-4o-mini
+2318,muy bonita,Otros,,normal,gpt-4o-mini
+2319,impresionante 😍,Otros,,emojis,gpt-4o-mini
+2320,diosa total,Otros,,normal,gpt-4o-mini
+2321,simplemente hermosa,Otros,,normal,gpt-4o-mini
+2322,linda y talentosa,Otros,,normal,gpt-4o-mini
+2323,hermosa como un ángel,Otros,,normal,gpt-4o-mini
+2324,sos un bombón,Otros,,normal,gpt-4o-mini
+2325,que rostro tan hermoso,Otros,,normal,gpt-4o-mini
+2326,te ves preciosa,Otros,,normal,gpt-4o-mini
+2327,muy fabulosaaaaaa,Otros,,letras_repetidas,gpt-4o-mini
+2328,💖 hermosura 💖,Otros,,emojis,gpt-4o-mini
+2329,brillando como siempre,Otros,,normal,gpt-4o-mini
+2330,que espectacular look!,Otros,,normal,gpt-4o-mini
+2331,estás radiante,Otros,,normal,gpt-4o-mini
+2332,nunca cambies,Otros,,normal,gpt-4o-mini
+2333,que linda vestimenta,Otros,,normal,gpt-4o-mini
+2334,te ves genial,Otros,,normal,gpt-4o-mini
+2335,solo guapura por aquí,Otros,,normal,gpt-4o-mini
+2336,tremenda onda,Otros,,normal,gpt-4o-mini
+2337,que bien te ves,Otros,,normal,gpt-4o-mini
+2338,hermosa en cada live,Otros,,normal,gpt-4o-mini
+2339,luz pura!,Otros,,normal,gpt-4o-mini
+2340,brillante como siempre,Otros,,normal,gpt-4o-mini
+2341,hay que ser hermosa,Otros,,normal,gpt-4o-mini
+2342,mucha belleza!,Otros,,normal,gpt-4o-mini
+2343,guapaza!,Otros,,normal,gpt-4o-mini
+2344,smokey eyes hermosos,Otros,,normal,gpt-4o-mini
+2345,luz que brilla,Otros,,normal,gpt-4o-mini
+2346,simplemente maravillosa,Otros,,normal,gpt-4o-mini
+2347,😻 hermosa total,Otros,,emojis,gpt-4o-mini
+2348,siempre tan guapa,Otros,,normal,gpt-4o-mini
+2349,🔥💃🔥,Otros,,emojis,gpt-4o-mini
+2350,guapetona,Otros,,normal,gpt-4o-mini
+2351,hermosa siempre!!,Otros,,letras_repetidas,gpt-4o-mini
+2352,te admiro!,Otros,,normal,gpt-4o-mini
+2353,bellísima ❤️,Otros,,emojis,gpt-4o-mini
+2354,qué bonita eres,Otros,,normal,gpt-4o-mini
+2355,vos sos la mejor,Otros,,normal,gpt-4o-mini
+2356,deslumbrante,Otros,,normal,gpt-4o-mini
+2357,te sigo desde hace un montón!,Otros,,normal,gpt-4o-mini
+2358,ya te sigo hace tiempo,Otros,,normal,gpt-4o-mini
+2359,sigo tu cuenta desde que empezaste,Otros,,normal,gpt-4o-mini
+2360,hace rato que sigo aquí,Otros,,normal,gpt-4o-mini
+2361,ya tengo tiempo siguiéndote,Otros,,normal,gpt-4o-mini
+2362,"sigo tu contenido siempre, me encanta!",Otros,,normal,gpt-4o-mini
+2363,"me encanta lo que haces, te sigo desde hace tiempo",Otros,,normal,gpt-4o-mini
+2364,desde hace tiempo aquí apoyando tu cuenta,Otros,,normal,gpt-4o-mini
+2365,ya soy seguidor desde hace tiempo,Otros,,normal,gpt-4o-mini
+2366,te sigo hace tiempo y siempre me divierto,Otros,,normal,gpt-4o-mini
+2367,"ya te he estado siguiendo, genial el contenido!",Otros,,normal,gpt-4o-mini
+2368,"te sigo desde el inicio, sigue así!",Otros,,normal,gpt-4o-mini
+2369,hace tiempo que estoy en tu cuenta,Otros,,normal,gpt-4o-mini
+2370,sigo tu cuenta desde Cotoca,Otros,,normal,gpt-4o-mini
+2371,ya me hice fan hace tiempo,Otros,,normal,gpt-4o-mini
+2372,"te sigo de hace un tiempo ya, me encanta!",Otros,,normal,gpt-4o-mini
+2373,"siempre te veo, ya te sigo hace tiempo!",Otros,,normal,gpt-4o-mini
+2374,desde siempre sigo tu cuenta!,Otros,,normal,gpt-4o-mini
+2375,"aquí desde hace tiempo, sigan así!",Otros,,normal,gpt-4o-mini
+2376,ya estoy con ustedes desde hace un tiempo,Otros,,normal,gpt-4o-mini
+2377,"te sigo hace rato, siempre con tus videos!",Otros,,normal,gpt-4o-mini
+2378,"ya tengo tiempo siguiéndote, eres genial!",Otros,,normal,gpt-4o-mini
+2379,hace tiempo que soy tu seguidor,Otros,,normal,gpt-4o-mini
+2380,"tu cuenta es la mejor, la sigo hace tiempo!",Otros,,normal,gpt-4o-mini
+2381,"sigo desde hace rato, siempre apoyando!",Otros,,normal,gpt-4o-mini
+2382,"te sigo siempre, desde hace tiempo!",Otros,,normal,gpt-4o-mini
+2383,"ya te sigo de hace tiempo, sigan así!",Otros,,normal,gpt-4o-mini
+2384,soy parte de tus seguidores desde hace tiempo,Otros,,normal,gpt-4o-mini
+2385,"te sigo desde hace un tiempo, que buena onda!",Otros,,normal,gpt-4o-mini
+2386,"ya te sigo hace tiempo, genial lo que haces!",Otros,,normal,gpt-4o-mini
+2387,"sigo tu cuenta desde que empezaste, mucho éxito!",Otros,,normal,gpt-4o-mini
+2388,"la verdad te sigo desde hace tiempo, me encanta!",Otros,,normal,gpt-4o-mini
+2389,"ya me hice seguidor hace tiempo, siempre feliz!",Otros,,normal,gpt-4o-mini
+2390,"te sigo desde hace mucho, todo buenísimo!",Otros,,normal,gpt-4o-mini
+2391,aquí desde hace tiempo apoyándote!,Otros,,normal,gpt-4o-mini
+2392,sigo tu cuenta y me encanta lo que haces!,Otros,,normal,gpt-4o-mini
+2393,"ya tengo tiempo viéndote, eres top!",Otros,,normal,gpt-4o-mini
+2394,"sigo de hace tiempo, nunca me pierdo un live!",Otros,,normal,gpt-4o-mini
+2395,desde hace un tiempo soy tu fan,Otros,,normal,gpt-4o-mini
+2396,sigo tu cuenta y siempre me divierto,Otros,,normal,gpt-4o-mini
+2397,ya te sigo hace tiempo y la rompes!,Otros,,normal,gpt-4o-mini
+2398,"hace tiempo que estoy contigo, sigamos!",Otros,,normal,gpt-4o-mini
+2399,sigo tu cuenta desde hace un tiempo ya,Otros,,normal,gpt-4o-mini
+2400,"ya estoy aquí desde hace tiempo, me gusta!",Otros,,normal,gpt-4o-mini
+2401,aquí desde hace tiempo y siempre apoyando!,Otros,,normal,gpt-4o-mini
+2402,"te sigo desde hace tiempo, saludos!",Otros,,normal,gpt-4o-mini
+2403,ya te sigo desde hace un buen tiempo,Otros,,normal,gpt-4o-mini
+2404,sigo tu cuenta y no me arrepiento!,Otros,,normal,gpt-4o-mini
+2405,"ya llevo tiempo siguiéndote, eres genial!",Otros,,normal,gpt-4o-mini
+2406,hace tiempo que sigo tu cuenta,Otros,,normal,gpt-4o-mini
+2407,me sumé a tus seguidores hace un rato,Otros,,normal,gpt-4o-mini
+2408,"ya soy seguidor de hace tiempo, siempre genial!",Otros,,normal,gpt-4o-mini
+2409,"te sigo desde hace tiempo, sigue brillando!",Otros,,normal,gpt-4o-mini
+2410,"ya estoy aquí, te sigo hace tiempo!",Otros,,normal,gpt-4o-mini
+2411,"siempre en tus lives, ya te sigo de tiempo atrás",Otros,,normal,gpt-4o-mini
+2412,"que bueno que sigues, soy tu seguidor hace tiempo!",Otros,,normal,gpt-4o-mini
+2413,"sigo aquí desde hace un rato, todo bien!",Otros,,normal,gpt-4o-mini
+2414,"ya te sigo desde hace un buen tiempo, me encanta!",Otros,,normal,gpt-4o-mini
+2415,"sigo tu cuenta, siempre top!",Otros,,normal,gpt-4o-mini
+2416,"ya tengo tiempo siguiéndote, saludos!",Otros,,normal,gpt-4o-mini
+2417,"sigo desde hace un tiempo, gran contenido!",Otros,,normal,gpt-4o-mini
+2418,"ya te sigo de hace tiempo, eres genial!",Otros,,normal,gpt-4o-mini
+2419,sigo aquí desde hace tiempo!,Otros,,normal,gpt-4o-mini
+2420,"ya llevo tiempo siguiéndote, todo bien!",Otros,,normal,gpt-4o-mini
+2421,"sigo siempre tu contenido, gracias por lo que haces!",Otros,,normal,gpt-4o-mini
+2422,ya soy parte de tu comunidad hace un tiempo,Otros,,normal,gpt-4o-mini
+2423,"hace tiempo que sigo tu cuenta, me gusta!",Otros,,normal,gpt-4o-mini
+2424,"te sigo de hace rato, sigan así!",Otros,,normal,gpt-4o-mini
+2425,🔥🔥 me encanta todo esto,Otros,,emojis,gpt-4o-mini
+2426,"que lindo, saludos desde La Guardia",Otros,,normal,gpt-4o-mini
+2427,holaaa todo se ve hermosooo,Otros,,letras_repetidas,gpt-4o-mini
+2428,me gusta mucho lo que están mostrando,Otros,,normal,gpt-4o-mini
+2429,👌👌 super bonito todo xfa sigan así,Otros,,emojis,gpt-4o-mini
+2430,woow me quedé impresionado,Otros,,normal,gpt-4o-mini
+2431,"me encanta todo, saludos!",Otros,,normal,gpt-4o-mini
+2432,😱😱 todo está espectacular,Otros,,emojis,gpt-4o-mini
+2433,que bello todo lo que ofrecen,Otros,,normal,gpt-4o-mini
+2434,"woooow que genial, quiero ver más!",Otros,,letras_repetidas,gpt-4o-mini
+2435,mío 70 bs,Pedido,ropa,normal,tiktok-live
+2436,yo el 2 a 100 bs,Pedido,ropa,normal,tiktok-live
+2437,MIO el rosado y el blanquito,Pedido,maquillaje,normal,tiktok-live
+2438,"me lo guardas, xfa 🙌",Pedido,calzado,mixto,tiktok-live
+2439,yo el 7 plis 🙌,Pedido,ropa,mixto,tiktok-live
+2440,me lo guardas en el Plan 3000,Pedido,calzado,normal,tiktok-live
+2441,MIO EN 220 BS,Pedido,tecnologia,normal,tiktok-live
+2442,Yo quiero la cartera grande,Pedido,accesorios,normal,tiktok-live
+2443,me lo separas que en la tarde no puedo,Pedido,ropa,normal,tiktok-live
+2444,yo quiero el set de 3,Pedido,maquillaje,normal,tiktok-live
+2445,yo el 7 talla 38,Pedido,calzado,normal,tiktok-live
+2446,yo el inalámbrico negro,Pedido,tecnologia,normal,tiktok-live
+2447,demasiado caro para mi presupuesto,Objecion,ropa,normal,tiktok-live
+2448,muy caro pa' ser ropa,Objecion,ropa,normal,tiktok-live
+2449,a mi amiga le dijeron que no llego nada,Objecion,accesorios,normal,tiktok-live
+2450,mi hermana compró y no le llegó nada,Objecion,maquillaje,normal,tiktok-live
+2451,una amiga compró y no le llegó bien,Objecion,ropa,normal,tiktok-live
+2452,siento que está caro para lo que es,Objecion,ropa,normal,tiktok-live
+2453,a mi me parece muy caro,Objecion,tecnologia,normal,tiktok-live
+2454,hice mi pedido hace días y no me han contestado,Objecion,accesorios,normal,tiktok-live
+2455,"muy caro, en el centro lo consigo más barato",Objecion,ropa,normal,tiktok-live
+2456,la vez pasada no me llego ni el maquillaje 😤,Objecion,maquillaje,normal,tiktok-live
+2457,en el mercado hay mejores precios,Objecion,tecnologia,normal,tiktok-live
+2458,el último pedido me llegó fallado,Objecion,ropa,normal,tiktok-live
+2459,es original o puro basureo?,Objecion,accesorios,normal,tiktok-live
+2460,en la tienda lo he visto más económico,Objecion,ropa,normal,tiktok-live
+2461,"mandé mensaje y no me respondieron, que pena",Objecion,ropa,normal,tiktok-live
+2462,es bastante caro para ser un fake,Objecion,accesorios,normal,tiktok-live
+2463,"demasiado caro, parece una imitación",Objecion,accesorios,normal,tiktok-live
+2464,"no sé, se ve caro para no ser original",Objecion,accesorios,normal,tiktok-live
+2465,hacen envíos a Montero?,PagoEnvio,ropa,normal,tiktok-live
+2466,cuánto me sale el delivery hasta Equipetrol?,PagoEnvio,calzado,normal,tiktok-live
+2467,pago con QR?,PagoEnvio,ropa,normal,tiktok-live
+2468,hacen envíos a La Paz?,PagoEnvio,maquillaje,normal,tiktok-live
+2469,hacen envíos y aceptan Tigo Money?,PagoEnvio,tecnologia,normal,tiktok-live
+2470,envio a Pampa de la Isla cuanto sale?,PagoEnvio,ropa,normal,tiktok-live
+2471,aseptan Tigo Money?,PagoEnvio,calzado,normal,tiktok-live
+2472,cuanto me cuesta el delivery a Pampa de la Isla?,PagoEnvio,accesorios,normal,tiktok-live
+2473,donde retiro el pedido?,PagoEnvio,maquillaje,normal,tiktok-live
+2474,cuanto sale el delivery a Pampa de la Isla?,PagoEnvio,ropa,normal,tiktok-live
+2475,aceptan Tigo Money? 📦,PagoEnvio,accesorios,normal,tiktok-live
+2476,cuanto sale el envio al norte?,PagoEnvio,tecnologia,normal,tiktok-live
+2477,puedo pagar con tarjeta?,PagoEnvio,ropa,normal,tiktok-live
+2478,donde queda la tienda xfa?,PagoEnvio,maquillaje,abreviaturas,tiktok-live
+2479,cuánto sale el delivery hasta el Urubó?,PagoEnvio,accesorios,normal,tiktok-live
+2480,cuanto sale esto?,Pregunta,ropa,normal,tiktok-live
+2481,q precio tiene?,Pregunta,ropa,abreviaturas,tiktok-live
+2482,cuánto cuesta el negro?,Pregunta,ropa,normal,tiktok-live
+2483,cuantto el de color negro?,Pregunta,ropa,normal,tiktok-live
+2484,tienen en talla M?,Pregunta,ropa,normal,tiktok-live
+2485,hay en M?? xfa,Pregunta,ropa,abreviaturas,tiktok-live
+2486,tienen 40? xfa,Pregunta,calzado,abreviaturas,tiktok-live
+2487,ese material es de cuero real?,Pregunta,accesorios,normal,tiktok-live
+2488,es bueno para piel aceitosa?,Pregunta,maquillaje,normal,tiktok-live
+2489,pq sirve para piel grasa?,Pregunta,maquillaje,abreviaturas,tiktok-live
+2490,cuánto cuesta el último?,Pregunta,accesorios,normal,tiktok-live
+2491,cuantto el último?,Pregunta,accesorios,normal,tiktok-live
+2492,hay en rosa?? xfa,Pregunta,maquillaje,abreviaturas,tiktok-live
+2493,cuanto tiempo de garantía tiene el cel?,Pregunta,tecnologia,normal,tiktok-live
+2494,el cel tiene garantíia o no???,Pregunta,tecnologia,letras_repetidas,tiktok-live
+2495,hay en otros colores?,Pregunta,ropa,normal,tiktok-live
+2496,q colores hay? xfa,Pregunta,ropa,abreviaturas,tiktok-live
+2497,cuanto mide el strap?,Pregunta,accesorios,normal,tiktok-live
+2498,q largo tiene el bolso? xfa,Pregunta,accesorios,abreviaturas,tiktok-live
+2499,es ORIGINAAL o no?,Pregunta,tecnologia,mayusculas,tiktok-live
+2500,cuanto sale el pack?,Pregunta,maquillaje,normal,tiktok-live
+2501,cuantto el combo de maquillajee?,Pregunta,maquillaje,normal,tiktok-live
+2502,es bueno para mi cabello teñido?,Pregunta,maquillaje,normal,tiktok-live
+2503,da resultados en pelo teñido?,Pregunta,maquillaje,abreviaturas,tiktok-live
+2504,cuanto cuesta la talla 4?,Pregunta,ropa,normal,tiktok-live
+2505,cuantoo el 4??,Pregunta,ropa,letras_repetidas,tiktok-live
+2506,tienen en AZUL REY? 👕,Pregunta,ropa,mayusculas,tiktok-live
+2507,"envío a Pampa de la Isla, cuanto?",Pregunta,ropa,abreviaturas,tiktok-live
+2508,de qué material es el reloj?,Pregunta,accesorios,normal,tiktok-live
+2509,cuantoo sale el último?,Pregunta,tecnologia,normal,tiktok-live
+2510,📱 Cuanto el nuevo que enseñaste?,Pregunta,tecnologia,emojis,tiktok-live
+2511,son antideslizantes las zapatillas?,Pregunta,calzado,normal,tiktok-live
+2512,las zapatillas son antideslizantes o no?,Pregunta,calzado,abreviaturas,tiktok-live
+2513,hola a todos desde Pampa de la Isla!,Otros,,normal,tiktok-live
+2514,saludos desde el 4to anillo! ✌️,Otros,,emojis,tiktok-live
+2515,holaaa desde Warnes!! 😄,Otros,,letras_repetidas,tiktok-live
+2516,q tal desde La Guardia! 🙌,Otros,,emojis,tiktok-live
+2517,saludos desde la zona sur 😎,Otros,,normal,tiktok-live
+2518,Hola desde 4to anillo!,Otros,,normal,tiktok-live
+2519,Qué lindo todo! 😍,Otros,,emojis,tiktok-live
+2520,Woooooow!!!,Otros,,letras_repetidas,tiktok-live
+2521,Me encanta! 🔥🔥,Otros,,mixto,tiktok-live
+2522,"Sigue así, tbn te sigo! 😉",Otros,,abreviaturas,tiktok-live
+2523,hermosa la ropa!,Otros,ropa,normal,tiktok-live
+2524,😍 me encanta!,Otros,ropa,emojis,tiktok-live
+2525,q bonita!!,Otros,ropa,abreviaturas,tiktok-live
+2526,LINDISIMAAAA,Otros,ropa,mayusculas,tiktok-live
+2527,waooo que fina,Otros,ropa,normal,tiktok-live
+2528,"hola, aquí desde La Guardia!",Otros,,normal,tiktok-live
+2529,sígueme plisss 😁,Otros,,letras_repetidas,tiktok-live
+2530,saludoss desde el 4to anillo!,Otros,,normal,tiktok-live
+2531,xfa sígueme!! 😍,Otros,,abreviaturas,tiktok-live
+2532,😅 siganme todos!,Otros,,emojis,tiktok-live
+2533,hola genteee,Otros,,letras_repetidas,tiktok-live
+2534,saludos desde Equipetrol!,Otros,,normal,tiktok-live
+2535,qué tal a todos! 🥳,Otros,,emojis,tiktok-live
+2536,buenas a todos 💖,Otros,,emojis,tiktok-live
+2537,"saludos, espero estén bien!",Otros,,normal,tiktok-live
+2538,"jajaja, que risa!",Otros,,normal,tiktok-live
+2539,jajajaja 😂,Otros,,emojis,tiktok-live
+2540,"jajaa, el mejor!",Otros,,normal,tiktok-live
+2541,"jajaj, q genial!",Otros,,abreviaturas,tiktok-live
+2542,JAJAJAJA,Otros,,mayusculas,tiktok-live
+2543,holaaa genteee,Otros,,letras_repetidas,tiktok-live
+2544,qué tal a todos! 😊,Otros,,emojis,tiktok-live
+2545,Holaa! 😍,Otros,,mayusculas,tiktok-live
+2546,que lindo el maquillaje 😍,Otros,maquillaje,normal,tiktok-live
+2547,😍😍 me encanta!,Otros,maquillaje,letras_repetidas,tiktok-live
+2548,🔥🔥 eso se ve genial!,Otros,maquillaje,emojis,tiktok-live
+2549,holaaa!! que hermoso 😍😍,Otros,maquillaje,mixto,tiktok-live
+2550,me fascina este look! 😍,Otros,maquillaje,normal,tiktok-live
+2551,saludos desde la Pampa de la Isla,Otros,,normal,tiktok-live
+2552,buenas tardes a todos! 😄,Otros,,emojis,tiktok-live
+2553,"hola, cómo están?",Otros,,normal,tiktok-live
+2554,"buenas! xfa, cuenten de qué es el live",Otros,,abreviaturas,tiktok-live
+2555,"eres lo máximo, amiga!",Otros,,normal,tiktok-live
+2556,😍 sos increíble!,Otros,,emojis,tiktok-live
+2557,q gran amiga eres!,Otros,,abreviaturas,tiktok-live
+2558,"AMIGA, TE AMO!",Otros,,mayusculas,tiktok-live
+2559,"holaa, siempre apoyándote",Otros,,letras_repetidas,tiktok-live
+2560,saludos desde Cotoca!,Otros,,normal,tiktok-live
+2561,holaaa de la Pampa de la Isla,Otros,,letras_repetidas,tiktok-live
+2562,"hola x ahí, soy de Warnes!",Otros,,abreviaturas,tiktok-live
+2563,muy buenas desde el 4to anillo 👋,Otros,,emojis,tiktok-live
+2564,"Saludos desde Urubó, un abrazo!",Otros,,normal,tiktok-live
+2565,Hola desde Cotoca 🥳,Otros,,emojis,tiktok-live
+2566,Holaaa desde La Guardia 🤗,Otros,,letras_repetidas,tiktok-live
+2567,"Saludos desde Warnes, gente!",Otros,,normal,tiktok-live
+2568,"Hola, saludos desde la Pampa de la Isla!",Otros,,normal,tiktok-live
+2569,sos lo mejor! 😍,Otros,,emojis,tiktok-live
+2570,"q buen contenido, sigue así!",Otros,,abreviaturas,tiktok-live
+2571,me gusta mucho lo que haces!,Otros,,normal,tiktok-live
+2572,"holaaa, me encanta tu estilo!",Otros,,letras_repetidas,tiktok-live
+2573,"te sigo siempre, todo lo que subes es genial",Otros,,normal,tiktok-live
+2574,"hermosa la bolsa, pero no es mi estilo",Otros,accesorios,normal,tiktok-live
+2575,muy bonita la cartera xain!,Otros,accesorios,abreviaturas,tiktok-live
+2576,"😻 pura belleza la cartera, pero no es pa' mí",Otros,accesorios,emojis,tiktok-live
+2577,que linda cartera! pero no creo que me quede,Otros,accesorios,normal,tiktok-live
+2578,👌👌 me encanta!!! pero no me queda,Otros,accesorios,letras_repetidas,tiktok-live
+2579,"jajaja, yo quiero uno!!",Otros,,letras_repetidas,tiktok-live
+2580,un regalito porfa 😁,Otros,,emojis,tiktok-live
+2581,xq no me regalas uno??,Otros,,abreviaturas,tiktok-live
+2582,"jajajaja, sería genial tener uno!",Otros,,normal,tiktok-live
+2583,"me muero por uno, regálame plis",Otros,,mixto,tiktok-live
+2584,"nunca había visto tu live, hola!",Otros,,normal,tiktok-live
+2585,"holaaa, primera vez aquí xfa",Otros,,letras_repetidas,tiktok-live
+2586,"q chévere, soy nuevo por aquí!",Otros,,abreviaturas,tiktok-live
+2587,"wuao, primera vez que te miro, saludos!",Otros,,normal,tiktok-live
+2588,"🔥 primera vez en tu live, me gusta!",Otros,,emojis,tiktok-live
+2589,Hola desde Pampa de la Isla! 👋,Otros,,normal,tiktok-live
+2590,🔥Buenísimo este live!,Otros,,emojis,tiktok-live
+2591,"😱 Qué genial todo, me encanta!",Otros,,emojis,tiktok-live
+2592,Saludos desde Cotoca!!,Otros,,normal,tiktok-live
+2593,Aaaamo estas cosas!! 💖💖,Otros,,letras_repetidas,tiktok-live
+2594,waw qué linda!,Otros,,normal,tiktok-live
+2595,hermosa!,Otros,,emojis,tiktok-live
+2596,muy bonitaaa!,Otros,,letras_repetidas,tiktok-live
+2597,bellísima,Otros,,emojis,tiktok-live
+2598,soy tu fan desde hace rato 👏,Otros,,emojis,tiktok-live
+2599,te sigo desde hace un buen tiempo,Otros,,normal,tiktok-live
+2600,ya tengo tiempo siguiéndote,Otros,,emojis,tiktok-live
+2601,"hace tiempo q te sigo, me encanta tu contenido!",Otros,,normal,tiktok-live
+2602,sigo tu cuenta desde hace un montón!,Otros,,letras_repetidas,tiktok-live
+2603,todo se ve increíble!,Otros,,emojis,tiktok-live
+2604,que hermoso todo esto!,Otros,,normal,tiktok-live
+2605,"wawww, que bellos productos!!!",Otros,,letras_repetidas,tiktok-live
+2606,me encanta todo lo que están mostrando!,Otros,,normal,tiktok-live
+2607,todo se ve muy chevere!,Otros,,mixto,tiktok-live

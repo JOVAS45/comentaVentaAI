@@ -81,10 +81,9 @@ experiments:
 confidence_threshold: 0.50
 
 # Configuración del modo "Live".
+# El worker se conecta al chat de TikTok vía la librería TikTokLive y clasifica
+# cada comentario en tiempo real.
 live:
-  # Modo real: se conecta a TikTok vía TikTokLive.
-  # Modo demo: lee un JSONL de comentarios con timestamps y los reproduce.
-  demo_file: data/raw/demo_live.jsonl
   # Alertas en la UI cuando se repite mucho una clase en poco tiempo.
   alert_window_seconds: 60
   alert_threshold: 8

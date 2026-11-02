@@ -1,0 +1,193 @@
+id,texto,clase,producto,estilo,origen
+1,mío,Pedido,ropa,normal,tiktok-live
+2,yo el 5,Pedido,ropa,normal,tiktok-live
+3,mío 70 bs,Pedido,ropa,normal,tiktok-live
+4,mío 60 bs,Pedido,accesorios,normal,tiktok-live
+5,yo el 2 a 100 bs,Pedido,ropa,normal,tiktok-live
+6,me lo llevo,Pedido,tecnologia,normal,tiktok-live
+7,reservamelo xfa,Pedido,accesorios,abreviaturas,tiktok-live
+8,yo en negro M,Pedido,ropa,normal,tiktok-live
+9,MIO el rosado y el blanquito,Pedido,maquillaje,normal,tiktok-live
+10,"me lo guardas, xfa 🙌",Pedido,calzado,mixto,tiktok-live
+11,yo el labial vino,Pedido,maquillaje,normal,tiktok-live
+12,yo el 7 plis 🙌,Pedido,ropa,mixto,tiktok-live
+13,me lo guardas en el Plan 3000,Pedido,calzado,normal,tiktok-live
+14,MIO EN 220 BS,Pedido,tecnologia,normal,tiktok-live
+15,Yo quiero la cartera grande,Pedido,accesorios,normal,tiktok-live
+16,me lo separas que en la tarde no puedo,Pedido,ropa,normal,tiktok-live
+17,yo quiero el set de 3,Pedido,maquillaje,normal,tiktok-live
+18,yo el 7 talla 38,Pedido,calzado,normal,tiktok-live
+19,yo el inalámbrico negro,Pedido,tecnologia,normal,tiktok-live
+20,demasiado caro para mi presupuesto,Objecion,ropa,normal,tiktok-live
+21,muy caro pa' ser ropa,Objecion,ropa,normal,tiktok-live
+22,es de marca?,Objecion,tecnologia,normal,tiktok-live
+23,a mi amiga le dijeron que no llego nada,Objecion,accesorios,normal,tiktok-live
+24,mi hermana compró y no le llegó nada,Objecion,maquillaje,normal,tiktok-live
+25,"no sé, pero me parece caro",Objecion,calzado,normal,tiktok-live
+26,una amiga compró y no le llegó bien,Objecion,ropa,normal,tiktok-live
+27,siento que está caro para lo que es,Objecion,ropa,normal,tiktok-live
+28,a mi me parece muy caro,Objecion,tecnologia,normal,tiktok-live
+29,hice mi pedido hace días y no me han contestado,Objecion,accesorios,normal,tiktok-live
+30,"muy caro, en el centro lo consigo más barato",Objecion,ropa,normal,tiktok-live
+31,la vez pasada no me llego ni el maquillaje 😤,Objecion,maquillaje,normal,tiktok-live
+32,en el mercado hay mejores precios,Objecion,tecnologia,normal,tiktok-live
+33,muy caro para mi presupuesto,Objecion,calzado,normal,tiktok-live
+34,el último pedido me llegó fallado,Objecion,ropa,normal,tiktok-live
+35,es original o puro basureo?,Objecion,accesorios,normal,tiktok-live
+36,en la tienda lo he visto más económico,Objecion,ropa,normal,tiktok-live
+37,"mandé mensaje y no me respondieron, que pena",Objecion,ropa,normal,tiktok-live
+38,es bastante caro para ser un fake,Objecion,accesorios,normal,tiktok-live
+39,"demasiado caro, parece una imitación",Objecion,accesorios,normal,tiktok-live
+40,"no sé, se ve caro para no ser original",Objecion,accesorios,normal,tiktok-live
+41,muy caro para lo que es,Objecion,maquillaje,normal,tiktok-live
+42,hacen envíos a Equipetrol?,PagoEnvio,ropa,normal,tiktok-live
+43,hacen envíos a Montero?,PagoEnvio,ropa,normal,tiktok-live
+44,cuánto me sale el delivery hasta Equipetrol?,PagoEnvio,calzado,normal,tiktok-live
+45,aceptan Tigo Money?,PagoEnvio,accesorios,normal,tiktok-live
+46,pago con QR?,PagoEnvio,ropa,normal,tiktok-live
+47,hacen envíos a La Paz?,PagoEnvio,maquillaje,normal,tiktok-live
+48,hacen envíos y aceptan Tigo Money?,PagoEnvio,tecnologia,normal,tiktok-live
+49,envio a Pampa de la Isla cuanto sale?,PagoEnvio,ropa,normal,tiktok-live
+50,aseptan Tigo Money?,PagoEnvio,calzado,normal,tiktok-live
+51,cuanto me cuesta el delivery a Pampa de la Isla?,PagoEnvio,accesorios,normal,tiktok-live
+52,puedo pagar contra entrega?,PagoEnvio,ropa,normal,tiktok-live
+53,donde retiro el pedido?,PagoEnvio,maquillaje,normal,tiktok-live
+54,cuanto sale el delivery a Pampa de la Isla?,PagoEnvio,ropa,normal,tiktok-live
+55,aceptan Tigo Money? 📦,PagoEnvio,accesorios,normal,tiktok-live
+56,cuanto sale el envio al norte?,PagoEnvio,tecnologia,normal,tiktok-live
+57,puedo pagar con tarjeta?,PagoEnvio,ropa,normal,tiktok-live
+58,donde queda la tienda xfa?,PagoEnvio,maquillaje,abreviaturas,tiktok-live
+59,cuánto sale el delivery hasta el Urubó?,PagoEnvio,accesorios,normal,tiktok-live
+60,cuanto sale esto?,Pregunta,ropa,normal,tiktok-live
+61,q precio tiene?,Pregunta,ropa,abreviaturas,tiktok-live
+62,cuánto cuesta el negro?,Pregunta,ropa,normal,tiktok-live
+63,cuantto el de color negro?,Pregunta,ropa,normal,tiktok-live
+64,tienen en talla M?,Pregunta,ropa,normal,tiktok-live
+65,hay en M?? xfa,Pregunta,ropa,abreviaturas,tiktok-live
+66,hay en 40?,Pregunta,calzado,normal,tiktok-live
+67,tienen 40? xfa,Pregunta,calzado,abreviaturas,tiktok-live
+68,ese material es de cuero real?,Pregunta,accesorios,normal,tiktok-live
+69,es de cuero?? xfa,Pregunta,accesorios,abreviaturas,tiktok-live
+70,es bueno para piel aceitosa?,Pregunta,maquillaje,normal,tiktok-live
+71,pq sirve para piel grasa?,Pregunta,maquillaje,abreviaturas,tiktok-live
+72,cuánto cuesta el último?,Pregunta,accesorios,normal,tiktok-live
+73,cuantto el último?,Pregunta,accesorios,normal,tiktok-live
+74,tienen en color rosado?,Pregunta,maquillaje,normal,tiktok-live
+75,hay en rosa?? xfa,Pregunta,maquillaje,abreviaturas,tiktok-live
+76,cuanto tiempo de garantía tiene el cel?,Pregunta,tecnologia,normal,tiktok-live
+77,el cel tiene garantíia o no???,Pregunta,tecnologia,letras_repetidas,tiktok-live
+78,hay en otros colores?,Pregunta,ropa,normal,tiktok-live
+79,q colores hay? xfa,Pregunta,ropa,abreviaturas,tiktok-live
+80,cuanto mide el strap?,Pregunta,accesorios,normal,tiktok-live
+81,q largo tiene el bolso? xfa,Pregunta,accesorios,abreviaturas,tiktok-live
+82,es genuino?,Pregunta,tecnologia,normal,tiktok-live
+83,es ORIGINAAL o no?,Pregunta,tecnologia,mayusculas,tiktok-live
+84,cuanto sale el pack?,Pregunta,maquillaje,normal,tiktok-live
+85,cuantto el combo de maquillajee?,Pregunta,maquillaje,normal,tiktok-live
+86,es bueno para mi cabello teñido?,Pregunta,maquillaje,normal,tiktok-live
+87,da resultados en pelo teñido?,Pregunta,maquillaje,abreviaturas,tiktok-live
+88,cuanto cuesta la talla 4?,Pregunta,ropa,normal,tiktok-live
+89,cuantoo el 4??,Pregunta,ropa,letras_repetidas,tiktok-live
+90,hay en azul?,Pregunta,ropa,normal,tiktok-live
+91,tienen en AZUL REY? 👕,Pregunta,ropa,mayusculas,tiktok-live
+92,cuanto cuesta el delivery en Santa Cruz?,Pregunta,ropa,normal,tiktok-live
+93,"envío a Pampa de la Isla, cuanto?",Pregunta,ropa,abreviaturas,tiktok-live
+94,de qué material es el reloj?,Pregunta,accesorios,normal,tiktok-live
+95,q material tiene el reloj?,Pregunta,accesorios,abreviaturas,tiktok-live
+96,cuantoo sale el último?,Pregunta,tecnologia,normal,tiktok-live
+97,📱 Cuanto el nuevo que enseñaste?,Pregunta,tecnologia,emojis,tiktok-live
+98,son antideslizantes las zapatillas?,Pregunta,calzado,normal,tiktok-live
+99,las zapatillas son antideslizantes o no?,Pregunta,calzado,abreviaturas,tiktok-live
+100,hola a todos desde Pampa de la Isla!,Otros,,normal,tiktok-live
+101,saludos desde el 4to anillo! ✌️,Otros,,emojis,tiktok-live
+102,holaaa desde Warnes!! 😄,Otros,,letras_repetidas,tiktok-live
+103,q tal desde La Guardia! 🙌,Otros,,emojis,tiktok-live
+104,saludos desde la zona sur 😎,Otros,,normal,tiktok-live
+105,Hola desde 4to anillo!,Otros,,normal,tiktok-live
+106,Qué lindo todo! 😍,Otros,,emojis,tiktok-live
+107,Woooooow!!!,Otros,,letras_repetidas,tiktok-live
+108,Me encanta! 🔥🔥,Otros,,mixto,tiktok-live
+109,"Sigue así, tbn te sigo! 😉",Otros,,abreviaturas,tiktok-live
+110,hermosa la ropa!,Otros,ropa,normal,tiktok-live
+111,😍 me encanta!,Otros,ropa,emojis,tiktok-live
+112,q bonita!!,Otros,ropa,abreviaturas,tiktok-live
+113,LINDISIMAAAA,Otros,ropa,mayusculas,tiktok-live
+114,waooo que fina,Otros,ropa,normal,tiktok-live
+115,"hola, aquí desde La Guardia!",Otros,,normal,tiktok-live
+116,sígueme plisss 😁,Otros,,letras_repetidas,tiktok-live
+117,saludoss desde el 4to anillo!,Otros,,normal,tiktok-live
+118,xfa sígueme!! 😍,Otros,,abreviaturas,tiktok-live
+119,😅 siganme todos!,Otros,,emojis,tiktok-live
+120,hola genteee,Otros,,letras_repetidas,tiktok-live
+121,saludos desde Equipetrol!,Otros,,normal,tiktok-live
+122,qué tal a todos! 🥳,Otros,,emojis,tiktok-live
+123,buenas a todos 💖,Otros,,emojis,tiktok-live
+124,"saludos, espero estén bien!",Otros,,normal,tiktok-live
+125,"jajaja, que risa!",Otros,,normal,tiktok-live
+126,jajajaja 😂,Otros,,emojis,tiktok-live
+127,"jajaa, el mejor!",Otros,,normal,tiktok-live
+128,"jajaj, q genial!",Otros,,abreviaturas,tiktok-live
+129,JAJAJAJA,Otros,,mayusculas,tiktok-live
+130,holaaa genteee,Otros,,letras_repetidas,tiktok-live
+131,hola desde el 4to anillo,Otros,,normal,tiktok-live
+132,qué tal a todos! 😊,Otros,,emojis,tiktok-live
+133,saludos desde Warnes!,Otros,,normal,tiktok-live
+134,Holaa! 😍,Otros,,mayusculas,tiktok-live
+135,que lindo el maquillaje 😍,Otros,maquillaje,normal,tiktok-live
+136,😍😍 me encanta!,Otros,maquillaje,letras_repetidas,tiktok-live
+137,🔥🔥 eso se ve genial!,Otros,maquillaje,emojis,tiktok-live
+138,holaaa!! que hermoso 😍😍,Otros,maquillaje,mixto,tiktok-live
+139,me fascina este look! 😍,Otros,maquillaje,normal,tiktok-live
+140,holaaaaaa,Otros,,letras_repetidas,tiktok-live
+141,saludos desde la Pampa de la Isla,Otros,,normal,tiktok-live
+142,buenas tardes a todos! 😄,Otros,,emojis,tiktok-live
+143,"hola, cómo están?",Otros,,normal,tiktok-live
+144,"buenas! xfa, cuenten de qué es el live",Otros,,abreviaturas,tiktok-live
+145,"eres lo máximo, amiga!",Otros,,normal,tiktok-live
+146,😍 sos increíble!,Otros,,emojis,tiktok-live
+147,q gran amiga eres!,Otros,,abreviaturas,tiktok-live
+148,"AMIGA, TE AMO!",Otros,,mayusculas,tiktok-live
+149,"holaa, siempre apoyándote",Otros,,letras_repetidas,tiktok-live
+150,saludos desde Cotoca!,Otros,,normal,tiktok-live
+151,holaaa de la Pampa de la Isla,Otros,,letras_repetidas,tiktok-live
+152,"hola x ahí, soy de Warnes!",Otros,,abreviaturas,tiktok-live
+153,muy buenas desde el 4to anillo 👋,Otros,,emojis,tiktok-live
+154,"Saludos desde Urubó, un abrazo!",Otros,,normal,tiktok-live
+155,Hola desde Cotoca 🥳,Otros,,emojis,tiktok-live
+156,Saludos a todos desde el 2do anillo!,Otros,,normal,tiktok-live
+157,Holaaa desde La Guardia 🤗,Otros,,letras_repetidas,tiktok-live
+158,"Saludos desde Warnes, gente!",Otros,,normal,tiktok-live
+159,"Hola, saludos desde la Pampa de la Isla!",Otros,,normal,tiktok-live
+160,sos lo mejor! 😍,Otros,,emojis,tiktok-live
+161,"q buen contenido, sigue así!",Otros,,abreviaturas,tiktok-live
+162,me gusta mucho lo que haces!,Otros,,normal,tiktok-live
+163,"holaaa, me encanta tu estilo!",Otros,,letras_repetidas,tiktok-live
+164,"te sigo siempre, todo lo que subes es genial",Otros,,normal,tiktok-live
+165,"hermosa la bolsa, pero no es mi estilo",Otros,accesorios,normal,tiktok-live
+166,muy bonita la cartera xain!,Otros,accesorios,abreviaturas,tiktok-live
+167,"😻 pura belleza la cartera, pero no es pa' mí",Otros,accesorios,emojis,tiktok-live
+168,que linda cartera! pero no creo que me quede,Otros,accesorios,normal,tiktok-live
+169,👌👌 me encanta!!! pero no me queda,Otros,accesorios,letras_repetidas,tiktok-live
+170,"jajaja, yo quiero uno!!",Otros,,letras_repetidas,tiktok-live
+171,un regalito porfa 😁,Otros,,emojis,tiktok-live
+172,xq no me regalas uno??,Otros,,abreviaturas,tiktok-live
+173,"jajajaja, sería genial tener uno!",Otros,,normal,tiktok-live
+174,"me muero por uno, regálame plis",Otros,,mixto,tiktok-live
+175,"nunca había visto tu live, hola!",Otros,,normal,tiktok-live
+176,"holaaa, primera vez aquí xfa",Otros,,letras_repetidas,tiktok-live
+177,"q chévere, soy nuevo por aquí!",Otros,,abreviaturas,tiktok-live
+178,"wuao, primera vez que te miro, saludos!",Otros,,normal,tiktok-live
+179,"🔥 primera vez en tu live, me gusta!",Otros,,emojis,tiktok-live
+180,Hola desde Pampa de la Isla! 👋,Otros,,normal,tiktok-live
+181,🔥🔥 Buenísimo este live!,Otros,,emojis,tiktok-live
+182,"😱 Qué genial todo, me encanta!",Otros,,emojis,tiktok-live
+183,Saludos desde Cotoca!!,Otros,,normal,tiktok-live
+184,Aaaamo estas cosas!! 💖💖,Otros,,letras_repetidas,tiktok-live
+185,waw qué linda!,Otros,,normal,tiktok-live
+186,👑 hermosa!,Otros,,emojis,tiktok-live
+187,muy bonitaaa!,Otros,,letras_repetidas,tiktok-live
+188,saludos desde el 2do anillo,Otros,,normal,tiktok-live
+189,🔥🔥 bellísima,Otros,,emojis,tiktok-live
+190,soy tu fan desde hace rato 👏,Otros,,emojis,tiktok-live
+191,te sigo desde hace un buen tiempo,Otros,,normal,tiktok-live
+192,ya tengo tiempo siguiéndote 😍,Otros,,emojis,tiktok-live
