@@ -36,7 +36,9 @@ nlp:
   # El "no" va entre comillas para que YAML no lo interprete como false.
   keep_words: ["no", "ni", "nunca", "jamás", "nada", "tampoco", "sin",
                "sí", "si", "yo", "me", "tú", "quiero", "quieres",
-               "muy", "más", "menos", "poco", "mucho", "caro", "barato"]
+               "mio", "mío", "mia", "mía", "nuestro", "nuestra",
+               "muy", "más", "menos", "poco", "mucho", "caro", "barato",
+               "bs", "boliviano", "bolivianos"]
   # Palabras del dominio que agregamos como stop words porque aparecen en todas
   # las clases y son ruido (saludos, interjecciones).
   extra_stopwords: ["jaja", "jajaja", "jeje", "wow", "amigo", "amiga", "gente"]

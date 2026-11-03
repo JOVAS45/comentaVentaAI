@@ -1,6 +1,7 @@
 """Acceso a PostgreSQL. El esquema vive en db/init.sql."""
 
 import json
+import time
 from functools import lru_cache
 
 import pandas as pd
@@ -28,6 +29,26 @@ def is_available() -> bool:
         return True
     except Exception:
         return False
+
+
+def wait_for_db(timeout_seconds: int = 30, intervalo: float = 1.5) -> bool:
+    """Espera a que PostgreSQL acepte conexiones. Útil al arranque, cuando el
+    healthcheck de Docker ya pasó pero la primera conexión real todavía falla."""
+    engine = get_engine()
+    if engine is None:
+        return False
+    inicio = time.time()
+    ultimo_error = None
+    while time.time() - inicio < timeout_seconds:
+        try:
+            with engine.connect() as conn:
+                conn.execute(text("SELECT 1"))
+            return True
+        except Exception as e:  # noqa: BLE001
+            ultimo_error = e
+            time.sleep(intervalo)
+    print(f"[db] timeout esperando PostgreSQL ({timeout_seconds}s): {ultimo_error}")
+    return False
 
 
 def count_comentarios(engine: Engine) -> int:

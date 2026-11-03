@@ -39,6 +39,8 @@ def main() -> None:
     engine = db.get_engine()
     if engine is None:
         print("[2/3] Sin DATABASE_URL: se entrena directamente desde el CSV")
+    elif not db.wait_for_db():
+        sys.exit("[2/3] PostgreSQL no responde; abortando.")
     elif args.reload_data or db.count_comentarios(engine) == 0:
         raw = pd.read_csv(csv_path)
         db.replace_comentarios(engine, raw)
